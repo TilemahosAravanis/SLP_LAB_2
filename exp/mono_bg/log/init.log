@@ -1,0 +1,82 @@
+# gmm-init-mono --shared-phones=./data/lang_test_bg/phones/sets.int "--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:./data/train/split4/1/utt2spk scp:./data/train/split4/1/cmvn.scp scp:./data/train/split4/1/feats.scp ark:- | add-deltas  ark:- ark:- | subset-feats --n=10 ark:- ark:-|" ./data/lang_test_bg/topo 39 ./exp/mono_bg/0.mdl ./exp/mono_bg/tree 
+# Started at Fri May 19 00:22:55 EEST 2023
+#
+gmm-init-mono --shared-phones=./data/lang_test_bg/phones/sets.int '--train-feats=ark,s,cs:apply-cmvn  --utt2spk=ark:./data/train/split4/1/utt2spk scp:./data/train/split4/1/cmvn.scp scp:./data/train/split4/1/feats.scp ark:- | add-deltas  ark:- ark:- | subset-feats --n=10 ark:- ark:-|' ./data/lang_test_bg/topo 39 ./exp/mono_bg/0.mdl ./exp/mono_bg/tree 
+subset-feats --n=10 ark:- ark:- 
+apply-cmvn --utt2spk=ark:./data/train/split4/1/utt2spk scp:./data/train/split4/1/cmvn.scp scp:./data/train/split4/1/feats.scp ark:- 
+add-deltas ark:- ark:- 
+ERROR (add-deltas[5.5.1074~1-71f3]:Write():kaldi-matrix.cc:1407) Failed to write matrix to stream
+
+[ Stack-Trace: ]
+/home/anthi/jupyter/kaldi/src/lib/libkaldi-base.so(kaldi::MessageLogger::LogMessage() const+0xaa8) [0x7fc8e2ba4e0a]
+add-deltas(kaldi::MessageLogger::LogAndThrow::operator=(kaldi::MessageLogger const&)+0x21) [0x564a0f78c87b]
+/home/anthi/jupyter/kaldi/src/lib/libkaldi-matrix.so(kaldi::MatrixBase<float>::Write(std::ostream&, bool) const+0x2dc) [0x7fc8e2beed14]
+add-deltas(kaldi::TableWriterArchiveImpl<kaldi::KaldiObjectHolder<kaldi::MatrixBase<float> > >::Write(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, kaldi::MatrixBase<float> const&)+0x242) [0x564a0f78e4e6]
+add-deltas(main+0x42b) [0x564a0f78bb5b]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7fc8e279b083]
+add-deltas(_start+0x2e) [0x564a0f78b62e]
+
+WARNING (add-deltas[5.5.1074~1-71f3]:Write():util/kaldi-holder-inl.h:57) Exception caught writing Table object. kaldi::KaldiFatalError
+WARNING (add-deltas[5.5.1074~1-71f3]:Write():util/kaldi-table-inl.h:1057) Write failure to standard output
+ERROR (add-deltas[5.5.1074~1-71f3]:Write():util/kaldi-table-inl.h:1515) Error in TableWriter::Write
+
+[ Stack-Trace: ]
+/home/anthi/jupyter/kaldi/src/lib/libkaldi-base.so(kaldi::MessageLogger::LogMessage() const+0xaa8) [0x7fc8e2ba4e0a]
+add-deltas(kaldi::MessageLogger::LogAndThrow::operator=(kaldi::MessageLogger const&)+0x21) [0x564a0f78c87b]
+add-deltas(main+0x4a0) [0x564a0f78bbd0]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7fc8e279b083]
+add-deltas(_start+0x2e) [0x564a0f78b62e]
+
+WARNING (add-deltas[5.5.1074~1-71f3]:Close():util/kaldi-table-inl.h:1089) Error closing stream: wspecifier is ark:-
+ERROR (add-deltas[5.5.1074~1-71f3]:~TableWriter():util/kaldi-table-inl.h:1539) Error closing TableWriter [in destructor].
+
+[ Stack-Trace: ]
+/home/anthi/jupyter/kaldi/src/lib/libkaldi-base.so(kaldi::MessageLogger::LogMessage() const+0xaa8) [0x7fc8e2ba4e0a]
+add-deltas(kaldi::MessageLogger::LogAndThrow::operator=(kaldi::MessageLogger const&)+0x21) [0x564a0f78c87b]
+add-deltas(kaldi::TableWriter<kaldi::KaldiObjectHolder<kaldi::MatrixBase<float> > >::~TableWriter()+0x89) [0x564a0f791c8b]
+add-deltas(main+0x5f2) [0x564a0f78bd22]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7fc8e279b083]
+add-deltas(_start+0x2e) [0x564a0f78b62e]
+
+terminate called after throwing an instance of 'kaldi::KaldiFatalError'
+  what():  kaldi::KaldiFatalError
+Aborted (core dumped)
+ERROR (apply-cmvn[5.5.1074~1-71f3]:Write():kaldi-matrix.cc:1407) Failed to write matrix to stream
+
+[ Stack-Trace: ]
+/home/anthi/jupyter/kaldi/src/lib/libkaldi-base.so(kaldi::MessageLogger::LogMessage() const+0xaa8) [0x7f17eb709e0a]
+apply-cmvn(kaldi::MessageLogger::LogAndThrow::operator=(kaldi::MessageLogger const&)+0x21) [0x55f25b04b6db]
+/home/anthi/jupyter/kaldi/src/lib/libkaldi-matrix.so(kaldi::MatrixBase<float>::Write(std::ostream&, bool) const+0x2dc) [0x7f17eb753d14]
+apply-cmvn(kaldi::KaldiObjectHolder<kaldi::MatrixBase<float> >::Write(std::ostream&, bool, kaldi::MatrixBase<float> const&)+0x54) [0x55f25b056f48]
+apply-cmvn(kaldi::TableWriterArchiveImpl<kaldi::KaldiObjectHolder<kaldi::MatrixBase<float> > >::Write(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, kaldi::MatrixBase<float> const&)+0x16c) [0x55f25b0571a4]
+apply-cmvn(main+0xa8c) [0x55f25b04932c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f17eb300083]
+apply-cmvn(_start+0x2e) [0x55f25b04879e]
+
+WARNING (apply-cmvn[5.5.1074~1-71f3]:Write():util/kaldi-holder-inl.h:57) Exception caught writing Table object. kaldi::KaldiFatalError
+WARNING (apply-cmvn[5.5.1074~1-71f3]:Write():util/kaldi-table-inl.h:1057) Write failure to standard output
+ERROR (apply-cmvn[5.5.1074~1-71f3]:Write():util/kaldi-table-inl.h:1515) Error in TableWriter::Write
+
+[ Stack-Trace: ]
+/home/anthi/jupyter/kaldi/src/lib/libkaldi-base.so(kaldi::MessageLogger::LogMessage() const+0xaa8) [0x7f17eb709e0a]
+apply-cmvn(kaldi::MessageLogger::LogAndThrow::operator=(kaldi::MessageLogger const&)+0x21) [0x55f25b04b6db]
+apply-cmvn(main+0xaec) [0x55f25b04938c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f17eb300083]
+apply-cmvn(_start+0x2e) [0x55f25b04879e]
+
+WARNING (apply-cmvn[5.5.1074~1-71f3]:Close():util/kaldi-table-inl.h:1089) Error closing stream: wspecifier is ark:-
+ERROR (apply-cmvn[5.5.1074~1-71f3]:~TableWriter():util/kaldi-table-inl.h:1539) Error closing TableWriter [in destructor].
+
+[ Stack-Trace: ]
+/home/anthi/jupyter/kaldi/src/lib/libkaldi-base.so(kaldi::MessageLogger::LogMessage() const+0xaa8) [0x7f17eb709e0a]
+apply-cmvn(kaldi::MessageLogger::LogAndThrow::operator=(kaldi::MessageLogger const&)+0x21) [0x55f25b04b6db]
+apply-cmvn(kaldi::TableWriter<kaldi::KaldiObjectHolder<kaldi::MatrixBase<float> > >::~TableWriter()+0x89) [0x55f25b0529fd]
+apply-cmvn(main+0xc1d) [0x55f25b0494bd]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f17eb300083]
+apply-cmvn(_start+0x2e) [0x55f25b04879e]
+
+terminate called after throwing an instance of 'kaldi::KaldiFatalError'
+  what():  kaldi::KaldiFatalError
+Aborted (core dumped)
+# Accounting: time=0 threads=1
+# Ended (code 0) at Fri May 19 00:22:55 EEST 2023, elapsed time 0 seconds
