@@ -1,20 +1,20 @@
 # gmm-acc-stats-ali ./exp/mono_bg/3.mdl "ark,s,cs:apply-cmvn  --utt2spk=ark:./data/train/split4/4/utt2spk scp:./data/train/split4/4/cmvn.scp scp:./data/train/split4/4/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:gunzip -c ./exp/mono_bg/ali.4.gz|" ./exp/mono_bg/3.4.acc 
-# Started at Fri May 19 00:23:36 EEST 2023
+# Started at Fri May 19 14:10:54 EEST 2023
 #
 gmm-acc-stats-ali ./exp/mono_bg/3.mdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:./data/train/split4/4/utt2spk scp:./data/train/split4/4/cmvn.scp scp:./data/train/split4/4/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:gunzip -c ./exp/mono_bg/ali.4.gz|' ./exp/mono_bg/3.4.acc 
-add-deltas ark:- ark:- 
 apply-cmvn --utt2spk=ark:./data/train/split4/4/utt2spk scp:./data/train/split4/4/cmvn.scp scp:./data/train/split4/4/feats.scp ark:- 
-LOG (gmm-acc-stats-ali[5.5.1074~1-71f3]:main():gmm-acc-stats-ali.cc:105) Processed 50 utterances; for utterance m3_070 avg. like is -90.2837 over 437 frames.
-LOG (gmm-acc-stats-ali[5.5.1074~1-71f3]:main():gmm-acc-stats-ali.cc:105) Processed 100 utterances; for utterance m3_140 avg. like is -91.9398 over 447 frames.
-WARNING (gmm-acc-stats-ali[5.5.1074~1-71f3]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance m3_160
-WARNING (gmm-acc-stats-ali[5.5.1074~1-71f3]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance m3_198
-LOG (gmm-acc-stats-ali[5.5.1074~1-71f3]:main():gmm-acc-stats-ali.cc:105) Processed 150 utterances; for utterance m3_212 avg. like is -91.3644 over 465 frames.
-LOG (gmm-acc-stats-ali[5.5.1074~1-71f3]:main():gmm-acc-stats-ali.cc:105) Processed 200 utterances; for utterance m3_282 avg. like is -91.861 over 657 frames.
-LOG (gmm-acc-stats-ali[5.5.1074~1-71f3]:main():gmm-acc-stats-ali.cc:105) Processed 250 utterances; for utterance m3_350 avg. like is -92.7842 over 345 frames.
-LOG (gmm-acc-stats-ali[5.5.1074~1-71f3]:main():gmm-acc-stats-ali.cc:105) Processed 300 utterances; for utterance m3_420 avg. like is -90.0574 over 358 frames.
-LOG (apply-cmvn[5.5.1074~1-71f3]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 331 utterances, errors on 0
-LOG (gmm-acc-stats-ali[5.5.1074~1-71f3]:main():gmm-acc-stats-ali.cc:112) Done 329 files, 2 with errors.
-LOG (gmm-acc-stats-ali[5.5.1074~1-71f3]:main():gmm-acc-stats-ali.cc:115) Overall avg like per frame (Gaussian only) = -90.3552 over 148979 frames.
-LOG (gmm-acc-stats-ali[5.5.1074~1-71f3]:main():gmm-acc-stats-ali.cc:123) Written accs.
+add-deltas ark:- ark:- 
+LOG (gmm-acc-stats-ali[5.5.1071~1-19185]:main():gmm-acc-stats-ali.cc:105) Processed 50 utterances; for utterance m3_070 avg. like is -90.2837 over 437 frames.
+LOG (gmm-acc-stats-ali[5.5.1071~1-19185]:main():gmm-acc-stats-ali.cc:105) Processed 100 utterances; for utterance m3_140 avg. like is -91.9398 over 447 frames.
+WARNING (gmm-acc-stats-ali[5.5.1071~1-19185]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance m3_160
+WARNING (gmm-acc-stats-ali[5.5.1071~1-19185]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance m3_198
+LOG (gmm-acc-stats-ali[5.5.1071~1-19185]:main():gmm-acc-stats-ali.cc:105) Processed 150 utterances; for utterance m3_212 avg. like is -91.3644 over 465 frames.
+LOG (gmm-acc-stats-ali[5.5.1071~1-19185]:main():gmm-acc-stats-ali.cc:105) Processed 200 utterances; for utterance m3_282 avg. like is -91.861 over 657 frames.
+LOG (gmm-acc-stats-ali[5.5.1071~1-19185]:main():gmm-acc-stats-ali.cc:105) Processed 250 utterances; for utterance m3_350 avg. like is -92.7842 over 345 frames.
+LOG (gmm-acc-stats-ali[5.5.1071~1-19185]:main():gmm-acc-stats-ali.cc:105) Processed 300 utterances; for utterance m3_420 avg. like is -90.0574 over 358 frames.
+LOG (apply-cmvn[5.5.1071~1-19185]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 331 utterances, errors on 0
+LOG (gmm-acc-stats-ali[5.5.1071~1-19185]:main():gmm-acc-stats-ali.cc:112) Done 329 files, 2 with errors.
+LOG (gmm-acc-stats-ali[5.5.1071~1-19185]:main():gmm-acc-stats-ali.cc:115) Overall avg like per frame (Gaussian only) = -90.3552 over 148979 frames.
+LOG (gmm-acc-stats-ali[5.5.1071~1-19185]:main():gmm-acc-stats-ali.cc:123) Written accs.
 # Accounting: time=1 threads=1
-# Ended (code 0) at Fri May 19 00:23:37 EEST 2023, elapsed time 1 seconds
+# Ended (code 0) at Fri May 19 14:10:55 EEST 2023, elapsed time 1 seconds

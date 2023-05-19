@@ -1,0 +1,1468 @@
+f1_001 ref  sil  dh  ih  s   w   ao  z  iy  z  iy  f   r   er  ah  s  sil
+f1_001 hyp  sil  dh  ih  s  ***  ah  z  iy  z  iy  f  ***  er  aa  s  ***
+f1_001 op    C    C   C  C   D    S  C   C  C   C  C   D    C   S  C   D 
+f1_001 #csid 11 2 0 3
+f1_006 ref  sil  w  ay  y   eh  l   ao   r  w  er  iy  ow  v  er  s  ih  l  iy  ay  t  ah  m  z  sil
+f1_006 hyp  ***  w  ay  y  ***  l  ***  ow  w   r  iy  ah  b  er  s  ah  l  iy  ay  d  aw  n  z  ***
+f1_006 op    D   C   C  C   D   C   D    S  C   S   C   S  S   C  C   S  C   C   C  S   S  S  C   D 
+f1_006 #csid 12 8 0 4
+f1_011 ref  sil  s  w   ih   ng   y   ao  r   aa  r   m    ae  z  hh  ay   ae  z   y   uw  k  ae  n  sil
+f1_011 hyp  sil  s  w  ***  ***  ***  iy  r  ***  r  ***  ***  n   s  ay  ***  z  ***  iy  p  ah  n  ***
+f1_011 op    C   C  C   D    D    D    S  C   D   C   D    D   S   S   C   D   C   D    S  S   S  C   D 
+f1_011 #csid 8 6 0 9
+f1_016 ref  sil  ae  l   ah  m  ow  n  iy  hh   aa  r   m  z  ah  d  ih  v  ao  r  s   t    m   ae  n  z  w   eh  l   th  sil
+f1_016 hyp  ***  ae  l  ***  m  ao  m  iy  hh  ***  r  eh  z  ah  d  ah  b  ao  r  s  ***  ***  iy  n  s  w  ***  l  ***  sil
+f1_016 op    D    C  C   D   C   S  S   C   C   D   C   S  C   C  C   S  S   C  C  C   D    D    S  C  S  C   D   C   D    C 
+f1_016 #csid 16 7 0 7
+f1_021 ref  sil   ow   n  l  iy  l   ao   y   er   z  l  ah   v    m    ih  l   y    ah  n  eh  r   z  sil
+f1_021 hyp  sil  ***  aa  m  iy  l  ***  ***  ay  eh  s  ah  ***  ***  ***  l  ***  ***  n  ow  n  ah   s 
+f1_021 op    C    D    S  S   C  C   D    D    S   S  S   C   D    D    D   C   D    D   C   S  S   S   S 
+f1_021 #csid 6 9 0 8
+f1_026 ref  sil  d   ow   n   t  d  uw  ch  aa   r  l  iy  z  d  er  t  iy  d  ih  sh  ah  z  sil
+f1_026 hyp  ***  d  ***  ah  ng  d  uw  ch   r  ah  v  iy  z  d  eh  d  iy  d  eh  sh  ah  z  ***
+f1_026 op    D   C   D    S   S  C   C   C   S   S  S   C  C  C   S  S   C  C   S   C   C  C   D 
+f1_026 #csid 12 8 0 3
+f1_031 ref  sil  b   aa  r   b    z   g  ow  l   d   b  r  ey  s  l   ah   t    w   ao  z  ah  g  r   ae  jh  uw  ey  sh   ah  n   p  r   eh  z  ah  n   t   sil
+f1_031 hyp  ***  b  ***  r  ***  ***  s  ah  l  ***  p  r  ey  s  l  ***  ***  ***   l  z  ih  k  r  ***  jh  uw  iy  sh  ***  n  hh  r  ***  z  ah  n  ***  sil
+f1_031 op    D   C   D   C   D    D   S   S  C   D   S  C   C  C  C   D    D    D    S  C   S  S  C   D    C   C   S   C   D   C   S  C   D   C   C  C   D    C 
+f1_031 #csid 18 8 0 12
+f1_036 ref  sil   b  ae  s   k   ah   t   b  ao   l   k   ae  n   b   iy   ae  n   eh   n  t  er  t  ey   n    ih  ng  s   p   ao  r   t   sil
+f1_036 hyp  sil  dh  eh  s  ***  ah  ***  b  ao  ***  k  ***  n  ***  iy  ***  n  ***  ih  t  er  t  ey  ***  ***  ng  s  ***  ao  r  ***  ***
+f1_036 op    C    S   S  C   D    C   D   C   C   D   C   D   C   D    C   D   C   D    S  C   C  C   C   D    D    C  C   D    C  C   D    D 
+f1_036 #csid 17 3 0 12
+f1_041 ref  sil  ae   m    b   ah   d    eh   k   s   t   r  ah  s  p  ih   k   p  aa   k    ah   t   s  ah  k  aa   m    p   l  ih  sh  m  ao   r  sil
+f1_041 hyp  sil  ae  ***  ***  ah  ***  ***  ***  b  ae  sh  ih  s  p  ih  ***  p  aa  ***  ***  dh  ih   d  k  aa  ***  ***  b  ih  sh  m  ao  er  sil
+f1_041 op    C    C   D    D    C   D    D    D   S   S   S   S  C  C   C   D   C   C   D    D    S   S   S  C   C   D    D   S   C   C  C   C   S   C 
+f1_041 #csid 15 9 0 10
+f1_046 ref  sil   dh  iy  p  r   aw  l   er   w  ao  r   ah  s   k   iy   m  ae  s  k   f   r   er  d  ih  s   g  ay  z  sil
+f1_046 hyp  sil  ***  ih  p  r  ***  l  ***  ow  ao  r  ***  s  ***  iy  uw  ae  s  k  ***  r  ***  d  ih  s  ae  ay  z  ***
+f1_046 op    C    D    S  C  C   D   C   D    S   C  C   D   C   D    C   S   C  C  C   D   C   D   C   C  C   S   C  C   D 
+f1_046 #csid 17 4 0 8
+f1_051 ref  sil  eh  n  iy   k   aa  n   t    r  ah   b   y  uw  sh  ah  n  z   w    ih   l    b  iy   g   r   ey   t  l  iy   ah  p  r  iy  sh   iy  ey   t   ih   d  sil
+f1_051 hyp  sil  eh  n  iy  ***  ah  n  ***  jh  ah  ***  g  iy  sh  ah  n  z  ***  ***  ***  ow  iy  ***  r  ***  iy  l  iy  ***  p  r  iy  sh  ***  ey  ***   d  ah   t 
+f1_051 op    C    C  C   C   D    S  C   D    S   C   D   S   S   C   C  C  C   D    D    D    S   C   D   C   D    S  C   C   D   C  C   C   C   D    C   D    S   S   S 
+f1_051 #csid 19 9 0 11
+f1_056 ref  sil  l  ae  s   t    y   ih   r   z  g  ae   s   sh   ao   r  t  ah  jh  k   aa   z    d  s   t   iy   p   p  r  ay  s  ih   n  k   r   iy  s  ah  z  sil
+f1_056 hyp  ***  w  ae  s  ***  ***  ih  ***  s  g  ae  ***  sh  ***  er  d  ih  ch  k  ***  ***  eh  s  ***  iy  ***  p  r  ey  s  ih  ng  k  ***  iy  s  ah  z  ***
+f1_056 op    D   S   C  C   D    D    C   D   S  C   C   D    C   D    S  S   S   S  C   D    D    S  C   D    C   D   C  C   S  C   C   S  C   D    C  C   C  C   D 
+f1_056 #csid 18 9 0 12
+f1_061 ref  sil  k   l    ih   f  s  d  ih  s   p  l   ey   w    ao  z   m   ih  s  p  l  ey  s   t    aa   n   dh  iy  s  k  r   iy   n  sil
+f1_061 hyp  ***  k  ***  ***  eh  s  d  ih  s  oy  l  ***  ***  ***  z  ***  ih  s  p  l  ey  s  ***  ***  ***  ah   m  s  k  r  ***  ng  sil
+f1_061 op    D   C   D    D    S  C  C   C  C   S  C   D    D    D   C   D    C  C  C  C   C  C   D    D    D    S   S  C  C  C   D    S   C 
+f1_061 #csid 17 5 0 11
+f1_066 ref  sil   d  aa  k  t  er  z  p  r   ah  s   k   r  ay   b   d  r   ah   g   z  t  uw  f  r  iy  l  iy  sil
+f1_066 hyp  sil  dh  eh  k  t  ih  s  f  r  ***  s  ***  r  ay  ***  g  r  ***  ***  s  t  uw  z  r  iy  l  iy  ***
+f1_066 op    C    S   S  C  C   S  S  S  C   D   C   D   C   C   D   S  C   D    D   S  C   C  S  C   C  C   C   D 
+f1_066 #csid 14 8 0 6
+f1_071 ref  sil  k  w  ao  p  er  ey  sh   ah  n   ah  l   ao   ng  w  ih  th  ah  n   d   er  s   t   ae  n  d   ih   ng  ah  l  iy  v  iy   ey  t   d    ih  s  p  y   uw   t   sil
+f1_071 hyp  ***  k  w  aa  k   r  ey  sh  ***  n  ***  l  ***  ***  n  ae   f  eh  n  ***  er  s  ***  ae  n  d  ***  ***  iy  l  iy  v  iy  ***  t  ***  ***  s  b  y  ***  ***   d 
+f1_071 op    D   C  C   S  S   S   C   C   D   C   D   C   D    D   S   S   S   S  C   D    C  C   D    C  C  C   D    D    S  C   C  C   C   D   C   D    D   C  S  C   D    D    S 
+f1_071 #csid 19 10 0 14
+f1_076 ref  sil  dh  iy  th  ih  ng   k    er  ih  z  ah  f  ey   m    ah  s  s   k   ah   l  p  ch  er  sil
+f1_076 hyp  ***  dh  ah  th  ih  ng  ***  ***   r  z  ah  t  ey  ***  ***  n  s  ***   p  aa  p  ch  er  ***
+f1_076 op    D    C   S   C   C   C   D    D    S  C   C  S   C   D    D   S  C   D    S   S  C   C   C   D 
+f1_076 #csid 11 6 0 7
+f1_081 ref  sil  m  ae  s   k    er  ey   d  p   aa  r   t   iy  z  t   ae   k  s   w   ah  n  z  ih  m  ae  jh  ah   n   ey  sh  ah  n  sil
+f1_081 hyp  ***  k  ae  s  ***  ***   r  iy  p  ***  r  ***  iy  s  t  ***  aa  s  ***  ah  n  t  ah  m  aa  sh  ah  ***  iy  sh  ah  n  ***
+f1_081 op    D   S   C  C   D    D    S   S  C   D   C   D    C  S  C   D    S  C   D    C  C  S   S  C   S   S   C   D    S   C   C  C   D 
+f1_081 #csid 14 10 0 9
+f1_086 ref  sil  k  ih   n   d   er   g   aa  r  t   ah   n   ch   ih   l  d   r   ah  n  d  eh  k   er  ey   t  dh   eh  r  k   l   ae  s   r   uw  m  z  f  r  er  ao  l  hh  aa  l  ah  d  ey  z  sil
+f1_086 hyp  ***  k  ih  ***  d  ***  ***  ih  r  t  ***  ***  ch  ***  ow  d  ***  eh  n  d  eh  k  ***   w  iy  dh  ***  r  k  ***  eh  s  ***  er  m  s  f  r  hh  aa  b   l  aa  l  ah  d  ey  z  ***
+f1_086 op    D   C   C   D   C   D    D    S  C  C   D    D    C   D    S  C   D    S  C  C   C  C   D    S   S   C   D   C  C   D    S  C   D    S  C  S  C  C   S   S  S   S   C  C   C  C   C  C   D 
+f1_086 #csid 24 12 0 13
+f1_091 ref  sil  ah   hh  y  uw  jh  t  ae  p  ah  s  t  r  iy  hh  ah   ng   ih   n    hh  er  hh  ao  l   w   ey  sil
+f1_091 hyp  sil  ah  ***  g  iy  ch  t  ae  p  ih  s  t  r  iy  hh  ah  ***  ***  ***  ***   m   r   m  l  ***  ay   n 
+f1_091 op    C    C   D   S   S   S  C   C  C   S  C  C  C   C   C   C   D    D    D    D    S   S   S  C   D    S   S 
+f1_091 #csid 12 9 0 6
+f1_096 ref  sil  hh  ih   z   s   ah   d   ah  n   d   ih   p  aa  r  ch  er  ***  sh  aa   k    t   dh   iy  k  ae  s   t   sil
+f1_096 hyp  sil  hh  ih  ***  s  ***  ***  aa  n  ***   b  eh   k  r  jh  er   s   sh  aa  ***  ***  dh  ***  k  ae  s  ***  sil
+f1_096 op    C    C   C   D   C   D    D    S  C   D    S   S   S  C   S   C   I    C   C   D    D    C   D   C   C  C   D    C 
+f1_096 #csid 14 5 1 8
+f1_101 ref  sil  k   l   ae  s   p    dh  iy  s   k    r    uw  ih  n  y   ao  r  l   eh   f  t   hh  ae  n   d   sil
+f1_101 hyp  ***  k  ***  eh  s  ***  ***  ah  s  ***  ***  ***  er  n  y  ***  r  l  ***  aa  t  ***  ah  n  ***  sil
+f1_101 op    D   C   D    S  C   D    D    S  C   D    D    D    S  C  C   D   C  C   D    S  C   D    S  C   D    C 
+f1_101 #csid 10 5 0 11
+f1_106 ref  sil  t   r   eh  s   p   ae  s   ih   ng  ih  z  f   ao   r  b  ih  d   ah  n   ah  n   d   s  ah   b   jh  eh  k   t   t  uw  p   eh   n   ah  l  t  iy  sil
+f1_106 hyp  ***  t  ***  eh  s  ***  eh  s  ***  ***  ih  z  f  ***  er  v  ih  d  ***  n  ***  n  ***  s  ah  ***  jh  eh  k  ***  t  ah  p  ***  ***  ae  l  t  ey   ng
+f1_106 op    D   C   D    C  C   D    S  C   D    D    C  C  C   D    S  S   C  C   D   C   D   C   D   C   C   D    C   C  C   D   C   S  C   D    D    S  C  C   S   S 
+f1_106 #csid 20 7 0 13
+f1_111 ref  sil   aa  r   t   ah  f  ih  sh   ah   l   ih  n  t   eh   l   ah  jh  ah  n  s  ih  z  f   r    er  r  iy  l  sil
+f1_111 hyp  ***  ***  r  ***  ih  v  ih  sh  ***  ***  ao  n  t  ***  ***  aa   z  ey  n  s  ah  z  f  ***  ***  r  iy  l  ***
+f1_111 op    D    D   C   D    S  S   C   C   D    D    S  C  C   D    D    S   S   S  C  C   S  C  C   D    D   C   C  C   D 
+f1_111 #csid 12 7 0 10
+f1_116 ref  sil  w   iy   p  l  ae  n  t  uw  b  ih  l  d  ah  n  ***  uw  b  eh   v   er  ih  jh  p  l  ae   n    t   sil
+f1_116 hyp  ***  w  ***  ih  k  ah  n  s  ah  b  eh  l  d  ih  n   y   uw  b  eh  ***   k   r  jh  p  r  ae  ***  ***  ***
+f1_116 op    D   C   D    S  S   S  C  S   S  C   S  C  C   S  C   I    C  C   C   D    S   S   C  C  S   C   D    D    D 
+f1_116 #csid 12 10 1 6
+f1_121 ref  sil  s  ay   ah   n  t  ih  f  ih   k   p  r   ow   g  r  eh  s  k  ah   m    z    f  r  ah   m    dh   iy  d   ih   v  eh  l  ah   p   m   ah  n   t   ah   v   n  uw  t  eh  k  n  iy   k   s  sil
+f1_121 hyp  ***  s  ay  ***  ng  s  ah  b  ih  ***  p  r  ***  aa  w  eh  s  p  ah  ***  ***  ch  n  ah  ***  ***  ***  d  ***  ah  eh  l  ah  ***  m  ***  n  ***  ah  ***  k  iy  t  ah  k  m  iy  ***  s  ***
+f1_121 op    D   C   C   D    S  S   S  S   C   D   C  C   D    S  S   C  C  S   C   D    D    S  S   C   D    D    D   C   D    S   C  C   C   D   C   D   C   D    C   D   S   S  C   S  C  S   C   D   C   D 
+f1_121 #csid 20 14 0 16
+f1_126 ref  sil  w  ih   ch   l  ao   ng  aa   r   t  ah  k  ah  l   w    ao  z  ow  p  ey   k    ah   n    d  n  iy   d    ah   d  k   l    eh   r   ah  f  ah  k  ey  sh  ah  n  sil
+f1_126 hyp  sil  w  ih  ***  sh  ao  ***  aa  ***  t  ah  k  ah  l  ***  ***  z  ow  p  ey  ***  ***  ***  ih  n  iy  ***  ***  uw  k  ***  ***  ***  aa  f  ih  k  ey  sh  ah  n  ***
+f1_126 op    C   C   C   D    S   C   D    C   D   C   C  C   C  C   D    D   C   C  C   C   D    D    D    S  C   C   D    D    S  C   D    D    D    S  C   S  C   C   C   C  C   D 
+f1_126 #csid 23 5 0 14
+f1_131 ref  sil  k   er   eh  k  t  eh  k  s  ah  k  y  uw  sh   ah  n  ah  v  m   ay  ih  n   s  t  r   ah   k   sh  ah   n   z   ih  z  k   r   uw  sh  ah  l  sil
+f1_131 hyp  sil  k  ***  ***  r  p  eh  k  s  ah  k  y  ih  sh  ***  n  eh  f  m  ***  ey  n  sh  t  r  ***  ***  sh  ah  ***  z  ***  z  k  ***  er  sh  ah  l  ***
+f1_131 op    C   C   D    D   S  S   C  C  C   C  C  C   S   C   D   C   S  S  C   D    S  C   S  C  C   D    D    C   C   D   C   D   C  C   D    S   C   C  C   D 
+f1_131 #csid 22 8 0 10
+f1_136 ref  sil   m   ah  s   k   iy   t   ow  z  ih   g   z  ih  s   t    ih   n   w  ao  r  m  y   uw  m   ih   d  k   l   ay  m  ah  t  s  sil
+f1_136 hyp  sil  ***  ah  s  ***  iy  ***  ow  z  ih  ***  z  ih  s  ***  ***  ah  uw  ao  r  m  y  ***  m  ***  ah  k  ***  ay  n  ah  n  s  ***
+f1_136 op    C    D    C  C   D    C   D    C  C   C   D   C   C  C   D    D    S   S   C  C  C  C   D   C   D    S  C   D    C  S   C  S  C   D 
+f1_136 #csid 19 5 0 10
+f1_141 ref  sil   r    iy   m  uw  v   dh  iy  s   p   l   ih  n  t  er  w  ih  th  ah  p  eh  r   ah  v  t  w  iy  z  ***  er  z  sil
+f1_141 hyp  sil  ***  ***  er  ow  v  ***  ih  s  ***  l  ***  n  t  er  v  ih   z  ah  p  er  r  ***  s  t  w  iy  z   ih  er  z  ***
+f1_141 op    C    D    D    S   S  C   D    S  C   D   C   D   C  C   C  S   C   S   C  C   S  C   D   S  C  C   C  C   I    C  C   D 
+f1_141 #csid 17 7 1 7
+f1_146 ref  sil  hh   er  aa   b  er  n   hh   eh   r  r   iy  m  ay   n    d    ah  d   hh   ih  m  ah  v  ao   t  ah  m   l   iy  v  z  sil
+f1_146 hyp  sil  hh  ***   r  ao   r  n  ***  ***  ae  r  ***  m  ay  ***  ***  ***  d  ***  ***  n  ah  f   l  aa  ah  m  ***  iy  d  z  ***
+f1_146 op    C    C   D    S   S   S  C   D    D    S  C   D   C   C   D    D    D   C   D    D   S   C  S   S   S   C  C   D    C  S  C   D 
+f1_146 #csid 12 9 0 11
+f1_151 ref  sil   hh  uw  t   uh   k  dh  iy  k  ay  ae  k  d  aw  n  dh  iy   b  ay  uw  sil
+f1_151 hyp  sil  ***  uw  t  ***  ih  th  ih  k  ay  ae  k  d  eh  n  ah   b  aa  iy  ih   m 
+f1_151 op    C    D    C  C   D    S   S   S  C   C   C  C  C   S  C   S   S   S   S   S   S 
+f1_151 #csid 9 10 0 2
+f1_156 ref  sil   hh  uw  eh  v  er  k   ow  aa   p    er  ey  t   s  ih  n  f  ay  n   d    ih   ng  n  ae  n  z  k  ae  m  iy   ow   w    ih  l  b  iy  r  iy  w   ao  r  d  ih  d  sil
+f1_156 hyp  ***  ***   w   r  k   r  k  ***  aa  ***  ***   v  r  iy   z  n  b  ay  n  ***  ***  ***  n  ae  n  s  k  ae  m  iy  ***  ***  ***  l  b   y  t  er  w  ***  r  d  ah  d  sil
+f1_156 op    D    D    S   S  S   S  C   D    C   D    D    S  S   S   S  C  S   C  C   D    D    D   C   C  C  S  C   C  C   C   D    D    D   C  C   S  S   S  C   D   C  C   S  C   C 
+f1_156 #csid 19 14 0 12
+f1_161 ref  sil  w  iy  k   uh   d  b  eh   r    l  iy  s  iy  dh  iy  f  y   ao  r   d   z   th   r   uw  dh  iy  s   n  ow  f   l  er  iy  z  sil
+f1_161 hyp   n   w  ih  k  ***  uw  b  eh  ***  ah  ey  s  iy   d  ih  f  y  ***  r  ***  z  ***  ***  uw   d  ih  z  eh   l  f  ao   r  iy  z  ***
+f1_161 op    S   C   S  C   D    S  C   C   D    S   S  C   C   S   S  C  C   D   C   D   C   D    D    C   S   S  S   S   S  C   S   S   C  C   D 
+f1_161 #csid 14 14 0 7
+f1_166 ref  sil  dh  iy  k  ae  t   s    m   iy  aw  ao  l   w   ey  z  hh   er  t  s  m  ay  ih   r  z  sil
+f1_166 hyp  sil  dh  iy  k  ae  t  ***  ***  iy  aw   p  l  ***  ih  z  hh  ***  r  s  m  ay  iy  er  z  ***
+f1_166 op    C    C   C  C   C  C   D    D    C   C   S  C   D    S  C   C   D   S  C  C   C   S   S  C   D 
+f1_166 #csid 15 5 0 5
+f1_171 ref  sil   d   ih  s  t  r  oy  eh  v  ***  er  iy  f  ay  l  r   iy  l  ey   t   ih   d   t   uw  m  ay  ***  aa  d  ah  t  s  sil
+f1_171 hyp  ***  ***  ih  s  t  r  ay  ae  v   iy  th   k  f  ay  l  r  ***  v  ey  ***  ih  ***  t  ***  m  ay   y   ao  n  ah  d  s  ***
+f1_171 op    D    D    C  C  C  C   S   S  C   I    S   S  C   C  C  C   D   S   C   D    C   D   C   D   C   C   I    S  S   C  S  C   D 
+f1_171 #csid 16 8 2 7
+f1_176 ref  sil  dh  ey   eh   n   jh   oy  ih   t  w   ih   n    ay  aa  d  ih  sh  ah  n  sil
+f1_176 hyp  ***  dh  ey  ***  ***  jh  ***  ay  ah  w  ***  ***  ***  eh  d  ih  sh  ah  n  ***
+f1_176 op    D    C   C   D    D    C   D    S   S  C   D    D    D    S  C   C   C   C  C   D 
+f1_176 #csid 9 3 0 8
+f1_181 ref  sil   y  ah   ng   ch   ih  l   d   r  ah  n  sh  uh  d  ah  v  oy   d   ih   k  s  p  ow  zh  er  t  uw  k   ah  n  t  ey   jh  ah  s   d   ih  z  iy  z  ah  z  sil
+f1_181 hyp  ***  iy  ah  ***  ***  ***  n  jh  ow   t  n  ch  ah  d  ah  f  oy  ***   t  ey  s  b  ow   d  ah  d  ih  k  ***  n  z  ey  ***  uw  s  ***  uw  z  iy  z  ah  z  ***
+f1_181 op    D    S   C   D    D    D   S   S   S   S  C   S   S  C   C  S   C   D    S   S  C  S   C   S   S  S   S  C   D   C  S   C   D    S  C   D    S  C   C  C   C  C   D 
+f1_181 #csid 16 18 0 9
+f1_186 ref  sil  iy   v    ih  n  ay   ah  k  ey   zh   ah   n  l  iy   g   eh   t   dh  iy  m  ah  n   d   iy  b  l  uw  z  sil
+f1_186 hyp  ***  iy  ***  ***  n  ay  ***  t  ey  ***  ***  sh  l  iy  ***  eh  ***   p  ah  m  ah  n  ***  iy  b  l   n  z  ***
+f1_186 op    D    C   D    D   C   C   D   S   C   D    D    S  C   C   D    C   D    S   S  C   C  C   D    C  C  C   S  C   D 
+f1_186 #csid 14 5 0 10
+f1_191 ref  sil  m  ay  k  ah  l  k   ah   l   er   d  dh   iy  b  eh   d   r  uw  m   w    ao  l   w    ih  th  k  r  ey  aa  n   z   sil
+f1_191 hyp  ***  m  ay  k  eh  l  k  ***  ***  ow  ah  dh  ***  b  eh  ***  g  er  m  ***  ***  l  ***  ***   r  k  r  ay  aa  n  ***   s 
+f1_191 op    D   C   C  C   S  C  C   D    D    S   S   C   D   C   C   D   S   S  C   D    D   C   D    D    S  C  C   S   C  C   D    S 
+f1_191 #csid 14 8 0 10
+f1_196 ref  sil  dh   iy   s  er  m  ah  n   eh   m  f  ah  s  ay  z   d    dh  iy  n  iy   d   f  r   er   ah  f  er  m   ah  t  ih  v  ae  k  sh  ah  n  sil
+f1_196 hyp  ***  dh  ***  sh  eh  m  ah  n  ***  ae  f  ah  s  ay  z  ***  ***  ih  n  iy  ***  f  r  ***  ***  f   r  m  ***  d  ah  d  aa  k  sh  ah  n  ***
+f1_196 op    D    C   D    S   S  C   C  C   D    S  C   C  C   C  C   D    D    S  C   C   D   C  C   D    D   C   S  C   D   S   S  S   S  C   C   C  C   D 
+f1_196 #csid 19 9 0 10
+f1_201 ref  sil  k  ao  r   iy  ah  t  ae  k   t    dh  iy  p   r   aa  jh  eh  k   t    w    ih   th   eh   k  s   t   r  ah  d  ih  t  er  m   ah  n  ey  sh  ah  n  sil
+f1_201 hyp  sil  k  ao  r  ***  ey  t  ay  k  ***  ***  ih  p  ***  ay  sh  eh  k  ***  ***  ***  ***  ***  ah  b  ae  sh  ih  d  ah  t  eh  m  ***  n  ey  sh  ah  n  ***
+f1_201 op    C   C   C  C   D    S  C   S  C   D    D    S  C   D    S   S   C  C   D    D    D    D    D    S  S   S   S   S  C   S  C   S  C   D   C   C   C   C  C   D 
+f1_201 #csid 17 12 0 11
+f1_206 ref  sil  s   t   eh   f   k   uh   d  b  eh   r   l  iy  hh  ae  n  d  ah   l   dh  iy  s  ay   k   ah  l  aa   jh  ih  k  ah   l   t   r   ao  m  ah  sil
+f1_206 hyp  ***  s  ***  eh  ***  k  ***  ah  b  eh  ***  l  ey   l  ae  n  d  ah  ***   b  ah  s  ay  ***  ah  l  aa  ***  ah  b  ah  ***  t  ***  aa  m  ah   ng
+f1_206 op    D   C   D    C   D   C   D    S  C   C   D   C   S   S   C  C  C   C   D    S   S  C   C   D    C  C   C   D    S  S   C   D   C   D    S  C   C   S 
+f1_206 #csid 19 9 0 10
+f1_211 ref  sil  hh  ay  w  ey   ah   n    d    f  r  iy  w  ey   m   iy  n   dh  iy  s  ey  m  th  ih  ng  sil
+f1_211 hyp   k   ay   l  w  ey  ***  ***  ***  ng  k  iy  m  ey  ***  iy  n  ***  ng  s  ey  n   b  eh  ng  ***
+f1_211 op    S    S   S  C   C   D    D    D    S  S   C  S   C   D    C  C   D    S  C   C  S   S   S   C   D 
+f1_211 #csid 9 10 0 6
+f1_216 ref  sil  ah  d   aa   k  t  er   w    ao  z  ih   n   dh  iy  ae   m   b  y  ah  l  ah   n    s    w    ih   th  dh   iy  p  ey  sh  ah  n   t   sil
+f1_216 hyp  ***  dh  d  ***  ae  t  er  ***  ***  v  ih  ***   z  iy  ae  ***  n  y  ah  z  ah  ***  ***  ***  ***  ***  dh  ***  p  ey  sh  ah  n  ***  ***
+f1_216 op    D    S  C   D    S  C   C   D    D   S   C   D    S   C   C   D   S  C   C  S   C   D    D    D    D    D    C   D   C   C   C   C  C   D    D 
+f1_216 #csid 15 6 0 14
+f1_221 ref  sil  hh  aw  ey   n  ch   ah   n    t  ih  z   dh   ih   s  s  ah   b   w  ey  eh  s   k   ah  l  ey  t  er  sil
+f1_221 hyp  ***  hh  aw   r  iy  ch  ***  ***  iy  ih  z  ***  ***  ah  s  ah  ***  w  oy  ae  s  ***  ah  l  ey  n  er  sil
+f1_221 op    D    C   C   S   S   C   D    D    S   C  C   D    D    S  C   C   D   C   S   S  C   D    C  C   C  S   C   C 
+f1_221 #csid 14 7 0 7
+f1_226 ref  sil  dh   iy  g  ao  r  jh  ah  s  b  ah  t  er  f  l  ay   ey   t   ah  l  aa   t    ah   v   n   eh   k   t  er  sil
+f1_226 hyp  ***  dh  ***  v   w  r   t  ih  s  b  ah  t  er  f  l  ay  ***  ***  iy  l  aa  ***  ***  ***  n  ***  ae  ih  er  ***
+f1_226 op    D    C   D   S   S  C   S   S  C  C   C  C   C  C  C   C   D    D    S  C   C   D    D    D   C   D    S   S   C   D 
+f1_226 #csid 14 7 0 9
+f1_231 ref  sil  w   iy   aa   r  ow  p  ah  n  eh  v  er  iy  m  ah  n  d  iy  iy   v  n   ih  ng  sil
+f1_231 hyp  ***  w  ***  ***  er  ow  k  eh  n  ae  v   r  iy  m  aa  n  d  eh  ey  iy  n  ***  ng  ***
+f1_231 op    D   C   D    D    S   C  S   S  C   S  C   S   C  C   S  C  C   S   S   S  C   D    C   D 
+f1_231 #csid 10 9 0 5
+f1_236 ref  sil   hh  aw  oy  l  iy   d   uw  y   uw  l  ay   k    y    ao   r  s  ae  l   ah   d    d  r  eh  s  ih  ng  sil
+f1_236 hyp  ***  ***  aw  oy  l  iy  ***   t  y  ***  l  ay  ***  ***  ***  ah  s  ae  l  ***  ***  ay  t  eh  s  ah  ng  ***
+f1_236 op    D    D    C   C  C   C   D    S  C   D   C   C   D    D    D    S  C   C  C   D    D    S  S   C  C   S   C   D 
+f1_236 #csid 13 5 0 10
+f1_241 ref  sil   dh  iy  jh   ao  aa  p  er  ey  t   s   b  ay  y   uw  z   ih   ng  ae  n  t  ae   g  ah  n  ih  s   t   ih  k  m  ah  s  ah  l   z   sil
+f1_241 hyp  ***  ***  ih  jh  ***  aa  p   r  iy  t  ***  b  ay  y  ***  z  ***  ***  iy  n  t  hh  ae  dh  n  ih  s  ***  ih  k  m  aa  s  ah  l  ***   s 
+f1_241 op    D    D    S   C   D    C  C   S   S  C   D   C   C  C   D   C   D    D    S  C  C   S   S   S  C   C  C   D    C  C  C   S  C   C  C   D    S 
+f1_241 #csid 19 9 0 9
+f1_246 ref  sil  dh  iy   ae   ng   g   r  iy  b  oy  ae   n  s   er   d    b  ah   t  d  ih   n    t   l  uh  k  ah  p  sil
+f1_246 hyp  ***  dh  iy  ***  ***  ***  w  iy  b  oy  iy  ae  s  ***  ***  ih   t  dh  d  ih  ***  ***  m  ah  k  aa  p  ***
+f1_246 op    D    C   C   D    D    D   S   C  C   C   S   S  C   D    D    S   S   S  C   C   D    D   S   S  C   S  C   D 
+f1_246 #csid 10 9 0 9
+f1_251 ref  sil  t  uw  f  er  dh  er  hh  ih  z  p  r  eh  s   t   iy  zh  hh  iy  ah  k   ey  zh  ah   n   l  iy  r  iy   d    z   dh  iy  w   ao  l  s   t   r  iy   t   jh  er  n  ah   l   sil
+f1_251 hyp  sil  t  ah  f   r   t  ih   t  ah  s  p  r  ah  s  ***  iy  sh  th   y  er  k  ***  ay  iy  sh  uw  iy  l  iy  ***  ***   s  ah  w  ***  l  s  ***  k  iy  ***  jh  eh  n  ah  ***   ng
+f1_251 op    C   C   S  C   S   S   S   S   S  S  C  C   S  C   D    C   S   S   S   S  C   D    S   S   S   S   C  S   C   D    D    S   S  C   D   C  C   D   S   C   D    C   S  C   C   D    S 
+f1_251 #csid 17 22 0 8
+f1_256 ref  sil   p    l   ae   n    d    p  eh  r   ah  n   t   hh  uh  d  ao  r   g    ah  n  ah  z  ey  sh   ah  n  z  p  r   ah  m   ow  t  b  er  th  k  ah  n   t   r  ow  l  sil
+f1_256 hyp  ***  ***  ***  ae  ***  ***  ng  ae  r  ***  n  ***  hh  ay  d  ao  r  ***  ***  m  ih  z  ey  sh  ***  n  z  p  r  ***  m  ***  l  k   d   r  f  ah  n  ***  f  eh  l  ***
+f1_256 op    D    D    D    C   D    D    S   S  C   D   C   D    C   S  C   C  C   D    D   S   S  C   C   C   D   C  C  C  C   D   C   D   S  S   S   S  S   C  C   D   S   S  C   D 
+f1_256 #csid 18 12 0 14
+f1_261 ref  sil  w  eh  dh  er  p  r   uw  f  g  ah  l  aa  sh  ah  z  aa  r  v   eh  r   iy  y   uw  s  f  ah   l    ih   n   s  iy  ae   t   ah  l  sil
+f1_261 hyp  sil  w  eh   t  ih  k  r  ***  s  k  ah  l  aa  sh  uw  s  ih  r  v  ***  r  ***  y  ***  z  f  ah  ***  ***  ***  s  iy  ae  ***   n  l   z 
+f1_261 op    C   C   C   S   S  S  C   D   S  S   C  C   C   C   S  S   S  C  C   D   C   D   C   D   S  C   C   D    D    D   C   C   C   D    S  C   S 
+f1_261 #csid 18 11 0 8
+f1_266 ref  sil   sh  uh   d  jh  er  ae   f   s   b   iy  k   eh   p  t   ih  n  s  m   ao   l  z  uw   z   sil
+f1_266 hyp  ***  ***   t  ih  jh   r  ae  ***  s  ***  iy  k  ***  ae  t  ***  n  s  m  ***  aa  z  uw  ***   s 
+f1_266 op    D    D    S   S   C   S   C   D   C   D    C  C   D    S  C   D   C  C  C   D    S  C   C   D    S 
+f1_266 #csid 11 6 0 8
+f1_271 ref  sil   ah   m  iy   b    ah   z  ch  ey   n    jh  sh  ey   p   k  aa   n   s   t   ah   n    t   l   iy  sil
+f1_271 hyp  ***  ***  ae  iy  ***  ***  ih  sh  ey  ***  ***  sh  ey  ***  k  aa  ***  s  ***  ah  ***  ***  l  ***   ng
+f1_271 op    D    D    S   C   D    D    S   S   C   D    D    C   C   D   C   C   D   C   D    C   D    D   C   D    S 
+f1_271 #csid 9 4 0 12
+f1_276 ref  sil  ah  ch  ow  z  ah   n  f  y   uw   w    ih  l  b  ih  k  ah  m  jh  eh  n   er  ah   l   z  sil
+f1_276 hyp   s   ah   t  ow  s  ah  ng  z  y  ***  ***  ***  l  l  ah  p  ah  n  jh  eh  n  ***  ah  ***  z  ***
+f1_276 op    S    C   S   C  S   C   S  S  C   D    D    D   C  S   S  S   C  S   C   C  C   D    C   D   C   D 
+f1_276 #csid 11 9 0 6
+f1_281 ref  sil  m  ay  d   ih  z   ay  er  z   aa   r  s   ih   m  p  ah  l  g  ih  v  m  iy  w   ah   n   ih  n   f   ao  r  m  ah   t    ih   v   p   ae  r   ah  g  r  ae   f  aa  n   dh   iy  s  ah   b   jh   eh   k    t  sil
+f1_281 hyp  sil  r  ay  d  ***  z  ***  ae  z  ***  ih  s  ***  eh  n   b  l  k  ih  k  y  uw  w  ***  ***  aa  n  ***   b  r  d  ah  ***  ***  ***  p  ***  r  ***  v  r  ae  hh  ah  n  ***  ***  s  ah  ***  jh  ***  ***  ah   s 
+f1_281 op    C   S   C  C   D   C   D    S  C   D    S  C   D    S  S   S  C  S   C  S  S   S  C   D    D    S  C   D    S  C  S   C   D    D    D   C   D   C   D   S  C   C   S   S  C   D    D   C   C   D    C   D    D    S   S 
+f1_281 #csid 20 18 0 17
+f1_286 ref  sil  dh  ae  t   d    ao   g  ch  ey  s  ah  z   k  ae  t   s   m  er  s   ah  l   ah  s   l   iy  sil
+f1_286 hyp  ***  dh  ae  t  ***  ***  ow  ch  ey  s  ah  s  hh  ae  t  ***  m   r  s  ***  l  ***  s  ***  ah   d 
+f1_286 op    D    C   C  C   D    D    S   C   C  C   C  S   S   C  C   D   C   S  C   D   C   D   C   D    S   S 
+f1_286 #csid 13 6 0 7
+f1_291 ref  sil  ah  l   eh  dh  er  hh  ae  n   d   b   ae   g    w  uh  d  b  iy   ah  s  uw  t  ah  b  ah  l  g   ih   f  t  sil
+f1_291 hyp  ***  ah  l  ***   t  ih  hh  ae  n  ***  b  ***  ***  ih   k  r  b  iy  ***  s  uw  d  ah  b  ah  l  g  ***  ae  s  sil
+f1_291 op    D    C  C   D    S   S   C   C  C   D   C   D    D    S   S  S  C   C   D   C   C  S   C  C   C  C  C   D    S  S   C 
+f1_291 #csid 16 8 0 7
+f1_296 ref  sil   ae   l    r  iy  s  iy   v   d  ah  jh   oy   n    t  ah  p  oy  n   t    m   ah   n    t    ih  n   dh  iy  b  ay  aa   l    ah  jh  iy   ah  n   d    dh  iy   eh   n    jh   ah   n  ih  r   ih  ng  d  ih  p   aa  r   t   m  ah  n   t    s   sil
+f1_296 hyp  sil  ***  ***  aw  ih  s  iy  ***  t  ah  jh  ***  ***  ay  ih  k  ay  n  ***  ***  ah  ***  ***  ***  n  ***  ah  b  ay  aa  ***  ***   k  iy  ***  n  ***  ***  iy  ***  ***  ***  ***  ng   y  r  ***  iy  n  ih  p  ***  r  ***  n  ah  n  ***  ***   z 
+f1_296 op    C    D    D    S   S  C   C   D   S   C   C   D    D    S   S  S   S  C   D    D    C   D    D    D   C   D    S  C   C   C   D    D    S   C   D   C   D    D    C   D    D    D    D    S   S  C   D    S  S   C  C   D   C   D   S   C  C   D    D    S 
+f1_296 #csid 20 15 0 25
+f1_301 ref  sil  t  aa   d   p  l  ey  s   t   t  aa   p   p  r   ay  ao  r   ah  t  iy   aa   n  g  eh   t    ih  ng   hh   ih  z  b  ay   k   f  ih  k  s   t   sil
+f1_301 hyp  ***  t  aa  ***  k  r  ey  s  ***  t  aa  ***  f  r  ***  ey  r  ***  d  iy  ***  ng  g  eh  ***  ***  ng  ***  ***  z  b  ay  ***  f  eh  k  s  ***  sil
+f1_301 op    D   C   C   D   S  S   C  C   D   C   C   D   S  C   D    S  C   D   S   C   D    S  C   C   D    D    C   D    D   C  C   C   D   C   S  C  C   D    C 
+f1_301 #csid 19 7 0 13
+f1_306 ref  sil   dh  iy  d   aa   r  k  m  er  k   iy  l  ah  g  uw  n  w  aw  n   d   er  aw  n   d   f   r   er  m  ay  l   z   sil
+f1_306 hyp  ***  ***   n  d  ***  ae  k  m   r  k  ***  y  uw  g  ow  n  w  eh  n  ***   t  ae  n  ***  f  ***  er  m  ay  l  ***   s 
+f1_306 op    D    D    S  C   D    S  C  C   S  C   D   S   S  C   S  C  C   S  C   D    S   S  C   D   C   D    C  C   C  C   D    S 
+f1_306 #csid 14 10 0 8
+f1_311 ref  sil  dh   iy  f  r   ay   t   ah  n   d   ch   ay   l    d  w  ao  z  jh  eh   n    t   l  iy  s  ah   b   d  uw   d  b  ay   hh   ih  z  b  ih   g  b  r  ah  dh  er  sil
+f1_311 hyp  sil  dh  ***  f  r  ***  ***  ey  n  ***  ch  ***  ***  ae  v  ih  z  jh  eh  ***  ***  m  ih  s  ah  ***  d   t  uw  b  ay  ***  ***  z  b  ih  iy  b  r  aa   p  er  sil
+f1_311 op    C    C   D   C  C   D    D    S  C   D    C   D    D    S  S   S  C   C   C   D    D   S   S  C   C   D   C   S   S  C   C   D    D   C  C   C   S  C  C   S   S   C   C 
+f1_311 #csid 21 11 0 11
+f1_316 ref  sil  dh   iy  p   r   iy  s   k    uw   l   er  k   uh   d   ah  n  t  v   er   b    ah  l  ay   z   hh  er  f  iy  l   ih  ng  z  ah   b    aw   t  dh  iy   ih  m   er  jh  ah  n  s  iy   k    ah  n   d   ih  sh  ah  n   z   sil
+f1_316 hyp  ***  dh  ***  p  ***  ih  s  ***  ***  ***  ay  k  ***  ***  ah  n  r  v  ***  ***  ***  l  ay  ***   s  er  f  iy  l  ***   n  z  ah  ***  ***  eh   k  iy  ***  m  ***   r  sh  n  s  iy  ***  ***  n  ***  ih  sh  ah  n  ***   s 
+f1_316 op    D    C   D   C   D    S  C   D    D    D    S  C   D    D    C  C  S  C   D    D    D   C   C   D    S   C  C   C  C   D    S  C   C   D    D    S   S   C   D   C   D    S   S  C  C   C   D    D   C   D    C   C   C  C   D    S 
+f1_316 #csid 25 10 0 21
+f1_321 ref  sil  ah  l   ao   y  er  w  ao  z  ah  p  oy   n    t   ah  d   t  uw  eh  k  s  ah   k  y  uw   t   hh  er  w   ih  l  sil
+f1_321 hyp  sil   k  l  ***  oy  iy  w  ih  z  ah  k  oy  ***  ***  ng  d  iy   t  eh  k  s  ah  hh  y  uw  ***   d  er  w  ***  l  ***
+f1_321 op    C    S  C   D    S   S  C   S  C   C  S   C   D    D    S  C   S   S   C  C  C   C   S  C   C   D    S   C  C   D   C   D 
+f1_321 #csid 16 10 0 6
+f1_326 ref  sil  dh   iy  s  ih  s   t   ah   m   m   ey   b  r  ey   k   d   aw   n  s  uw  n  s  ow  s  ey   v    y   ao   r  f  ay  l  z  f  r  iy  k   w    ah   n    t  l   iy  sil
+f1_326 hyp  ***  dh  ***  s  ih  s  ***  ah  ***  m  ***  iy  r  ey  ***  d  ***  eh  s  iy  n  z  ah  s  ey  ***  ***   k  er  f  ay  l  s  f  r  iy  k  ***  ***  ***  eh  l  ***   ng
+f1_326 op    D    C   D   C   C  C   D    C   D   C   D    S  C   C   D   C   D    S  C   S  C  S   S  C   C   D    D    S   S  C   C  C  S  C  C   C  C   D    D    D    S  C   D    S 
+f1_326 #csid 21 10 0 13
+f1_331 ref  sil  dh  iy  g  ah  n   m   ah  n  k   eh   p  t   hh  ih  z   v   ih  k  t   ah   m  k   ao   r    n  er  d   ae   t  g  ah  n  p   oy   n    t   f   r  er  th  r  iy  aw  er  z  sil
+f1_331 hyp  ***  dh  ah  k  eh  n  ***  ey  n  k  ***  ae  t  ***  ah  z  ***  eh  k  t  ***  uw  k  ***  ***  oy  er  d  ***  ih  g  eh  m  p  ***  ***  ***  r  iy  ah   k  r  iy  aw  er  z  ***
+f1_331 op    D    C   S  S   S  C   D    S  C  C   D    S  C   D    S  C   D    S  C  C   D    S  C   D    D    S   C  C   D    S  C   S  S  C   D    D    D   S   S   S   S  C   C   C   C  C   D 
+f1_331 #csid 18 16 0 13
+f1_336 ref  sil  dh   ae   t  n   oy   z  p   r  aa   b    l    ah  m   g   r   ow  z   m   ao  r   ah  n  oy   ih   ng  iy  ch   d  ey  sil
+f1_336 hyp  ***  dh  ***  eh  n  ***  ah  s  hh  aa  ***  ***  ***  m  ***  r  ***  z  ***   w  r  ***  n  oy  ***  ***  ey  ch  dh  eh   ng
+f1_336 op    D    C   D    S  C   D    S  S   S   C   D    D    D   C   D   C   D   C   D    S  C   D   C   C   D    D    S   C   S   S   S 
+f1_336 #csid 10 9 0 12
+f1_341 ref  sil  w  ih   m    ah   n    m    ey  n   eh   v  er  b  ih  k  ah   m  k  ah  m  p  l  iy   t  l   iy  iy   k    w    ah  l  t   uw  m  eh  n  sil
+f1_341 hyp  sil  w  ih  ***  ***  ***  ***  ***  n  ***  ng  ae  f   r  k   n  iy  f  aa  m  k  l   k  iy  l  ***  iy  ***  ***  ***  l  t  ***  n  ah  n  ***
+f1_341 op    C   C   C   D    D    D    D    D   C   D    S   S  S   S  C   S   S  S   S  C  S  C   S   S  C   D    C   D    D    D   C  C   D   S   S  C   D 
+f1_341 #csid 12 13 0 12
+f1_346 ref  sil   w    iy   w   eh   l  k  ah   m   m  eh  n   iy   n  uw  s   t   uw   d    ah  n   t   s  iy   ch   y   ih   r  sil
+f1_346 hyp  sil  ***  ***  ***  uw  ao  k  ah  ***  m  ay  n  ***  ng  iy  s  ***  uw  ***  ***  n  ***  z  iy  ***  ***  sh  iy   er
+f1_346 op    C    D    D    D    S   S  C   C   D   C   S  C   D    S   S  C   D    C   D    D   C   D   S   C   D    D    S   S   S 
+f1_346 #csid 9 9 0 11
+f1_351 ref  sil  w  ih  ch  ch  er  ch  d  uw  dh   iy  s   m   ih  th  s   w   er  sh  ah  p  ih  n  sil
+f1_351 hyp  sil  w  ih   k  ch  er  ch  t  ih  dh  ***  s  ***  ah   k  s  ***   r  sh  ah  b  ah  n  ***
+f1_351 op    C   C   C   S   C   C   C  S   S   C   D   C   D    S   S  C   D    S   C   C  S   S  C   D 
+f1_351 #csid 12 8 0 4
+f1_356 ref  sil  dh  ey  ao   l   l  ay  k  l  ao   ng  hh  aa   t  sh  aw  er  z  sil
+f1_356 hyp  sil  dh  iy  ao  ***  l  ay  k  w  ao  ***  hh  ay  ch  aa   l  er  z  ***
+f1_356 op    C    C   S   C   D   C   C  C  S   C   D    C   S   S   S   S   C  C   D 
+f1_356 #csid 10 6 0 3
+f1_361 ref  sil  t  ih   m    t   ey  k   s  sh  iy  l  ah   t    uw  s  iy  m  uw  v  iy   z    t   w  ay  s  ah  w  iy   k   sil
+f1_361 hyp  sil  t  ih  ***  ***   n  z  iy  sh   y  l  ah  ***  ***  s  iy  m  ow  v  iy  ***  ***  s  ay  s  ah  w  iy  ***  sil
+f1_361 op    C   C   C   D    D    S  S   S   C   S  C   C   D    D   C   C  C   S  C   C   D    D   S   C  C   C  C   C   D    C 
+f1_361 #csid 17 6 0 7
+f1_366 ref  sil   hh   er   w    ao  r  d  r  ow   b  k  ah  n   s    ih  s   t  s  ah   v    ow   n  l  iy  s   k   er  t   s   ah   n    d   b  l  aw  s  ah  z  sil
+f1_366 hyp  sil  ***  ***  ***  ***  r  w  r  jh  eh  k  ih  n  ***  ***  s  ah  s  ah  ***  ***  ah  l  iy  s  ***   r  t  ***  ah  ***  ***  m  l  aw  s  ah  n   s 
+f1_366 op    C    D    D    D    D   C  S  C   S   S  C   S  C   D    D   C   S  C   C   D    D    S  C   C  C   D    S  C   D    C   D    D   S  C   C  C   C  S   S 
+f1_366 #csid 17 10 0 12
+f1_371 ref  sil  ay  d  r   ay   d  dh   iy  s   ah   b  w  ey  b   ah   t   ay  hh  ae  v  ah   n    t    ih  n  ah  f  ch  ey  n   jh  sil
+f1_371 hyp  ***  ae  d  r  ***  ae  dh  ***  s  ***  aa  v  oy  b  ***  ***  eh   n  ae  k  ah  ***  ***  ***  n  ae  f  ch  ey  n  ***   ch
+f1_371 op    D    S  C  C   D    S   C   D   C   D    S  S   S  C   D    D    S   S   C  S   C   D    D    D   C   S  C   C   C  C   D    S 
+f1_371 #csid 12 10 0 10
+f1_376 ref  sil  m   uw   v    dh  iy   g  aa   r  b  ih   jh   n  ih  r   er   t   uw  dh  iy  l   aa  r  jh  w  ih  n   d  ow  sil
+f1_376 hyp  ***  m  ***  ***  ***  ow  ah   v  er  b  ih  ***  ch  iy  r  ***  ***   s  ah   v  l  ***  r   d  w  ay  n  dh  eh   m 
+f1_376 op    D   C   D    D    D    S   S   S   S  C   C   D    S   S  C   D    D    S   S   S  C   D   C   S  C   S  C   S   S   S 
+f1_376 #csid 8 14 0 8
+f1_381 ref  sil   w   ah   n    s   y  uw  f  ih  n  ih  sh  g  r  iy  s   ih  ng   y    ao  r  ch  ey  n  b  iy   sh  uh   r  t  uw  w  aa  sh  th  er  ow  l  iy  sil
+f1_381 hyp  ***  ***  ah  ***  ***  t  ah  f   r  n  ih  sh  k  w  iy  s  ***  ng  ***  ***  r  ch  ey  n  b  iy  ***  ch  er  d  ah  w  aa  sh   s  eh   r  l  ng   f 
+f1_381 op    D    D    C   D    D   S   S  C   S  C   C   C  S  S   C  C   D    C   D    D   C   C   C  C  C   C   D    S   S  S   S  C   C   C   S   S   S  C   S   S 
+f1_381 #csid 18 14 0 8
+f1_386 ref  sil  ah  k  r  ae   b   ch  ae   l  ah   jh   d    m  iy  b   ah   t   ah  k   w   ih  k  s   t   ae   b    v  ae  ng  k   w   ih  sh  t   hh   ih   m  sil
+f1_386 hyp  sil  ah  k  r  ae  ***  ch  aa  sh  ah  ***  ***  ey   n  b  ***  ***  ah  k  ***  ih  k  s  ***  ae  ***  th  ih  ng  k  ***   r  sh  t  ***  ***  ah   n 
+f1_386 op    C    C  C  C   C   D    C   S   S   C   D    D    S   S  C   D    D    C  C   D    C  C  C   D    C   D    S   S   C  C   D    S   C  C   D    D    S   S 
+f1_386 #csid 18 9 0 11
+f1_391 ref  sil  iy  ch   s   t   ae   g  sh   uh   r  l  iy  f  ay  n   d   z  ah  b  ih   g   f  ao  n  sil
+f1_391 hyp  ***  iy  ch  ***  t  ***  ih  sh  ***  er  l  iy  f  ay  n  ***  z  ah  v  ih  ***  k  ao  n  ***
+f1_391 op    D    C   C   D   C   D    S   C   D    S  C   C  C   C  C   D   C   C  S   C   D   S   C  C   D 
+f1_391 #csid 14 4 0 7
+f1_396 ref  sil  dh   iy  ae   d    v   er  t  ay  z  ih  ng   v   er  s  ah   v    p    l   ih  m   ah  th  v  er  ay   ah   t   iy  s   t    ao  r  n   eh   v  er  ch  ey  n   jh   ah  z  sil
+f1_396 hyp  ***  dh  ***  ae  ***  ***   r  z  ay  z  ih  ng  ***   r  s  ah  ***  ***  ***  ah  m  ***  ih  t   r  ay  ***  ***  iy  s  ***  ***  r  n  ***  ah   r  ch  ey  n  ***  ***  z   z 
+f1_396 op    D    C   D    C   D    D    S  S   C  C   C   C   D    S  C   C   D    D    D    S  C   D    S  S   S   C   D    D    C  C   D    D   C  C   D    S   S   C   C  C   D    D   C   S 
+f1_396 #csid 18 10 0 16
+f1_401 ref  sil  t  aa   m    ah  s  th  ih   ng   k   s  ah  l   aa  r  jh  er  k   l   ae   m   p  s  aa   l    v   z   dh  iy  p   r   aa   b   l  ah  m  sil
+f1_401 hyp  sil  t  aa  ***  ***  n   z  ih  ***  ***  z  ah  l  ***  r  jh  er  k  ***  ae  ***  n  s  aa  ***  ***  z  ***  ah  p  ***  aa  ***  k  ah  m  ***
+f1_401 op    C   C   C   D    D   S   S   C   D    D   S   C  C   D   C   C   C  C   D    C   D   S  C   C   D    D   C   D    S  C   D    C   D   S   C  C   D 
+f1_401 #csid 18 6 0 13
+f1_406 ref  sil   dh  iy  th  ih  k  eh  l   m    f   ao  r   ah   s    t   w  ao  z   n   ih   r  l  iy  ow  v   er   w   eh  l   m    d  b  ay  d   ah   ch  eh   l   m  d   ih  z  iy  z  sil
+f1_406 hyp  ***  ***  ih   f  ih  k  eh  l  ***  ***   b  r  ***  ***  ***  z  ah  z  ***   y  er  l   y  ow  v  ***  ***   r  l  ***  ao  m  ay  d  ***  ***  eh  ch  aw  d  ***  z  iy  z  ***
+f1_406 op    D    D    S   S   C  C   C  C   D    D    S  C   D    D    D   S   S  C   D    S   S  C   S   C  C   D    D    S  C   D    S  S   C  C   D    D    C   S   S  C   D   C   C  C   D 
+f1_406 #csid 17 13 0 15
+f1_411 ref  sil   dh  ow  z   m    y   uw  z  ih  sh   ah  n  z  hh   aa  r  m   ah   n   ay  z  m   aa  r   v   ah  l   ah  s  l  iy  sil
+f1_411 hyp  ***  ***  ah  z  ***  ***  uw  z  ih  sh  ***  n  s  hh  ***  r  m  ***  ***  ay  z  m  ***  r  ***   k  l  ***  s  l  ah   ng
+f1_411 op    D    D    S  C   D    D    C  C   C   C   D   C  S   C   D   C  C   D    D    C  C  C   D   C   D    S  C   D   C  C   S   S 
+f1_411 #csid 16 5 0 11
+f1_416 ref  sil  dh  ae   t    p    ih   k   p  aa  k   ah   t    w  ao  z  k  aa  t  r   eh   d   hh  ae  n   d  ih  d  sil
+f1_416 hyp   eh   k  ae  ***  ***  ***  ***  p  ae  k  ***  ***  uw  dh  s  k  ao  p  r  ***  ***   k  ae  n  th  ah  d  ***
+f1_416 op    S    S   C   D    D    D    D   C   S  C   D    D    S   S  S  C   S  S  C   D    D    S   C  C   S   S  C   D 
+f1_416 #csid 8 11 0 9
+f1_421 ref  sil   hh  ih  s  p   ae   n   ih   k  k  aa  s   t   uw  m  z   aa   r    k  w  ay   t   k   ah  l  er  f  ah  l  sil
+f1_421 hyp  sil  ***  ih  s  p  ***  ***  eh  ah  k  aa  s  ***  iy  n  z  ***  ***  ih  p  ay  ***  k  ***  l   r  f  ah  l  ***
+f1_421 op    C    D    C  C  C   D    D    S   S  C   C  C   D    S  S  C   D    D    S  S   C   D   C   D   C   S  C   C  C   D 
+f1_421 #csid 14 7 0 9
+f1_426 ref  sil   dh   iy  iy  z  iy  g  ow   ih   ng  z   ow   aa   l  ah  jh  ah  s   t   r  ih  l   ae   k  s   t    th   r    uw  aw   t  dh  iy   v  oy  ah  jh  sil
+f1_426 hyp  ***  ***  ***  iy  z  ey  d  ow  ***  ***  z  ***  ***  ao  ah  sh  ih  s  ***  f  ah  l  ***  aa  s  ***  ***  ***  ***  er  aa   k   w  oy  ey  ah  jh  ***
+f1_426 op    D    D    D    C  C   S  S   C   D    D   C   D    D    S   C   S   S  C   D   S   S  C   D    S  C   D    D    D    D    S   S   S   S   S   S   C   C   D 
+f1_426 #csid 10 14 0 14
+f1_431 ref  sil   n    aa  n   p    r   aa  f  ah   t  ao  r  g  ah  n  ah  z  ey  sh  ah  n   z   hh  ae   v   f  r  iy   k   w  ah   n    t  f  ah  n   d    r    ey   z    er   z   sil
+f1_431 hyp  ***  ***  ***  n  ***  ***  aa  m  hh  ae   v  r  d   r  k  ih  z  ey  sh  ah  n  ***   t  ae  ***  f  r  iy  ***  g  ah  ***  aa  m  iy  n  ***  ***  ***  ***  ***  ***   s 
+f1_431 op    D    D    D   C   D    D    C  S   S   S   S  C  S   S  S   S  C   C   C   C  C   D    S   C   D   C  C   C   D   S   C   D    S  S   S  C   D    D    D    D    D    D    S 
+f1_431 #csid 14 14 0 15
+f1_436 ref  sil   er  b  z  b   er  th  d  ey  f  r  iy   k    w   ah   n    t   l  iy   ah  k  er  z  aa  n   th  ae  ng   k   s   g   ih   v   ih  ng  sil
+f1_436 hyp  ***  ***  r  s  b  ***   r  p  ey  f  r  iy  ***  ***  ah  ***  ***  l  iy  ***  k  er  z  ah  n  ***  dh  ng  ***  s  ***  ih  ***   n  ng  sil
+f1_436 op    D    D   S  S  C   D    S  S   C  C  C   C   D    D    C   D    D   C   C   D   C   C  C   S  C   D    S   C   D   C   D    C   D    S   C   C 
+f1_436 #csid 17 7 0 12
+f1_441 ref  sil  r  aa  k   ah   n    d    r  ow   l   m  y   uw  z  ih  k   hh   ae   z   ah   g   r  ey   t  r   ih  dh  ah  m  sil
+f1_441 hyp  ***  r  aa  k  ***  ***  ***  ih   m  uw  ng  y  ***  z  ah  k  ***  ***  ***  ah  ***  d  er  iy  r  ***   d  ah  m  ***
+f1_441 op    D   C   C  C   D    D    D    S   S   S   S  C   D   C   S  C   D    D    D    C   D   S   S   S  C   D    S   C  C   D 
+f1_441 #csid 10 9 0 11
+f1_446 ref  sil   dh  iy  s  p  iy   ch   s   ih   m  p  ow  z  iy   ah   m   m  ay   t    b   ih  g  ih  n   aa   n  m  ah  n  d  iy  sil
+f1_446 hyp  ***  ***  ih  s  b  iy  ***  ***  sh  ah  p  ow  z  iy  ***  ***  m  ay  ***  ***  ih  g  ae  n  ***  aw  m  ah  n  t  eh   ng
+f1_446 op    D    D    S  C  S   C   D    D    S   S  C   C  C   C   D    D   C   C   D    D    C  C   S  C   D    S  C   C  C  S   S   S 
+f1_446 #csid 14 9 0 9
+f1_451 ref  sil  ch   ih   l    d    r    ah   n    k  ae   n   k  ah  n   s  uw   m  m  eh  n  iy  f   r    uw   t  r   ow  l   ah   p    s    ih  n  w  ah  n  s   ih   t  ih  ng  sil
+f1_451 hyp  sil  ch  ***  ***  ***  ***  ***  ***  ow   t  ih  ng  ng  p  uw   z  ae  m  eh  n  iy  f  ***  ***  er  r  ***  l  ***  ***  ***  ***  t  m  ah  n  s  ***  ah   n  ng  sil
+f1_451 op    C    C   D    D    D    D    D    D    S   S   S   S   S  S   S   S   S  C   C  C   C  C   D    D    S  C   D   C   D    D    D    D   S  S   C  C  C   D    S   S   C   C 
+f1_451 #csid 14 14 0 14
+f1_456 ref  sil  ah  m   ao  th  z  ih   g    z   ae   g  d  ah  l   ao   ng   dh  iy  p  ae   th   th  r  uw   aa   t  ow  z  g  aa  r  d   ah   n   sil
+f1_456 hyp  ***  ah  m  ***  aa  s  ih  ***  ***   d  eh  t  ah  l  ***  ***  ***   n  p  ae  ***  ***  p  uw  ***  ae  ah  z  p  eh  r  d  ***  ***   ng
+f1_456 op    D    C  C   D    S  S   C   D    D    S   S  S   C  C   D    D    D    S  C   C   D    D   S   C   D    S   S  C  S   S  C  C   D    D    S 
+f1_456 #csid 11 12 0 12
+f5_001 ref  sil   dh  ih  s  w   ao  z   iy  z  iy  f  r   er  ah  s  sil
+f5_001 hyp  sil  ***  ih  s  w  ***  z  ***  z  iy  f  r  ***  ae  z  sil
+f5_001 op    C    D    C  C  C   D   C   D   C   C  C  C   D    S  S   C 
+f5_001 #csid 10 2 0 4
+f5_006 ref  sil  w  ay  y   eh  l   ao   r   w  er  iy   ow  v  er  s  ih  l  iy   ay   t  ah  m  z  sil
+f5_006 hyp  ***  w  ay  y  ***  l  ***  ***  w   r  iy  ***  f   r  s  ah  l  iy  ***  ae  ah  m  z  sil
+f5_006 op    D   C   C  C   D   C   D    D   C   S   C   D   S   S  C   S  C   C   D    S   C  C  C   C 
+f5_006 #csid 13 5 0 6
+f5_011 ref  sil   s   w  ih  ng   y    ao   r   aa  r  m  ae  z  hh  ay   ae  z   y   uw  k  ae  n  sil
+f5_011 hyp  ***  ***  w  ih  ng  ***  ***  ***  er  r  m  eh  s  hh  ay  ***  z  ***  iy  k  ae  n  sil
+f5_011 op    D    D   C   C   C   D    D    D    S  C  C   S  S   C   C   D   C   D    S  C   C  C   C 
+f5_011 #csid 12 4 0 7
+f5_016 ref  sil  ae  l   ah  m  ow  n  iy  hh   aa  r  m   z    ah   d    ih   v    ao   r   s   t    m   ae   n  z   w  eh   l  th  sil
+f5_016 hyp  sil  ae  l  ***  m  ah  n  iy  hh  ***  r  m  ***  ***  ***  ***  ***  ***  ***  s  ***  ***  uw  ah  d  ah   f  ng  th   f 
+f5_016 op    C    C  C   D   C   S  C   C   C   D   C  C   D    D    D    D    D    D    D   C   D    D    S   S  S   S   S   S   C   S 
+f5_016 #csid 11 8 0 11
+f5_021 ref  sil  ow   n  l  iy   l    ao   y   er  z  ***  l  ah   v    m   ih  l   y   ah  n  eh   r  z  sil
+f5_021 hyp   ah   m  ih  l  iy  ***  ***  ***  er  z   p   l  ah  ***  ***  dh  l  ***  iy  n   d  er  s  sil
+f5_021 op    S    S   S  C   C   D    D    D    C  C   I   C   C   D    D    S  C   D    S  C   S   S  S   C 
+f5_021 #csid 9 8 1 6
+f5_026 ref  sil  d   ow   n  t   d    uw  ch  aa  r  l  iy  z   d    er  t   iy   d    ih   sh  ah  z  sil
+f5_026 hyp  sil  d  ***  ah  t  ***  ***  ih   t  r  l  iy  z  ***  ***  t  ***  ***  ***  ***  er  z   iy
+f5_026 op    C   C   D    S  C   D    D    S   S  C  C   C  C   D    D   C   D    D    D    D    S  C   S 
+f5_026 #csid 9 5 0 9
+f5_031 ref  sil   b   aa  r  b   z   g  ow  l   d   b  r   ey  s   l   ah   t    w    ao  z  ah  g  r   ae  jh  uw  ey  sh   ah  n  p   r    eh   z  ah  n   t   sil
+f5_031 hyp  sil  ***  aa  r  b  ***  s   k  l  ***  p  r  ***  s  ***  ah  ***  ***  ***  g   s  g  r  ***  jh  uw  iy  sh  ***  n  p  ***  ***  ae   s  n  ***  sil
+f5_031 op    C    D    C  C  C   D   S   S  C   D   S  C   D   C   D    C   D    D    D   S   S  C  C   D    C   C   S   C   D   C  C   D    D    S   S  C   D    C 
+f5_031 #csid 17 8 0 13
+f5_036 ref  sil  b  ae  s   k    ah   t  b   ao   l  k   ae   n  b  iy   ae  n  eh   n   t  er  t  ey  n  ih   ng  s   p   ao  r  t  sil
+f5_036 hyp  ***  p  ae  s  ***  ***  ih  b  ***  aa  k  ***  ih  b  iy  ***  n  eh  ***  t   r  t  ey  n  ih  ***  s  ***  ao  r  t  sil
+f5_036 op    D   S   C  C   D    D    S  C   D    S  C   D    S  C   C   D   C   C   D   C   S  C   C  C   C   D   C   D    C  C  C   C 
+f5_036 #csid 18 5 0 9
+f5_041 ref  sil  ae  m   b    ah  d  eh   k   s   t    r   ah  s  p  ih  k  p  aa   k   ah  t   s    ah  k  aa   m    p   l  ih  sh   m   ao  r  sil
+f5_041 hyp  ***  eh  m  ***  ***  z  eh  ***  s  ***  ***  er  s  p  ih  k  p  aa  ***  ah  t  ***  ***  k  aa  ***  ***  b  ih  sh  ***   w  r  sil
+f5_041 op    D    S  C   D    D   S   C   D   C   D    D    S  C  C   C  C  C   C   D    C  C   D    D   C   C   D    D   S   C   C   D    S  C   C 
+f5_041 #csid 17 5 0 12
+f5_046 ref  sil  dh   iy  p  r   aw  l   er  w  ao  r   ah  s   k   iy  m  ae  s   k   f   r   er   d   ih  s  g  ay   z   sil
+f5_046 hyp  ***  dh  ***  p  r  ***  l  ***  w  ao  r  ***  s  ***  iy  m  ae  s  ***  f  ***  er  ***  uw  s  k  ay  ***   s 
+f5_046 op    D    C   D   C  C   D   C   D   C   C  C   D   C   D    C  C   C  C   D   C   D    C   D    S  C  S   C   D    S 
+f5_046 #csid 16 3 0 10
+f5_051 ref  sil  eh  n  iy  k   aa   n  t  r   ah  b   y   uw  sh   ah   n  z   w   ih   l  b  iy  g  r   ey   t  l  iy   ah  p   r   iy  sh  iy   ey   t  ih   d   sil
+f5_051 hyp  ***  eh  n  iy  k  ***  ah  t  r  ***  b  ***  uw  sh  ***  ih  z  ***   b  ah  b  iy  k  r  ***  iy  l  iy  ***  p  ***  iy  sh  iy  ***  ah   d  sil  sil
+f5_051 op    D    C  C   C  C   D    S  C  C   D   C   D    C   C   D    S  C   D    S   S  C   C  S  C   D    S  C   C   D   C   D    C   C   C   D    S   S   S    C 
+f5_051 #csid 20 9 0 10
+f5_056 ref  sil   l   ae  s  t   y    ih   r  z  g  ae  s   sh   ao   r  t  ah  jh  k  aa   z    d   s  t  iy   p   p  r   ay   s   ih   n  k   r   iy  s  ah  ***  z  sil
+f5_056 hyp  ***  ***  ae  s  t  ***  ***  er  z  k  ae  s  ***  ***  er  d  ih  ch  k  aa  ***  ***  s  t  iy  ***  p  r  ***  ***   z  ng  k  ***  iy  s  ah   n   z  sil
+f5_056 op    D    D    C  C  C   D    D    S  C  S   C  C   D    D    S  S   S   S  C   C   D    D   C  C   C   D   C  C   D    D    S   S  C   D    C  C   C   I   C   C 
+f5_056 #csid 19 8 1 12
+f5_061 ref  sil  k   l   ih   f   s   d   ih  s  p  l  ey   w   ao  z   m   ih  s   p   l  ey  s   t    aa   n   dh  iy  s  k  r  iy  n  sil
+f5_061 hyp  sil  k  ***  ih  ***  s  ***  ah  s  b  l  ey  ***   l  z  ***  ih  s  ***  k  ih  s  ***  ***  ***  ah   m  s  k  r  iy  n  ***
+f5_061 op    C   C   D    C   D   C   D    S  C  S  C   C   D    S  C   D    C  C   D   S   S  C   D    D    D    S   S  C  C  C   C  C   D 
+f5_061 #csid 16 7 0 10
+f5_066 ref  sil  d   aa   k  t  er   z    p    r  ah  s  k   r    ay   b  d  r  ah  g  z  t  uw  f  r  iy  l  iy  sil
+f5_066 hyp  ***  d  ***  ao  t  er  ***  ***  jh  dh  s  k  ***  ***  eh  n  k  ah  g  s  t  uw  f  r  iy  n  iy   k 
+f5_066 op    D   C   D    S  C   C   D    D    S   S  C  C   D    D    S  S  S   C  C  S  C   C  C  C   C  S   C   S 
+f5_066 #csid 13 9 0 6
+f5_071 ref  sil  k  w  ao  p   er  ey  sh   ah  n   ah  l   ao   ng   w   ih  th  ah  n   d   er   s  t  ae  n   d    ih  ng   ah  l  iy   v   iy   ey  t   d   ih  s   p   y  uw   t  sil
+f5_071 hyp  sil  k  w  aa  p  ***   r  sh  ***  n  ***  l  ***  ***  ***  ah   p  ah  n  ***  er  sh  t  ey  n  ***  ***  ng  ***  l  iy  ***  iy  ***  t  ***  ih  s  ***  b  iy  ih  sil
+f5_071 op    C   C  C   S  C   D    S   C   D   C   D   C   D    D    D    S   S   C  C   D    C   S  C   S  C   D    D    C   D   C   C   D    C   D   C   D    C  C   D   S   S   S   C 
+f5_071 #csid 20 9 0 14
+f5_076 ref  sil  dh   iy  th  ih  ng  k  er   ih  z  ah  f  ey  m  ah   s   s  k   ah  l   p   ch  er  sil
+f5_076 hyp  ***  dh  ***   f  ih  ng  k  er  ***  z  ah  f  ey  m  ah  ***  s  k  ***  l  ***  ch  er  sil
+f5_076 op    D    C   D    S   C   C  C   C   D   C   C  C   C  C   C   D   C  C   D   C   D    C   C   C 
+f5_076 #csid 17 1 0 6
+f5_081 ref  sil   m   ae  s   k   er  ey   d   p   aa  r   t   iy  z  t  ae  k  s  w   ah  n  z   ih  m  ae  jh  ah  n  ey  sh   ah  n  sil
+f5_081 hyp  ***  ***  ae  s  ***   r  ey  ***  p  ***  r  ***  iy  s  t  eh  k  s  w  ***  n  z  ***  n  eh   n  iy  n  iy  sh  ***  n  sil
+f5_081 op    D    D    C  C   D    S   C   D   C   D   C   D    C  S  C   S  C  C  C   D   C  C   D   S   S   S   S  C   S   C   D   C   C 
+f5_081 #csid 16 8 0 9
+f5_086 ref  sil  k  ih   n   d   er   g   aa  r   t    ah  n  ch   ih   l    d    r  ah  n  d  eh  k  er  ey   t   dh  eh   r   k   l   ae  s   r    uw  m  z  f  r   er   ao  l  hh   aa  l   ah  d  ey   z   sil
+f5_086 hyp  ***  k  ih  ***  d  ***  ***  aa  r  ***  ***  n  ch  ***  ***  ***  ah  ih  n  t  eh  k   r  ey  ***   k  eh  ***  k  ***  ae  s  ***  ***  y  n  t  r  ***  ***  l  hh  ***  l  ***  d  ey  ***   s 
+f5_086 op    D   C   C   D   C   D    D    C  C   D    D   C   C   D    D    D    S   S  C  S   C  C   S   C   D    S   C   D   C   D    C  C   D    D   S  S  S  C   D    D   C   C   D   C   D   C   C   D    S 
+f5_086 #csid 21 9 0 19
+f5_091 ref  sil  ah  hh   y   uw  jh  t  ae  p   ah  s   t    r   iy  hh  ah   ng   ih   n   hh  er  hh   ao  l   w  ey  sil
+f5_091 hyp   s   ih  hh  ***  uw  jh  t  ae  p  ***  s  ***  ***  ih  hh  ah  ***  ***  ***  hh   r  hh  ***  l  ay  iy  sil
+f5_091 op    S    S   C   D    C   C  C   C  C   D   C   D    D    S   C   C   D    D    D    C   S   C   D   C   S   S   C 
+f5_091 #csid 13 6 0 8
+f5_096 ref  sil  hh  ih   z   s   ah   d   ah  n  d  ih  p   aa  r  ch  er  sh  aa   k    t   dh   iy  k  ae  s   t   sil
+f5_096 hyp  ***   k  ih  ***  s  ***  ***  eh  n  d  ah  p  ***  r  sh  er  sh  aa  ***  ***  dh  ***  k  ae  s  ***  sil
+f5_096 op    D    S   C   D   C   D    D    S  C  C   S  C   D   C   S   C   C   C   D    D    C   D   C   C  C   D    C 
+f5_096 #csid 14 4 0 9
+f5_101 ref  sil  k   l   ae  s   p    dh  iy  s   k   r  uw   ih   n   y   ao   r    l   eh   f  t   hh  ae  n  d  sil
+f5_101 hyp  ***  k  ***  ae  s  ***  ***  ah  s  ***  r  uw  ***  ***  y  ***  ***  ***  ah  ao  t  ***  ae  n  t  sil
+f5_101 op    D   C   D    C  C   D    D    S  C   D   C   C   D    D   C   D    D    D    S   S  C   D    C  C  S   C 
+f5_101 #csid 11 4 0 11
+f5_106 ref  sil   t   r  eh  s   p   ae  s  ih  ng   ih  z  f   ao   r  b   ih   d    ah   n   ah  n   d   s  ah   b    jh   eh  k   t  t   uw  p   eh   n   ah   l   t  iy  sil
+f5_106 hyp  ***  ***  k  eh  s  ***  ae  s  ih  ng  ***  z  f  ***  er  b  ***  ***  ***  ***  eh  n  ***  s  ah  ***  ***  ***  p  ih  t  ***  p  ***  ***  ah  ***  s  iy  sil
+f5_106 op    D    D   S   C  C   D    C  C   C   C   D   C  C   D    S  C   D    D    D    D    S  C   D   C   C   D    D    D   S   S  C   D   C   D    D    C   D   S   C   C 
+f5_106 #csid 17 6 0 17
+f5_111 ref  sil   aa  r   t   ah  f  ih  sh   ah  l   ih  n  t   eh  l   ah  jh  ah  n  s  ih  z  f   r    er  r  iy  l  sil
+f5_111 hyp  ***  ***  r  ***  ih  k  ih  sh  ***  l  ***  n  t  ***  l  ***  jh  ih  n  z  ih  z  f  ***  ***  r  iy  l  ***
+f5_111 op    D    D   C   D    S  S   C   C   D   C   D   C  C   D   C   D    C   S  C  S   C  C  C   D    D   C   C  C   D 
+f5_111 #csid 15 4 0 10
+f5_116 ref  sil   w   iy  p   l    ae   n  t   uw   b  ih  l   d   ah  n  uw  b  eh   v   er  ih  jh  p   l    ae   n  t  sil
+f5_116 hyp  ***  ***  iy  p  ***  ***  ay  t  ***  ah  dh  l  ***  ah  n  uw  b  eh  ***   k   r   t  p  ***  ***  iy  t  ***
+f5_116 op    D    D    C  C   D    D    S  C   D    S   S  C   D    C  C   C  C   C   D    S   S   S  C   D    D    S  C   D 
+f5_116 #csid 11 7 0 10
+f5_121 ref  sil  s  ay   ah   n   t   ih  f  ih   k   p   r    ow   g  r  eh  s  k   ah  m   z    f   r  ah   m    dh   iy  d  ih  v  eh  l   ah   p   m  ah  n   t   ah   v   n  uw  t   eh   k    n   iy   k   s  sil
+f5_121 hyp  ***  s  ay  ***  ***  t  ***  k  ih  ***  p  ***  ***  aa  l  eh  s  k  ***  m  ***  ***  s  ah  ***  ***  ***  d  ih  b  eh  l  ***  ***  m  ah  n  ***  ah  ***  n  ih  t  ***  ***  ***  iy  ***  z  sil
+f5_121 op    D   C   C   D    D   C   D   S   C   D   C   D    D    S  S   C  C  C   D   C   D    D   S   C   D    D    D   C   C  S   C  C   D    D   C   C  C   D    C   D   C   S  C   D    D    D    C   D   S   C 
+f5_121 #csid 22 7 0 21
+f5_126 ref  sil  w  ih  ch   l   ao   ng  aa  r   t    ah  k   ah  l  w   ao  z  ow  p   ey   k    ah   n  d  n  iy   d    ah  d  k   l    eh   r   ah   f  ah   k  ey  sh  ah  n  sil
+f5_126 hyp   z   w  ah  ch  ***  ao  ***   m  r  ***  ***  k  ***  l  w  ***  z  ah  p  ***  ***  ***  iy  p  n  iy  ***  ***  d  k  ***  ***  ***  er  th  ih  hh  iy  sh  ah  n  sil
+f5_126 op    S   C   S   C   D    C   D    S  C   D    D   C   D   C  C   D   C   S  C   D    D    D    S  S  C   C   D    D   C  C   D    D    D    S   S   S   S   S   C   C  C   C 
+f5_126 #csid 17 11 0 14
+f5_131 ref  sil  k   er  eh  k   t   eh  k  s   ah   k    y  uw  sh   ah  n  ah  v  m  ay   ih  n   s   t   r  ah  k  sh   ah  n  z  ih  z  k   r   uw  sh   ah  l  sil
+f5_131 hyp  ***  k  ***   r  k  ***  ah  k  s  ***  ***  hh  uw  sh  ***  n  ah  p  m  ay  ***  n  ***  z  ch  er  k  sh  ***  n  z  ah  z  k  ***  er  sh  ***  l  sil
+f5_131 op    D   C   D    S  C   D    S  C  C   D    D    S   C   C   D   C   C  S  C   C   D   C   D   S   S   S  C   C   D   C  C   S  C  C   D    S   C   D   C   C 
+f5_131 #csid 20 9 0 11
+f5_136 ref  sil   m   ah  s   k   iy  t  ow  z  ih  g  z  ih  s   t   ih  n   w   ao   r   m   y  uw   m   ih   d   k   l   ay  m   ah  t  s  sil
+f5_136 hyp  sil  ***  ih  s  ***  iy  d  ah  z  ih  g  z  ih  s  ***  ih  n  ***  ao  ***  m  hh  uw  ***  ih  ***  k  ***  ay  m  ***  t  s  ***
+f5_136 op    C    D    S  C   D    C  S   S  C   C  C  C   C  C   D    C  C   D    C   D   C   S   C   D    C   D   C   D    C  C   D   C  C   D 
+f5_136 #csid 20 4 0 10
+f5_141 ref  sil  r   iy  m  uw   v   dh  iy  s   p    l   ih   n   t  er  w   ih  th  ah  p   eh   r    ah   v    t  w  iy  z  er  z  sil
+f5_141 hyp  ***  r  ***  m  uw  ***  dh  ih  s  ***  ***   k  ah  jh  er  w  ***  th  ih  p  ***  ***  ***  ***  er  p  iy  z  er  z  sil
+f5_141 op    D   C   D   C   C   D    C   S  C   D    D    S   S   S   C  C   D    C   S  C   D    D    D    D    S  S   C  C   C  C   C 
+f5_141 #csid 14 7 0 10
+f5_146 ref  sil  hh  er  aa   b   er  n  hh   eh  r  r   iy  m  ay  n   d    ah   d    hh  ih  m   ah   v   ao   t  ah  m  l  iy  v  z  sil
+f5_146 hyp  ***  hh   r  aa  ***   p  r  hh  ***  y  r  ***  m  ay  n  ***  ***  ***  ***   t  m  ***  ***   f  ah  aa  m  d  iy  n  z  ***
+f5_146 op    D    C   S   C   D    S  S   C   D   S  C   D   C   C  C   D    D    D    D    S  C   D    D    S   S   S  C  S   C  S  C   D 
+f5_146 #csid 11 10 0 11
+f5_151 ref  sil  hh  uw  t   uh   k  dh   iy  k   ay  ae   k  d  aw   n   dh  iy  b  ay  uw  sil
+f5_151 hyp  ***   k  uw  t  ***  ah  dh  ***  k  ***  hh  ay  t  aw  ***   m  ah  b  ay  iy   n 
+f5_151 op    D    S   C  C   D    S   C   D   C   D    S   S  S   C   D    S   S  C   C   S   S 
+f5_151 #csid 7 9 0 5
+f5_156 ref  sil   hh  uw  eh  v  er  k   ow  aa  p   er   ey  t   s  ih  n  f  ay  n   d    ih  ng  n  ae  n  z  k  ae  m  iy   ow   w    ih  l  b   iy   r   iy  w   ao  r  d  ih   d   sil
+f5_156 hyp  sil  ***   w  ah  v   r  k  ***  aa  p  ***  ***  r  iy   f  n  f  ay  n  ***  ***  ng  n  ae  n  z  k  ae  m  iy  ***  ***  ***  l  b  ***  ***  iy  w  ***  r  t  ih  ***   n 
+f5_156 op    C    D    S   S  C   S  C   D    C  C   D    D   S   S   S  C  C   C  C   D    D    C  C   C  C  C  C   C  C   C   D    D    D   C  C   D    D    C  C   D   C  S   C   D    S 
+f5_156 #csid 24 8 0 13
+f5_161 ref  sil  w   iy   k   uh   d  b  eh   r   l  iy  s  iy   dh  iy  f  y  ao  r   d   z  th  r  uw   dh  iy  s   n   ow  f  l  er  iy  z  sil
+f5_161 hyp  ***  w  ***  ***   z  ah  b  eh  ***  l  iy  s  iy  ***   d  f  y  ao  r  ***  t   s  t  uw  ***   t  s  ***  ow  f  l   r  iy  z  sil
+f5_161 op    D   C   D    D    S   S  C   C   D   C   C  C   C   D    S  C  C   C  C   D   S   S  S   C   D    S  C   D    C  C  C   S   C  C   C 
+f5_161 #csid 19 8 0 8
+f5_166 ref  sil  dh  iy  k  ae  t  s  m   iy   aw  ao  l   w  ey  z  hh  er  t   s   m   ay  ih   r  z  sil
+f5_166 hyp  ***   s  ah  k  ae  t  s  m  ***  ***  ae  l  ao  oy  z   t   r  t  ***  m  ***  iy  er  z  ***
+f5_166 op    D    S   S  C   C  C  C  C   D    D    S  C   S   S  C   S   S  C   D   C   D    S   S  C   D 
+f5_166 #csid 10 9 0 6
+f5_171 ref  sil   d    ih   s  t   r  oy  eh  v   er  iy  f  ay  l   r   iy   l  ey   t   ih   d  t   uw  m  ay   aa   d   ah   t  s  sil
+f5_171 hyp  ***  ***  ***  dh  z  jh  oy  ae  v  ***  iy  f  ay  l  ***   b  ah  ey  ***   z  uw  t  ***  m  ay  ***  ***  ao  ih  s  ***
+f5_171 op    D    D    D    S  S   S   C   S  C   D    C  C   C  C   D    S   S   C   D    S   S  C   D   C   C   D    D    S   S  C   D 
+f5_171 #csid 11 10 0 10
+f5_176 ref  sil  dh  ey   eh  n  jh  oy   ih   t  w   ih  n  ay   aa  d  ih  sh   ah  n  sil
+f5_176 hyp  sil  dh  ey  ***  n  jh  oy  ***  uw  w  ***  n  ay  ***  d  ih  sh  ***  n  sil
+f5_176 op    C    C   C   D   C   C   C   D    S  C   D   C   C   D   C   C   C   D   C   C 
+f5_176 #csid 14 1 0 5
+f5_181 ref  sil  y  ah   ng  ch   ih   l    d    r   ah  n   sh  uh   d  ah   v   oy  d  ih  k  s  p  ow  zh  er   t   uw  k   ah  n  t  ey  jh   ah  s   d   ih  z  iy  z   ah  z  sil
+f5_181 hyp   s   d  ah  ***  ch  ***  ***  ***  ***  ah  n  ***  ah  sh  ah  ***   p  w  ah  k  s  p  ow  jh  er  ***  jh  k  ***  n  t  ey  jh  ***  s  ***   t  z  iy  z  ***  n   s 
+f5_181 op    S   S   C   D    C   D    D    D    D    C  C   D    S   S   C   D    S  S   S  C  C  C   C   S   C   D    S  C   D   C  C   C   C   D   C   D    S  C   C  C   D   S   S 
+f5_181 #csid 19 12 0 12
+f5_186 ref  sil  iy   v   ih  n  ay   ah  k   ey   zh  ah  n  l  iy  g   eh   t   dh  iy  m  ah  n   d   iy  b  l  uw  z  sil
+f5_186 hyp  sil  iy  ***   f  n  ay  ***  k  ***  ***  uw  d  l  ih  g  ***  ***  ah   p  m  ah  n  ***  ey  p  l   n  z  sil
+f5_186 op    C    C   D    S  C   C   D   C   D    D    S  S  C   S  C   D    D    S   S  C   C  C   D    S  S  C   S  C   C 
+f5_186 #csid 13 9 0 7
+f5_191 ref  sil  m  ay  k   ah  l  k   ah  l   er   d  dh  iy  b  eh   d   r  uw  m   w    ao  l   w    ih   th  k  r  ey   aa  n  z  sil
+f5_191 hyp  ***  m  ay  k  ***  l  k  ***  l  ***  ah   b  ah  b  eh  ***  t   y  m  ***  ***  l  ***  ***  ***  k  r  ey  ***  n  z  ***
+f5_191 op    D   C   C  C   D   C  C   D   C   D    S   S   S  C   C   D   S   S  C   D    D   C   D    D    D   C  C   C   D   C  C   D 
+f5_191 #csid 15 5 0 12
+f5_196 ref  sil  dh   iy  s  er  m  ah  n  eh  m   f  ah  s  ay  z   d   dh  iy  n  iy   d   f   r   er   ah  f  er  m   ah  t  ih  v  ae  k  sh  ah  n  sil
+f5_196 hyp  ***  dh  ***  s  er  m  ah  n  ae  m  th  ah  s  ay  z  ***   p  eh  n  iy  ***  f  ***  er  ***  f   r  m  ***  t  ah  v  ae  k  sh  ah  n  ***
+f5_196 op    D    C   D   C   C  C   C  C   S  C   S   C  C   C  C   D    S   S  C   C   D   C   D    C   D   C   S  C   D   C   S  C   C  C   C   C  C   D 
+f5_196 #csid 24 6 0 8
+f5_201 ref  sil  k  ao   r    iy   ah   t    ae   k  t  dh   iy  p   r   aa  jh  eh   k    t   w  ih  th  eh  k  s   t    r   ah   d    ih  t  er  m  ah  n  ey  sh  ah  n  sil
+f5_201 hyp  sil  k  ao  ***  ***  ***  ***  ***  ey  p  dh  ***  p  ***  aa  jh  eh  ***  ***  p  ah   p  eh  k  s  ***  ***  ah  ***  ***  t  er  m  ih  n  iy  sh  ah  n  ***
+f5_201 op    C   C   C   D    D    D    D    D    S  S   C   D   C   D    C   C   C   D    D   S   S   S   C  C  C   D    D    C   D    D   C   C  C   S  C   S   C   C  C   D 
+f5_201 #csid 19 7 0 14
+f5_206 ref  sil  s   t   eh   f    k    uh   d    b   eh   r  l  iy  hh  ae  n   d    ah  l   dh  iy  s  ay  k   ah  l   aa   jh  ih  k  ah  l  t   r   ao  m  ah  sil
+f5_206 hyp  sil  s  ***  eh  ***  ***  ***  ***  ***  th  iy  p  er  hh  ae  n  ***  ***  l  ***  ah  s  ay  k  ***  l  ***  ***  ah  t  uw  l  t  ***  ao  m  ah  ***
+f5_206 op    C   C   D    C   D    D    D    D    D    S   S  S   S   C   C  C   D    D   C   D    S  C   C  C   D   C   D    D    S  S   S  C  C   D    C  C   C   D 
+f5_206 #csid 16 8 0 14
+f5_211 ref  sil  hh   ay   w  ey  ah   n    d   f   r    iy   w  ey  m  iy  n   dh   iy  s  ey   m   th  ih  ng  sil
+f5_211 hyp  ***  hh  ***  ae  oy  ah  ***  ***  f  ***  ***  uw  ey  m  iy  n  ***  ***  s  ey  ***   n  ih  ng  ***
+f5_211 op    D    C   D    S   S   C   D    D   C   D    D    S   C  C   C  C   D    D   C   C   D    S   C   C   D 
+f5_211 #csid 11 4 0 10
+f5_216 ref  sil  ah  d  aa   k   t  er  w   ao  z   ih  n   dh  iy   ae   m   b   y    ah   l  ah  n  s   w    ih  th  dh   iy  p  ey  sh   ah  n   t   sil
+f5_216 hyp  ***  ah  d  aa  ***  t  er  w  ***  z  ***  n  ***  iy  ***  ***  b  ***  ***  iy  ah  n  s  ***  ***   n  dh  ***  p  ey  sh  ***  n  ***  ***
+f5_216 op    D    C  C   C   D   C   C  C   D   C   D   C   D    C   D    D   C   D    D    S   C  C  C   D    D    S   C   D   C   C   C   D   C   D    D 
+f5_216 #csid 18 2 0 15
+f5_221 ref  sil  hh  aw  ey  n   ch  ah  n   t    ih  z   dh  ih   s   s  ah  b  w   ey  eh  s  k   ah  l  ey  t  er  sil
+f5_221 hyp  ***  hh  aa  iy  n  ***  sh  n  ***  ***  z  ***  ih  ***  s  ah  b  w  ***  ih  s  k  ***  l  iy  d  er  sil
+f5_221 op    D    C   S   S  C   D    S  C   D    D   C   D    C   D   C   C  C  C   D    S  C  C   D   C   S  S   C   C 
+f5_221 #csid 14 6 0 8
+f5_226 ref  sil   dh  iy  g  ao  r  jh  ah  s  b  ah   t    er  f  l  ay  ey   t   ah  l  aa  t  ah   v   n  eh  k   t   er  sil
+f5_226 hyp  ***  ***  ih  g  ao  r  jh  ih  s  b  ah  ***  ***  f  l  ay  ey  ***  ah  w  aa  t  ah  ***  p  ah  k  ***  er  sil
+f5_226 op    D    D    S  C   C  C   C   S  C  C   C   D    D   C  C   C   C   D    C  S   C  C   C   D   S   S  C   D    C   C 
+f5_226 #csid 18 5 0 7
+f5_231 ref  sil   w   iy   aa  r  ow  p  ah  n  eh  v  er  iy  m  ah  n   d    iy  iy  v  n   ih  ng  sil
+f5_231 hyp  ***  ***  iy  ***  r  ow  p  ah  n  eh  v   r  iy  m  ah  n  ***  ***  iy  k  n  ***  ng  sil
+f5_231 op    D    D    C   D   C   C  C   C  C   C  C   S   C  C   C  C   D    D    C  S  C   D    C   C 
+f5_231 #csid 16 2 0 6
+f5_236 ref  sil  hh   aw   oy  l  iy  d   uw   y   uw  l  ay  k   y    ao   r  s  ae  l  ah   d    d    r  eh  s  ih  ng  ***  sil
+f5_236 hyp   t   hh  ***  ***  l  iy  d  ***  ***  iy  l  ih  k  ***  ***  er  s  eh  l  ah  ***  ***  jh  eh  s  ih  ng  sil  sil
+f5_236 op    S    C   D    D   C   C  C   D    D    S  C   S  C   D    D    S  C   S  C   C   D    D    S   C  C   C   C   I    C 
+f5_236 #csid 14 6 1 8
+f5_241 ref  sil  dh   iy  jh   ao  aa  p  er  ey   t   s  b  ay   y   uw  z  ih  ng  ae  n  t  ae  g  ah  n   ih  s  t  ih  k  m  ah  s   ah  l  z  sil
+f5_241 hyp  ***  dh  ***  jh  ***  aa  p   r  ey  ***  z  p  ay  ***  iy  z  ih  ng  ah  n  t  eh  g  iy  n  ***  s  t  ih  k  m  ah  s  ***  l  z  ***
+f5_241 op    D    C   D    C   D    C  C   S   C   D   S  S   C   D    S  C   C   C   S  C  C   S  C   S  C   D   C  C   C  C  C   C  C   D   C  C   D 
+f5_241 #csid 22 7 0 8
+f5_246 ref  sil   dh   iy  ae  ng   g   r  iy  b  oy  ae   n  s  er   d   b  ah  t   d   ih   n    t  l  uh  k  ah  p  sil
+f5_246 hyp  ***  ***  ***  ae  ng  ***  r  iy  b  oy  ey  ae  t  er  ***  b  ih  t  ***  ih  ***  dh  m  ah  k  ae  p  sil
+f5_246 op    D    D    D    C   C   D   C   C  C   C   S   S  S   C   D   C   S  C   D    C   D    S  S   S  C   S  C   C 
+f5_246 #csid 13 8 0 7
+f5_251 ref  sil  t  uw  f  er  dh  er   hh  ih  z  p   r   eh  s   t   iy   zh  hh  iy   ah   k    ey  zh  ah   n   l  iy  r   iy   d    z    dh  iy  w  ao  l  s  t   r   iy   t   jh   er  n  ah  l  sil
+f5_251 hyp  ***  t  ah  f   r   d  er  ***  iy  z  p  ***  er  s  ***  iy  ***  sh  iy  ***  ***  ***  ch  iy  jh  uw  iy  r  ***  ***  ***  ***  iy  f   b  l  k  t  ***  iy  ***  jh  ***  r   d  l  sil
+f5_251 op    D   C   S  C   S   S   C   D    S  C  C   D    S  C   D    C   D    S   C   D    D    D    S   S   S   S   C  C   D    D    D    D    C  S   S  C  S  C   D    C   D    C   D   S   S  C   C 
+f5_251 #csid 17 15 0 15
+f5_256 ref  sil  p   l   ae   n    d    p    eh   r    ah  n   t  hh   uh   d  ao   r    g    ah  n  ah  z  ey  sh   ah  n  z  p   r    ah  m   ow   t  b   er  th  k   ah  n  t   r    ow  l  sil
+f5_256 hyp  ***  p  ***  ae  ***  ***  ***  ***  ***  ***  k  er  hh  ***  ah  ao  ***  ***  ***  n  ey  z  ey  sh  ***  n  z  p  ***  ***  m  ***  aw  b  ***   r  k  ***  n  t  ***  ***  l  sil
+f5_256 op    D   C   D    C   D    D    D    D    D    D   S   S   C   D    S   C   D    D    D   C   S  C   C   C   D   C  C  C   D    D   C   D    S  C   D    S  C   D   C  C   D    D   C   C 
+f5_256 #csid 18 6 0 20
+f5_261 ref  sil  w   eh   dh  er  p   r   uw  f  g   ah  l  aa  sh  ah  z   aa   r    v  eh  r   iy  y   uw  s   f    ah  l   ih  n  s  iy  ae   t    ah  l  sil
+f5_261 hyp  ***  w  ***  ***  ah  p  ***  uw  f  g  ***  l  aa  sh  ah  z  ***  ***  er   b  r  ***  y  ***  s  ***  ***  l  ***  n  t  iy  ae  ***  ***  l  ***
+f5_261 op    D   C   D    D    S  C   D    C  C  C   D   C   C   C   C  C   D    D    S   S  C   D   C   D   C   D    D   C   D   C  S   C   C   D    D   C   D 
+f5_261 #csid 18 4 0 15
+f5_266 ref  sil  sh   uh   d  jh  er  ae   f   s  b  iy  k  eh  p   t    ih  n  s   m    ao   l  z  uw  z  sil
+f5_266 hyp  ***  sh  ***  ah  jh   r  ae  ***  s  b  iy  k  ah  p  ***  ***  n  s  ***  ***  ow  z  uw  z  ***
+f5_266 op    D    C   D    S   C   S   C   D   C  C   C  C   S  C   D    D   C  C   D    D    S  C   C  C   D 
+f5_266 #csid 13 4 0 8
+f5_271 ref  sil  ah  m  iy  b  ah  z  ch  ey  n   jh  sh  ey   p   k  aa   n   s   t   ah   n    t   l  iy  sil
+f5_271 hyp  ***   k  m  iy  b  ih  s  ch  ey  n  ***  sh  ey  ***  k  aa  ***  s  ***  ah  ***  ***  w  iy  sil
+f5_271 op    D    S  C   C  C   S  S   C   C  C   D    C   C   D   C   C   D   C   D    C   D    D   S   C   C 
+f5_271 #csid 14 4 0 7
+f5_276 ref  sil  ah  ch  ow  z  ah   n  f  y  uw  w   ih  l   b    ih  k  ah  m  jh  eh  n  er   ah  l  z  sil
+f5_276 hyp  ***   d  ch  ow  z   k  ah  f  y  uw  w  ***  l  ***  ***  p  ah  m  jh  ah  n  er  ***  l  z  ***
+f5_276 op    D    S   C   C  C   S   S  C  C   C  C   D   C   D    D   S   C  C   C   S  C   C   D   C  C   D 
+f5_276 #csid 15 5 0 6
+f5_281 ref  sil  m  ay  d   ih   z  ay  er  z   aa   r    s   ih  m   p  ah  l  g  ih  v   m   iy  w  ah  n   ih   n  f  ao   r   m   ah   t   ih   v    p    ae   r    ah   g   r  ae  f  aa  n  dh  iy  s  ah   b    jh   eh  k   t  sil
+f5_281 hyp  ***  t  ay  d  ***  ah  ae  er  z  ***  ***  ***  ih  s  ah   b  l  k  ih  v  ***  iy  w  ah  n  ***  uw  f  ao  ***  m  ***  ***  ih  ***  ***  ***  ***  ***  ***  k  er  k  er  k  ao   m  s  ah  ***  ***  ***  g  ah  sil
+f5_281 op    D   S   C  C   D    S   S   C  C   D    D    D    C  S   S   S  C  S   C  C   D    C  C   C  C   D    S  C   C   D   C   D    D    C   D    D    D    D    D    D   S   S  S   S  S   S   S  C   C   D    D    D   S   S   C 
+f5_281 #csid 19 17 0 19
+f5_286 ref  sil   dh  ae  t   d   ao  g  ch  ey  s   ah  z  k  ae  t  s  m  er  s   ah  l   ah  s  l  iy  sil
+f5_286 hyp  sil  ***  eh  t  ***  aa  b  ch  ey  s  ***  z  k  ae  t  s  m  er  s  ***  l  ***  s  w  iy  sil
+f5_286 op    C    D    S  C   D    S  S   C   C  C   D   C  C   C  C  C  C   C  C   D   C   D   C  S   C   C 
+f5_286 #csid 17 4 0 5
+f5_291 ref  sil  ah  l   eh  dh  er  hh  ae  n   d    b   ae  g  w   uh   d  b  iy   ah  s  uw   t    ah  b   ah  l  g  ih  f   t   sil
+f5_291 hyp  ***  ah  l  ***  dh  er  hh  ae  n  ***  ***  ae  t  w  ***  ah  b  iy  ***  s  uw  ***  ***  b  ***  l  g  ae  f  ***  sil
+f5_291 op    D    C  C   D    C   C   C   C  C   D    D    C  S  C   D    S  C   C   D   C   C   D    D   C   D   C  C   S  C   D    C 
+f5_291 #csid 18 3 0 10
+f5_296 ref  sil  ae  l   r   iy  s  iy   v   d  ah  jh  oy  n   t   ah  p   oy  n   t  m   ah   n    t   ih  n   dh  iy  b  ay   aa  l  ah  jh  iy   ah  n   d    dh   iy  eh  n  jh   ah  n  ih  r   ih  ng  d  ih  p   aa   r    t  m  ah   n   t  s  sil
+f5_296 hyp  ***  ae  l  ***  ih  s  iy  ***  d  uw  jh  oy  n  ***  ah  p  ***  l  ey  m  ***  ***  ***  ih  n  ***  ah  b  ay  ***  l   r  ch  iy  ***  n  ***  ***  ***  ey  n  jh  ***  n  iy  r  ***  ng  d  ah  p  ***  ***  er  m  ah  ***  t  s  ***
+f5_296 op    D    C  C   D    S  C   C   D   C   S   C   C  C   D    C  C   D   S   S  C   D    D    D    C  C   D    S  C   C   D   C   S   S   C   D   C   D    D    D    S  C   C   D   C   S  C   D    C  C   S  C   D    D    S  C   C   D   C  C   D 
+f5_296 #csid 29 11 0 20
+f5_301 ref  sil  t  aa   d   p   l   ey  s   t   t  aa   p   p   r    ay  ao  r   ah  t  iy  aa  n   g    eh  t   ih  ng  hh  ih  z  b  ay  k   f   ih  k  s   t   sil
+f5_301 hyp  ***  t  aa  ***  p  ***  ih  s  ***  t  aa  ***  p  ***  ***  er  r  ***  d  iy  ah  n  ***  ***  t  ***  eh   d  iy  z  b  ay  k  ***   t  k  s  ***   z 
+f5_301 op    D   C   C   D   C   D    S  C   D   C   C   D   C   D    D    S  C   D   S   C   S  C   D    D   C   D    S   S   S  C  C   C  C   D    S  C  C   D    S 
+f5_301 #csid 17 9 0 13
+f5_306 ref  sil   dh  iy  d  aa  r  k  m  er  k  iy  l   ah   g    uw  n  w  aw  n  d  er   aw  n   d  f  r   er  m  ay  l  z  sil
+f5_306 hyp  ***  ***  ih  d  aa  r  k  m   r  k  iy  l  ***  ***  ***  d  m  aw  n  d  er  ***  r  aw  f  r  ***  m  ay  l  z  ***
+f5_306 op    D    D    S  C   C  C  C  C   S  C   C  C   D    D    D   S  S   C  C  C   C   D   S   S  C  C   D   C   C  C  C   D 
+f5_306 #csid 18 6 0 8
+f5_311 ref  sil  dh  iy  f  r  ay   t    ah  n   d   ch  ay  l   d   w   ao  z   jh  eh   n  t  l  iy   s   ah  b  d  uw  d   b   ay   hh   ih  z  b  ih   g   b  r   ah  dh  er  sil
+f5_311 hyp  ***  dh  ah  f  r  ay  ***  ***  n  ***  ch  aw  l  ***  w  ***  z  ***   t  ae  k  w  iy  ***   z  d  d  uw  d  ***  ay  ***  ***  z  b  ih  ***  b  r  ***   p  er  sil
+f5_311 op    D    C   S  C  C   C   D    D   C   D    C   S  C   D   C   D   C   D    S   S  S  S   C   D    S  S  C   C  C   D    C   D    D   C  C   C   D   C  C   D    S   C   C 
+f5_311 #csid 21 9 0 13
+f5_316 ref  sil  dh   iy  p  r  iy  s  k   uw  l  er  k   uh   d   ah  n   t   v  er  b   ah   l   ay   z   hh  er  f  iy  l   ih  ng  z   ah  b   aw   t   dh  iy  ih  m  er   jh  ah  n   s    iy   k   ah  n   d   ih  sh   ah  n   z   sil
+f5_316 hyp  ***  dh  ***  p  r  iy  s  k  ***  l  eh  k  ***  ***  ah  n  ***  f  er  b  ***  ***  ay  ***   s  er  f   y  l  ***  ng  z  ***  b  ***  ***  aa   p   y  m  er  ***   z  n  ***  ***  ***  th  n  ***  ah  sh  ***  n  ***   s 
+f5_316 op    D    C   D   C  C   C  C  C   D   C   S  C   D    D    C  C   D   S   C  C   D    D    C   D    S   C  C   S  C   D    C  C   D   C   D    D    S   S   S  C   C   D    S  C   D    D    D    S  C   D    S   C   D   C   D    S 
+f5_316 #csid 25 11 0 20
+f5_321 ref  sil   ah  l   ao   y    er   w  ao  z  ah  p   oy  n  t   ah   d  t   uw  eh  k  s   ah  k   y   uw   t   hh  er  w   ih  l  sil
+f5_321 hyp  ***  ***  l  ***  ***  ***  eh  ow  z  ah  p  ***  r  t  ***  ih  t  ***  eh  k  s  ***  k  ***  uw  ***  hh   r  w  ***  l  sil
+f5_321 op    D    D   C   D    D    D    S   S  C   C  C   D   S  C   D    S  C   D    C  C  C   D   C   D    C   D    C   S  C   D   C   C 
+f5_321 #csid 15 5 0 12
+f5_326 ref  sil  dh   iy  s  ih  s  t  ah   m   m  ey  b  r   ey   k   d  aw  n  s  uw  n  s  ow  s  ey  v   y    ao   r  f  ay  l  z  f  r  iy  k   w   ah   n    t   l  iy  sil
+f5_326 hyp  ***  dh  ***  s  ih  s  t  ah  ***  m  ey  b  r  ***  ***  g  aw  n  s  ih  n  s  ah  s  ey  v  ***  ***  er  f  ay  l  s  f  r  iy  k  ***  ah  ***  ***  l  iy  sil
+f5_326 op    D    C   D   C   C  C  C   C   D   C   C  C  C   D    D   S   C  C  C   S  C  C   S  C   C  C   D    D    S  C   C  C  S  C  C   C  C   D    C   D    D   C   C   C 
+f5_326 #csid 29 5 0 10
+f5_331 ref  sil  dh   iy  g  ah  n   m   ah   n   k  eh   p   t   hh  ih  z   v   ih   k   t   ah  m  k   ao   r   n  er  d   ae   t  g  ah  n  p  oy  n   t   f  r   er  th  r  iy  aw  er  z  sil
+f5_331 hyp  sil  dh  ***  k  ah  n  ***  ah  ***  k  eh  ***  t  ***  uw  z  ***  ih  ***  t  ***  m  k  ***  ***  k  er  d  ***  ih  g  ae  n  p  oy  n  ***  f  r  ***   t  r  iy  aw  er  z  ***
+f5_331 op    C    C   D   S   C  C   D    C   D   C   C   D   C   D    S  C   D    C   D   C   D   C  C   D    D   S   C  C   D    S  C   S  C  C   C  C   D   C  C   D    S  C   C   C   C  C   D 
+f5_331 #csid 27 6 0 14
+f5_336 ref  sil   dh  ae   t   n  oy  z  p   r   aa   b    l   ah  m  g  r  ow   z  m  ao  r   ah  n  oy   ih   ng  iy  ch  d  ey  sil
+f5_336 hyp   k   sil  ae  ***  n  oy  s  p  ***  aa  ***  ***   p  m  g  r   z  ah  w  ao  r  ***  n  oy  ***  ***  iy  jh  t  ih   iy
+f5_336 op    S    S    C   D   C   C  S  C   D    C   D    D    S  C  C  C   S   S  S   C  C   D   C   C   D    D    C   S  S   S   S 
+f5_336 #csid 13 11 0 7
+f5_341 ref  sil   w   ih  m  ah   n   m  ey  n  eh  v  er   b   ih  k  ah  m  k  ah  m  p   l   iy   t    l   iy  iy  k   w    ah  l  t   uw  m  eh  n  sil
+f5_341 hyp  sil  ***   l  m  ah  ***  m  ey  n  eh  v  er  ***  ah  k  ah  m  k  ah  n  p  ***  iy  ***  ***  dh  iy  k  ***  ***  l  t  ***  n  ah  n  ***
+f5_341 op    C    D    S  C   C   D   C   C  C   C  C   C   D    S  C   C  C  C   C  S  C   D    C   D    D    S   C  C   D    D   C  C   D   S   S  C   D 
+f5_341 #csid 21 6 0 10
+f5_346 ref  sil   w    iy  w   eh   l   k  ah   m   m  eh  n  iy  n  uw  s  t   uw   d   ah  n   t   s  iy  ch   y    ih   r  sil
+f5_346 hyp  sil  ***  ***  w  ***  uw  ao  ah  ***  m  ay  n  iy  n   y  s  t  ***  ***  iy  n  ***  s  iy  ch  ***  ***  iy   er
+f5_346 op    C    D    D   C   D    S   S   C   D   C   S  C   C  C   S  C  C   D    D    S  C   D   C   C   C   D    D    S   S 
+f5_346 #csid 13 7 0 9
+f5_351 ref  sil  w  ih  ch  ch  er   ch   d  uw  dh  iy  s   m   ih   th  s  w  er  sh  ah  p  ih  n  sil
+f5_351 hyp  ***  w   z  ch   t  er  ***  sh   t   n   t  s  ***  ih  ***  s  w   r  sh  ih  p  ah  n  sil
+f5_351 op    D   C   S   C   S   C   D    S   S   S   S  C   D    C   D   C  C   S   C   S  C   S  C   C 
+f5_351 #csid 11 9 0 4
+f5_356 ref  sil  dh  ey   ao   l   l  ay   k   l  ao  ng  hh  aa   t   sh  aw  er   z  sil
+f5_356 hyp  sil  dh  ey  ***  ***  l  ay  ***  t   w  aa   m   k  sil  dh  iy   l  ay   t 
+f5_356 op    C    C   C   D    D   C   C   D   S   S   S   S   S   S    S   S   S   S   S 
+f5_356 #csid 5 11 0 3
+f5_361 ref  sil  t  ih  m  t  ey   k   s  sh   iy   l  ah  t   uw  s  iy  m  uw   v   iy  z  t   w   ay  s   ah   w  iy   k   sil
+f5_361 hyp  ***  t  ih  n  t  ey  ***  z  sh  ***  uw  iy  t  ***  s  iy  m  uw  ***  iy  s  t  ***  ay  s  ***  uw  iy  ***  sil
+f5_361 op    D   C   C  S  C   C   D   S   C   D    S   S  C   D   C   C  C   C   D    C  S  C   D    C  C   D    S   C   D    C 
+f5_361 #csid 16 6 0 8
+f5_366 ref  sil  hh  er  w  ao  r  d  r   ow   b   k  ah   n   s  ih   s    t   s  ah   v   ow   n  l  iy  s  k  er  t   s    ah   n    d  b   l   aw  s  ah  z  sil
+f5_366 hyp  ***  hh   r  b  ao  r  d  r  ***  ***  p  ah  ***  s  ih  ***  ***  s  ah  ***   p  aa  m  iy  s  k  er  t  ***  ***  ***  uw  b  ***  ao  s  ah  z  ***
+f5_366 op    D    C   S  S   C  C  C  C   D    D   S   C   D   C   C   D    D   C   C   D    S   S  S   C  C  C   C  C   D    D    D    S  C   D    S  C   C  C   D 
+f5_366 #csid 19 8 0 12
+f5_371 ref  sil  ay  d  r  ay   d    dh  iy  s  ah  b   w   ey  b  ah   t    ay  hh  ae   v   ah  n  t   ih  n  ah   f   ch  ey  n  jh  sil
+f5_371 hyp   k   eh  d  r  ay  ***  ***   g  s  ah  b  ***  oy  p  ah  ***  ***  hh  ae  ***   b  n  t  ***  n  ah  ***   t  ey  n  jh  ***
+f5_371 op    S    S  C  C   C   D    D    S  C   C  C   D    S  S   C   D    D    C   C   D    S  C  C   D   C   C   D    S   C  C   C   D 
+f5_371 #csid 16 7 0 9
+f5_376 ref  sil   m   uw   v    dh   iy   g  aa  r  b  ih   jh   n   ih  r  er  t   uw  dh  iy  l   aa  r  jh  w   ih  n   d   ow  sil
+f5_376 hyp  ***  ***  uw  ***  ***  ***  ih   k  r  b  ih  ***  ***   z  y  er  t  ***  ah   g  l  ***  r   d  w  ***  n  ***   l  sil
+f5_376 op    D    D    C   D    D    D    S   S  C  C   C   D    D    S  S   C  C   D    S   S  C   D   C   S  C   D   C   D    S   C 
+f5_376 #csid 11 8 0 11
+f5_381 ref  sil  w   ah  n  s   y   uw  f  ih  n  ih   sh   g  r  iy  s   ih  ng  y   ao   r  ch  ey  n  b  iy  sh   uh   r    t  uw  w  aa  sh  th  er   ow  l  iy  sil
+f5_381 hyp  ***  w  ***  n  s  ***  uw  f  ih  n  ih  ***  jh  k  iy  s  ***  iy  y  ***  uw  ch  ey  n  b  iy  sh  ***  ***  er  ah  w  aa  sh   p  er  ***  n  iy  ***
+f5_381 op    D   C   D   C  C   D    C  C   C  C   C   D    S  S   C  C   D    S  C   D    S   C   C  C  C   C   C   D    D    S   S  C   C   C   S   C   D   S   C   D 
+f5_381 #csid 22 8 0 10
+f5_386 ref  sil  ah  k   r   ae  b   ch  ae   l  ah  jh   d   m  iy  b  ah  t  ah  k   w   ih  k  s  t  ae   b    v   ae  ng  k  w   ih  sh  t   hh  ih  m  sil
+f5_386 hyp  ***  dh  k  ***  ae  b  ***   t  aw   n  jh  ***  w  iy  b  ah  t  ih  k  ***  ih  k  s  t  ae  ***  ***  dh  ey  g  w  ***  sh  t  ***  ah  m  ***
+f5_386 op    D    S  C   D    C  C   D    S   S   S   C   D   S   C  C   C  C   S  C   D    C  C  C  C   C   D    D    S   S  S  C   D    C  C   D    S  C   D 
+f5_386 #csid 18 10 0 10
+f5_391 ref  sil  iy  ch  s   t   ae  g  sh   uh   r  l  iy  f  ay  n   d   z  ah  b  ih  g  f  ao   n  sil
+f5_391 hyp  sil  iy   t  s  ***  eh  n  sh  ***  er  l  iy  p  ay  n  ***  z  ih  b  ih  k  f  aa  ah   n 
+f5_391 op    C    C   S  C   D    S  S   C   D    S  C   C  S   C  C   D   C   S  C   C  S  C   S   S   S 
+f5_391 #csid 12 10 0 3
+f5_396 ref  sil   dh  iy  ae   d   v  er  t  ay  z  ih  ng  v  er  s  ***  ah  v  p   l    ih   m   ah  th   v  er  ay   ah  t  iy  s  t   ao  r  n  eh  v  er  ch  ey  n  jh  ah  z  sil
+f5_396 hyp  sil  ***  iy  ae  ***  p  er  t  ay  z  ih  ng  b  er  s   p   ah  v  p  ***  ***  ***  ah   m  ih   r  ay  ***  n  iy  s  t  ***  r  n  eh  v  er  ch  ey  n   d  ah  z  ***
+f5_396 op    C    D    C   C   D   S   C  C   C  C   C   C  S   C  C   I    C  C  C   D    D    D    C   S   S   S   C   D   S   C  C  C   D   C  C   C  C   C   C   C  C   S   C  C   D 
+f5_396 #csid 29 7 1 8
+f5_401 ref  sil  t  aa  m  ah  s   th  ih   ng   k   s   ah  l   aa  r  jh  er  k   l    ae   m    p    s  aa  l   v   z  dh  iy  p  r  aa  b   l   ah  m  sil
+f5_401 hyp  ***  t  ah  m  ah  s  ***  ih  ***  ***  s  ***  l  ***  r  zh  er  k  ***  ***  ***  ***  eh   t  l  ***  s   p  ih  p  r  aa  b  ***  ah  m  sil
+f5_401 op    D   C   S  C   C  C   D    C   D    D   C   D   C   D   C   S   C  C   D    D    D    D    S   S  C   D   S   S   S  C  C   C  C   D    C  C   C 
+f5_401 #csid 18 7 0 12
+f5_406 ref  sil   dh  iy  th  ih  k  eh  l   m   f  ao  r   ah  s   t    w   ao  z  n   ih  r  l  iy  ow  v  er  w   eh   l    m    d  b  ay  d  ah  ch   eh   l  m   d    ih  z  iy  z  sil
+f5_406 hyp  sil  ***  ah   f  ih  k  ae  l  ***  f  ao  r  ***  s  ***  ***  ih  z  n  ***  y  l  iy  ow  v   r  w  ***  ***  ***  aa  b  ay  t  eh  ch  ***  ow  m  ***  ***  z  iy  z  ***
+f5_406 op    C    D    S   S   C  C   S  C   D   C   C  C   D   C   D    D    S  C  C   D   S  C   C   C  C   S  C   D    D    D    S  C   C  S   S   C   D    S  C   D    D   C   C  C   D 
+f5_406 #csid 22 10 0 13
+f5_411 ref  sil  ***  dh  ow  z  ***  ***  ***  ***  ***  m  y  uw  z   ih  sh  ah  n  z  ***  hh  aa  r   m  ah  n  ay  z  m   aa  r  v   ah  l   ah  s  l  iy  sil
+f5_411 hyp  sil   ih   z   n  z   ih   sh   n    t    r   m  l  ah  t  sil  ah   z  n  z   ih   s  uw  z  hh   r  m  ay  z  m  ***  r  v  ***  l  ***  s  l  iy  sil
+f5_411 op    C    I    S   S  C   I    I    I    I    I   C  S   S  S   S    S   S  C  C   I    S   S  S   S   S  S   C  C  C   D   C  C   D   C   D   C  C   C   C 
+f5_411 #csid 15 14 7 3
+f5_416 ref  sil   dh   ae   t  p  ih   k   p  aa   k    ah  t   w   ao  z  k  aa   t   r   eh   d   hh  ae  n   d   ih  d  sil
+f5_416 hyp  sil  ***  ***  eh  p  ih  ***  p  aa  ***  ***  t  ***  uw  s  k  aa  ***  r  ***  ***  hh  ae  n  ***  ah  d  ***
+f5_416 op    C    D    D    S  C   C   D   C   C   D    D   C   D    S  S  C   C   D   C   D    D    C   C  C   D    S  C   D 
+f5_416 #csid 13 4 0 11
+f5_421 ref  sil  hh  ih  s  p  ae   n   ih   k   k  aa  s  t   uw  m  z   aa   r  k   w   ay   t   k   ah  l  er  f   ah  l  sil
+f5_421 hyp  ***  hh  iy  s  p  ae  ***  ih  ***  k  aa  s  t  ***  n  z  ***  er  k  ***  ay  ***  k  ***  l  ih  f  ***  l  ***
+f5_421 op    D    C   S  C  C   C   D    C   D   C   C  C  C   D   S  C   D    S  C   D    C   D   C   D   C   S  C   D   C   D 
+f5_421 #csid 16 4 0 10
+f5_426 ref  sil   dh   iy  iy  z  iy   g    ow  ih  ng  z   ow  aa  l  ah  jh  ah   s    t    r    ih   l    ae   k   s  t   th  r  uw  aw   t   dh  iy  v  oy  ah   jh  sil
+f5_426 hyp  ***  ***  ***  iy  z  iy  ***  ***  ah  ng  z  ***  ah  l   l  jh  ah  ***  ***  ***  ***  ***  ***  ***  z  t  ***  w  iy  aa  sil  dh  iy  z  iy  ah  ***  ***
+f5_426 op    D    D    D    C  C   C   D    D    S   C  C   D    S  C   S   C   C   D    D    D    D    D    D    D   S  C   D   S   S   S   S    C   C  S   S   C   D    D 
+f5_426 #csid 12 10 0 16
+f5_431 ref  sil   n   aa   n   p   r   aa  f  ah   t   ao  r   g   ah  n   ah  z  ey  sh   ah  n  z   hh  ae   v   f   r   iy  k   w   ah   n    t   f  ah  n   d   r  ey  z  er  z  sil
+f5_431 hyp  ***  ***  aa  ***  p  ***  aa  f  ah  ***  ao  r  ***   k  n  ***  z  ey  sh  ***  n  z  ***  ae  ***  f  ***  ih  k  ***  ah  ***  ***  f  ah  n  ***  r   n  z  er  z  ***
+f5_431 op    D    D    C   D   C   D    C  C   C   D    C  C   D    S  C   D   C   C   C   D   C  C   D    C   D   C   D    S  C   D    C   D    D   C   C  C   D   C   S  C   C  C   D 
+f5_431 #csid 24 3 0 16
+f5_436 ref  sil  ***  er  b  z  b  er  th  d  ey  f  r   iy  k   w   ah   n    t    l   iy  ah  k  er  z  aa  n   th  ae  ng   k   s   g   ih  v  ih  ng  sil
+f5_436 hyp  sil   hh  er  t  s  p  er   s  t  ey  f  r  ***  k  ***  ah  ***  ***  ***   w  ey  k  er  z   r  n  ***  dh  ng  ***  s  ***  ih  b  ah  ng  sil
+f5_436 op    C    I    C  S  S  S   C   S  S   C  C  C   D   C   D    C   D    D    D    S   S  C   C  C   S  C   D    S   C   D   C   D    C  S   S   C   C 
+f5_436 #csid 17 11 1 8
+f5_441 ref  sil  r  aa  k   ah   n    d   r  ow   l  m  y   uw  z  ih  k   hh  ae  z  ah  g  r   ey   t  r  ih  dh  ah  m  sil
+f5_441 hyp  ***  r  aa  k  ***  ***  ***  r   m  aa  n  y  ***  z  ih  k  ***  aa  z  ih  g  r  ***  iy  r  ih   b  ah  m  sil
+f5_441 op    D   C   C  C   D    D    D   C   S   S  S  C   D   C   C  C   D    S  C   S  C  C   D    S  C   C   S   C  C   C 
+f5_441 #csid 16 7 0 7
+f5_446 ref  sil  dh   iy  s  p  iy   ch  s  ih  m  p  ow  z  iy   ah   m   m  ay   t   b   ih   g  ih  n  aa   n   m  ah  n   d   iy  sil
+f5_446 hyp  sil  dh  ***  s  b  iy  ***  s  ah  m  p  ow  z  iy  ***  ***  m  ay  ***  b  ***  iy  ae  n  aa  ***  m  ah  n  ***  ey   t 
+f5_446 op    C    C   D   C  S   C   D   C   S  C  C   C  C   C   D    D   C   C   D   C   D    S   S  C   C   D   C   C  C   D    S   S 
+f5_446 #csid 18 6 0 8
+f5_451 ref  sil   ch  ih  l  d  r  ***  ah  n  ***  ***  ***  ***  k  ae   n  k  ah  n  s  uw   m   m  eh  n  iy  f   r    uw   t  r   ow  l   ah   p   s  ih   n   w  ah  n  s  ih   t   ih  ng  sil
+f5_451 hyp  ***  ***   t  l  d  r   ng   k  n   f    d   sil   t   t   l  ah  k  ih  n  s  uw  ***  m  eh  n  iy  f  ***  ***  er  r  ***  l  ***  ***  t  ih  ***  m  ah  n  s  ih  ***   n  ng  ***
+f5_451 op    D    D    S  C  C  C   I    S  C   I    I    I    I   S   S   S  C   S  C  C   C   D   C   C  C   C  C   D    D    S  C   D   C   D    D   S   C   D   S   C  C  C   C   D    S   C   D 
+f5_451 #csid 21 10 5 11
+f5_456 ref  sil  ah  m  ao  th   z   ih  g   z   ae   g   d  ah  l  ao   ng  dh  iy  p  ae   th   th  r  uw   aa   t  ow  z   g   aa  r   d   ah  n  sil
+f5_456 hyp  ***  ah  m  ao  th  ***  ih  g  ***  ae  ***  n  ah  l  ao  ***   n  ah  p  ae  ***  ***  t  uw  ***  ao  ah  z  ***   k  r  ***   t  n  sil
+f5_456 op    D    C  C   C   C   D    C  C   D    C   D   S   C  C   C   D    S   S  C   C   D    D   S   C   D    S   S  C   D    S  C   D    S  C   C 
+f5_456 #csid 17 8 0 10
+m1_001 ref  sil  dh  ih  s  w   ao  z  iy  z  iy  f   r   er  ah  s  sil
+m1_001 hyp  ***  dh  ih  z  w  ***  z  iy  z  iy  f  ***  er  aw  s  ***
+m1_001 op    D    C   C  S  C   D   C   C  C   C  C   D    C   S  C   D 
+m1_001 #csid 10 2 0 4
+m1_006 ref  sil  w  ay  y  eh  l  ao  r   w  er  iy  ow  v  er  s  ih  l  iy  ay  t  ah  m  z  sil
+m1_006 hyp  ***  w   l  t  iy  l  er  w  ao   r   y  uw  f   r  s  ah  l  iy  ay  d  ah  m  z  ***
+m1_006 op    D   C   S  S   S  C   S  S   S   S   S   S  S   S  C   S  C   C   C  S   C  C  C   D 
+m1_006 #csid 9 13 0 2
+m1_011 ref  sil  s   w    ih  ng  y   ao  r   aa   r  m  ae  z  hh  ay   ae   z    y   uw  k  ae  n  sil
+m1_011 hyp  sil  s  ***  ***  oy  y  ***  r  ***  ao  m  ah  s  hh  ay  ***  ***  ***  zh  t  ae  n  ***
+m1_011 op    C   C   D    D    S  C   D   C   D    S  C   S  S   C   C   D    D    D    S  S   C  C   D 
+m1_011 #csid 9 6 0 8
+m1_016 ref  sil  ae  l   ah  m   ow  n  iy  hh  aa   r   m  z  ah  d   ih  v  ao   r    s   t  m  ae  n  z  w  eh  l   th  sil
+m1_016 hyp  ***  ae  l  ***  m  ***  l  iy  hh  aa  ***  m  z  ah  d  ***  f  ao  ***  ***  z  m  ae  n  s  w   l  f  sil  sil
+m1_016 op    D    C  C   D   C   D   S   C   C   C   D   C  C   C  C   D   S   C   D    D   S  C   C  C  S  C   S  S   S    C 
+m1_016 #csid 16 7 0 7
+m1_021 ref  sil   ow   n   l  iy  l   ao   y  er  z  l   ah   v  m  ih  l   y   ah  n   eh   r  z  sil
+m1_021 hyp  sil  ***  ***  l  uw  l  ***  oy  er  s  l  ***  aa  m  ah  l  ***  iy  n  ***  er  z  ***
+m1_021 op    C    D    D   C   S  C   D    S   C  S  C   D    S  C   S  C   D    S  C   D    S  C   D 
+m1_021 #csid 9 7 0 7
+m1_026 ref  sil  d  ow   n    t    d  uw  ch  aa   r   l  iy  z   d  er   t   iy  d  ih  sh  ah  z  sil
+m1_026 hyp  ***  t  ow  ***  ***  ch  uw  ch  aa  ***  l  iy  z  jh  er  ***  iy  d  ih  sh  uw  z  ***
+m1_026 op    D   S   C   D    D    S   C   C   C   D   C   C  C   S   C   D    C  C   C   C   S  C   D 
+m1_026 #csid 13 4 0 6
+m1_031 ref  sil   b   aa   r    b   z   g   ow  l   d   b  r   ey   s   l  ah  t  w   ao  z   ah   g  r   ae  jh  uw  ey  sh  ah   n   p   r   eh  z  ah  n   t   sil
+m1_031 hyp  sil  ***  aa  ***  ***  z  ***   k  l  ***  b  r  ***  ***  z  ah  d  w  ***  z  ***  uw  r  ***  jh  uw  oy  sh  ah  ***  p  ***  ah  z  ah  n  ***  ***
+m1_031 op    C    D    C   D    D   C   D    S  C   D   C  C   D    D   S   C  S  C   D   C   D    S  C   D    C   C   S   C   C   D   C   D    S  C   C  C   D    D 
+m1_031 #csid 18 6 0 14
+m1_036 ref  sil  b  ae  s   k   ah   t    b   ao  l  k   ae   n  b  iy   ae   n    eh  n  t  er  t  ey  n   ih  ng  s   p   ao  r  t  sil
+m1_036 hyp  ***  b  ae  s  ***  ah  ***  ***   p  l  k  ***  ah  b  iy  ***  ***  ***  n  d  er  t  ih  n  ***  ng  s  ***  ao  r  t  sil
+m1_036 op    D   C   C  C   D    C   D    D    S  C  C   D    S  C   C   D    D    D   C  S   C  C   S  C   D    C  C   D    C  C  C   C 
+m1_036 #csid 18 4 0 10
+m1_041 ref  sil  ae   m   b  ah  d  eh  k   s    t  r   ah  s  p   ih   k  p  aa  k  ah  t   s   ah  k  aa   m   p   l   ih  sh  m  ao   r  sil
+m1_041 hyp  sil  ae  ***  n  dh  d  eh  k  ***  sh  r  ***  s  p  ***  iy  p  aa  v  ih  t  ***  ah  k  aa  ***  p  ***   w  sh  m  ao  er  sil
+m1_041 op    C    C   D   S   S  C   C  C   D    S  C   D   C  C   D    S  C   C  S   S  C   D    C  C   C   D   C   D    S   C  C   C   S   C 
+m1_041 #csid 19 8 0 7
+m1_046 ref  sil   dh  iy  p  r   aw  l  er   w   ao   r   ah  s  k  iy  m  ae  s   k   f   r  er  d  ih  s   g  ay  z  sil
+m1_046 hyp  sil  ***  ih  p  r  ***  l  er  ***  ao  ***  er  s  k  iy  m  ae  s  ***  f  ao   r  t   s  k  eh  ay  z   t 
+m1_046 op    C    D    S  C  C   D   C   C   D    C   D    S  C  C   C  C   C  C   D   C   S   S  S   S  S   S   C  C   S 
+m1_046 #csid 15 9 0 5
+m1_051 ref  sil   eh   n  iy  k  aa   n   t   r   ah  b   y   uw  sh  ah   n    z    w   ih   l  b  iy  g  r   ey  t  l  iy  ah  p   r   iy  sh  iy  ey   t    ih  d  sil
+m1_051 hyp  sil  ***  ah  ih  k  aa  ***  t  ***  er  b  ***  iy  sh  ah  ***  ***  ***   b  ow  b  iy  k  r  ***  g  l   y  ah  p  ***  ih  sh  iy  ey  ***  ***  d  ***
+m1_051 op    C    D    S   S  C   C   D   C   D    S  C   D    S   C   C   D    D    D    S   S  C   C  S  C   D   S  C   S   C  C   D    S   C   C   C   D    D   C   D 
+m1_051 #csid 17 10 0 12
+m1_056 ref  sil  l  ae  s   t   y   ih   r  z  g  ae   s   sh   ao   r    t   ah  jh  k  aa   z    d   s   t   iy   p   p   r   ay   s   ih  n  k  r  iy  s  ah  z  sil
+m1_056 hyp  ***  l  ae  s  ***  y  ***  er  z  k  ae  ***  sh  ***  ***  ***  er  jh  k  aa  ***  ***  s  ***  iy  ***  p  ***  ay  ***   z  n  k  r  iy  z  uw  z  sil
+m1_056 op    D   C   C  C   D   C   D    S  C  S   C   D    C   D    D    D    S   C  C   C   D    D   C   D    C   D   C   D    C   D    S  C  C  C   C  S   S  C   C 
+m1_056 #csid 20 6 0 13
+m1_061 ref  sil  k   l   ih   f   s   d   ih  s   p   l  ey  w   ao  z   m   ih  s  p  l  ey  s   t    aa   n  dh  iy  s  k  r  iy  n  sil
+m1_061 hyp  ***  k  ***  ih  ***  s  ***  ih  s  ***  l  ey  w  ***  z  ***   n  z  p  l  ey  s  ***  ***  ah   m  ah  s  k  r  iy  n  sil
+m1_061 op    D   C   D    C   D   C   D    C  C   D   C   C  C   D   C   D    S  S  C  C   C  C   D    D    S   S   S  C  C  C   C  C   C 
+m1_061 #csid 19 5 0 9
+m1_066 ref  sil   d   aa   k  t  er   z   p  r   ah  s  k  r  ay  b  d  r   ah  g  z  t  uw  f  r  iy   l  iy  sil
+m1_066 hyp  sil  ***   b  ao  p  er  ***  f  r  ***  s  k  r  ow  b  t  r  ***  k  s  t  uw  f  r   y  uw  iy  sil
+m1_066 op    C    D    S   S  S   C   D   S  C   D   C  C  C   S  C  S  C   D   S  S  C   C  C  C   S   S   C   C 
+m1_066 #csid 14 10 0 4
+m1_071 ref  sil  k  w  ao  p  er  ey  sh   ah   n   ah  l   ao  ng  w  ih   th  ah   n  d  er   s   t  ae  n   d   ih  ng  ah  l  iy  v  iy  ey   t   d  ih  s  p  y  uw   t   sil
+m1_071 hyp  ***  k  w  aa  p  er  ey  sh  ***  ***  ah  l  ***  ng  w  ih  ***   k  ow  d  ah  sh  dh  ae  n  ***  ih  ng  dh  l  iy  v  iy  ey  ***  p  ih  s  b  y  uw  ***  ***
+m1_071 op    D   C  C   S  C   C   C   C   D    D    C  C   D    C  C   C   D    S   S  C   S   S   S   C  C   D    C   C   S  C   C  C   C   C   D   S   C  C  S  C   C   D    D 
+m1_071 #csid 25 9 0 9
+m1_076 ref  sil  dh   iy  th  ih  ng  k  er   ih  z  ah  f  ey  m   ah   s  s   k   ah  l   p   ch  er  sil
+m1_076 hyp  sil  dh  ***   f  ih   n  g  er  ***  z  ah  f  ey  m  ***  ih  s  ***  ah  l  ***  ch  er  sil
+m1_076 op    C    C   D    S   C   S  S   C   D   C   C  C   C  C   D    S  C   D    C  C   D    C   C   C 
+m1_076 #csid 15 4 0 5
+m1_081 ref  sil  m  ae  s  k  er  ey   d   p  aa  r   t   iy  z  t  ae  k  s  w   ah  n  z  ih  m  ae  jh   ah  n  ey  sh  ah  n  sil
+m1_081 hyp  ***  r  ae  s  t   r  ey  ***  p  aa  r  ***  iy  s  t  ae  k  s  w  ***  n  z  ih  m  ae  jh  ***  n  ey  sh  ah  n  ***
+m1_081 op    D   S   C  C  S   S   C   D   C   C  C   D    C  S  C   C  C  C  C   D   C  C   C  C   C   C   D   C   C   C   C  C   D 
+m1_081 #csid 23 4 0 6
+m1_086 ref  sil  k  ih   n    d   er   g    aa   r    t    ah   n  ch   ih   l    d  r  ah   n   d  eh  k  er  ey   t   dh   eh   r  k   l   ae  s  r   uw  m  z  f  r   er   ao  l  hh   aa  l  ah  d  ey  z  sil
+m1_086 hyp  ***  k  ih  ***  ***  er  ***  ***  ***  ***  ***  er  ch  ***  ***  ow  t  ah  ***  t  eh  k   r  ey  ***  dh  ***  er  k  ***  aa  t  r  ***  n  z  f  r  ***  ***  l  hh  ***  l  ah  d  ey  z  sil
+m1_086 op    D   C   C   D    D    C   D    D    D    D    D    S   C   D    D    S  S   C   D   S   C  C   S   C   D    C   D    S  C   D    S  S  C   D   S  C  C  C   D    D   C   C   D   C   C  C   C  C   C 
+m1_086 #csid 22 9 0 18
+m1_091 ref  sil  ah  hh  y  uw  jh  t  ae  p   ah   s  t  r  iy  hh   ah  ng  ih  n  hh  er  hh   ao  l  w  ey  sil
+m1_091 hyp  ***  dh  hh  y  uw  jh  t  ae  p  ***  sh  t  r  iy  hh  ***  aa   n  n  hh  er  hh  ***  l  w  ey  sil
+m1_091 op    D    S   C  C   C   C  C   C  C   D    S  C  C   C   C   D    S   S  C   C   C   C   D   C  C   C   C 
+m1_091 #csid 19 4 0 4
+m1_096 ref  sil  hh  ih   z   s   ah   d   ah  n  d   ih  p  aa  r  ch  er  sh   aa   k  t  dh   iy  k  ae  s  t  sil
+m1_096 hyp  ***   t  ih  ***  s  ***  ***  ah  n  d  ***  p  aa  r  ch  er  sh  ***  ao  t  dh  ***  k  ae  s  t  ***
+m1_096 op    D    S   C   D   C   D    D    C  C  C   D   C   C  C   C   C   C   D    S  C   C   D   C   C  C  C   D 
+m1_096 #csid 17 2 0 8
+m1_101 ref  sil  k   l   ae  s   p   dh   iy  s   k    r    uw   ih   n  y  ao   r  l  eh  f  t   hh  ae  n  d  sil
+m1_101 hyp  sil  k  ***  aa  s  ***  dh  ***  s  ***  ***  ***  ***  er  l   m  er  l  ah  f  t  ***  ae  n  d  ***
+m1_101 op    C   C   D    S  C   D    C   D   C   D    D    D    D    S  S   S   S  C   S  C  C   D    C  C  C   D 
+m1_101 #csid 11 6 0 9
+m1_106 ref  sil  t   r   eh  s  p  ae  s  ih  ng  ih  z  f   ao  r  b  ih   d    ah  n   ah  n   d   s  ah   b   jh  eh   k    t   t  uw  p  eh  n   ah  l   t   iy  sil
+m1_106 hyp  sil  t  ***  eh  s  p  ae  s  ih  ng  ih  z  f  ***  r  b  ih  ***  ***  n  ***  n  ***  s  ah  ***  jh  eh  ***  ***  t  uw  p  ae  n  ***  l  ***  iy  sil
+m1_106 op    C   C   D    C  C  C   C  C   C   C   C  C  C   D   C  C   C   D    D   C   D   C   D   C   C   D    C   C   D    D   C   C  C   S  C   D   C   D    C   C 
+m1_106 #csid 28 1 0 11
+m1_111 ref  sil  aa  r   t    ah  f  ih  sh   ah   l   ih  n  t  eh  l   ah  jh   ah  n  s  ih  z  f   r   er  r  iy  l  sil
+m1_111 hyp  sil  ao  r  ***  ***  f  ih  sh  ***  ***  ow  n  t  eh  l  ***  jh  ***  n  s  ih  z  f  ***   l  r  iy  l  sil
+m1_111 op    C    S  C   D    D   C   C   C   D    D    S  C  C   C  C   D    C   D   C  C   C  C  C   D    S  C   C  C   C 
+m1_111 #csid 19 3 0 7
+m1_116 ref  sil  w  iy  p  l  ae   n   t  uw  b  ih  l   d   ah  n  uw  b  eh  v  er   ih  jh  p  l  ae   n   t  sil
+m1_116 hyp  sil  w  ih  p  l  ae  ***  t  ih  b  ih  l  ***  ah  n  uw  b  eh  f  er  ***  ch  p  l  ae  ***  t  sil
+m1_116 op    C   C   S  C  C   C   D   C   S  C   C  C   D    C  C   C  C   C  S   C   D    S  C  C   C   D   C   C 
+m1_116 #csid 20 4 0 4
+m1_121 ref  sil  s  ay   ah   n  t  ih  f  ih   k   p  r   ow   g  r   eh  s  k  ah  m   z   f   r   ah  m   dh  iy  d  ih  v  eh  l   ah   p   m   ah   n    t   ah  v  n   uw  t  eh  k   n   iy  k  s  sil
+m1_121 hyp  ***  s  ay  ***  iy  t  ah  f  ih  ***  p  r  ***  er  r  ***  s  k  ah  m  ***  f  ***  er  m  ***  ah  d  ih  v  eh  l  ***  ***  m  ***  ***  ***  ah  f  n  ***  t  eh  k  ***  iy  k  s  ***
+m1_121 op    D   C   C   D    S  C   S  C   C   D   C  C   D    S  C   D   C  C   C  C   D   C   D    S  C   D    S  C   C  C   C  C   D    D   C   D    D    D    C  S  C   D   C   C  C   D    C  C  C   D 
+m1_121 #csid 28 6 0 16
+m1_126 ref  sil  w  ih  ch  l   ao  ng  aa   r   t  ah  k   ah  l  w   ao  z  ow  p  ey  k   ah   n    d  n  iy  d   ah   d  k   l    eh  r  ah  f   ah  k  ey  sh  ah   n   sil
+m1_126 hyp  ***  w  ih  ch  l  ***  aa   n  ao  er  ah  k  ***  l  w  ***  z  ow  p  ey  k  ***  ***  ih  n  iy  d  ***  uw  k  ***  ***  k  er  f  ***  k  ih  sh  ah  ***   d 
+m1_126 op    D   C   C   C  C   D    S   S   S   S   C  C   D   C  C   D   C   C  C   C  C   D    D    S  C   C  C   D    S  C   D    D   S   S  C   D   C   S   C   C   D    S 
+m1_126 #csid 21 10 0 11
+m1_131 ref  sil  k   er  eh  k   t    eh   k  s  ah  k   y   uw  sh  ah  n  ah   v   m  ay   ih   n    s  t   r   ah  k   sh   ah  n  z   ih  z  k   r    uw  sh  ah  l  sil
+m1_131 hyp  sil  k  ***   r  k  ***  ***  ih  s  ah  k  ***  uw  sh  ah  n  ah  ***  p  ay  ***  ***  jh  t  ***  ah  k  ***  ***  n  z  ***  s  k  ***  ***  er   t  l  sil
+m1_131 op    C   C   D    S  C   D    D    S  C   C  C   D    C   C   C  C   C   D   S   C   D    D    S  C   D    C  C   D    D   C  C   D   S  C   D    D    S   S  C   C 
+m1_131 #csid 20 7 0 13
+m1_136 ref  sil  m   ah  s   k   iy  t  ow  z  ih  g  z  ih  s   t   ih  n  w  ao   r   m  y  uw  m  ih  d  k   l   ay  m  ah  t  s  sil
+m1_136 hyp  ***  m  ***  s  ***  iy  d  ow  z  ih  g  z  ih  s  ***  ih  n  w  ao  ***  m  k  ih  m  ah  d  k  ***  ay  m  ah  p  s  ***
+m1_136 op    D   C   D   C   D    C  S   C  C   C  C  C   C  C   D    C  C  C   C   D   C  S   S  C   S  C  C   D    C  C   C  S  C   D 
+m1_136 #csid 22 5 0 7
+m1_141 ref  sil  r   iy  m  uw  v   dh   iy  s   p    l   ih  n  t  er  w   ih  th  ah  p   eh   r    ah   v  t  w  iy  z  ***  er  z  sil
+m1_141 hyp  sil  r  ***  m  ow  v  ***  ***  s  ***  ***  ah  n  t  er  w  ***   v  ah  p  ***  ***  ***  er  k  w  iy  z   ih  er  z  ***
+m1_141 op    C   C   D   C   S  C   D    D   C   D    D    S  C  C   C  C   D    S   C  C   D    D    D    S  S  C   C  C   I    C  C   D 
+m1_141 #csid 16 5 1 10
+m1_146 ref  sil  hh  er  aa  b  er  n  hh   eh   r    r   iy  m  ay  n   d    ah   d   hh  ih  m   ah  v  ao   t  ah  m  l  iy   v   z  sil
+m1_146 hyp  sil   k  aa  ao  b  er  m  hh  ***  ***  ***  er  m  ay  n  ***  ***  ***   z  ih  m  ***  v   p  aa  ah  m  l  iy  ***  z  ***
+m1_146 op    C    S   S   S  C   C  S   C   D    D    D    S  C   C  C   D    D    D    S   C  C   D   C   S   S   C  C  C   C   D   C   D 
+m1_146 #csid 15 8 0 9
+m1_151 ref  sil  hh  uw  t   uh   k  dh  iy  k  ay  ae   k    d  aw   n    dh  iy  b  ay  uw  sil
+m1_151 hyp  ***   k  uw  t  ***  ah  th  ih  k  ay  ae  ***  dh  aw  ***  ***   m  b  ay  iy   uw
+m1_151 op    D    S   C  C   D    S   S   S  C   C   C   D    S   C   D    D    S  C   C   S   S 
+m1_151 #csid 8 8 0 5
+m1_156 ref  sil  hh  uw  eh  v  er  k  ow  aa  p   er  ey  t   s    ih  n  f  ay  n   d   ih  ng   n   ae  n  z  k  ae  m  iy  ow   w    ih  l  b  iy   r   iy  w  ao  r   d    ih  d  sil
+m1_156 hyp  sil   k   w  er  v   r  k   w  aa  p  ***   r  t  ***  ***  n  f  ay  n  ***  ih  ng  ***  ae  n  s  k  ae  m  iy  ow  ***  ***  l  b  iy  ***  uw  w  ao  r  ***  ***  d  sil
+m1_156 op    C    S   S   S  C   S  C   S   C  C   D    S  C   D    D   C  C   C  C   D    C   C   D    C  C  S  C   C  C   C   C   D    D   C  C   C   D    S  C   C  C   D    D   C   C 
+m1_156 #csid 27 8 0 10
+m1_161 ref  sil   w    iy   k  uh   d  b  eh  r  l  iy  s  iy  dh   iy  f  y  ao   r    d    z  th  r  uw  dh   iy  s   n   ow  f  l  er  iy  z  sil
+m1_161 hyp  sil  ***  ***  ih   g  ih  b  eh  r  l  ih  s  iy  dh  ***  f  y  ao  ***  ***  er   s  f  ah  dh  ***  s  ***  ow  f  l  er  iy  z  ***
+m1_161 op    C    D    D    S   S   S  C   C  C  C   S  C   C   C   D   C  C   C   D    D    S   S  S   S   C   D   C   D    C  C  C   C   C  C   D 
+m1_161 #csid 19 8 0 8
+m1_166 ref  sil  dh   iy  k  ae  t  s  m  iy   aw   ao  l   w   ey  z  hh  er   t   s  m  ay  ih   r  z  sil
+m1_166 hyp  ***  dh  ***  k  ae  t  s  n  iy  ***  ***  l  ***  oy  z  hh  er  ***  p  m  oy  iy  er  z  ***
+m1_166 op    D    C   D   C   C  C  C  S   C   D    D   C   D    S  C   C   C   D   S  C   S   S   S  C   D 
+m1_166 #csid 12 6 0 7
+m1_171 ref  sil   d    ih  s  t  r  oy  eh   v   er  iy  f  ay   l  r  iy  l  ey   t    ih  d   t  uw  m  ay   aa   d  ah  t   s   sil
+m1_171 hyp  sil  ***  ***  t  t  r  iy  eh  ***   f   r  f  ay  ow  w   r  l  ey  ***  ***  d  ch  uw  m  ay  ***  ao  ah  t  ***   z 
+m1_171 op    C    D    D   S  C  C   S   C   D    S   S  C   C   S  S   S  C   C   D    D   C   S   C  C   C   D    S   C  C   D    S 
+m1_171 #csid 14 10 0 7
+m1_176 ref  sil  dh  ey   eh   n   jh  oy  ih  t  w   ih   n  ay  aa   d  ih  sh   ah  n  sil
+m1_176 hyp  sil  dh  ey  ***  ***  jh  oy  ih  p  w  ***  ah  ay  ow  jh  ih  sh  ***  n  ***
+m1_176 op    C    C   C   D    D    C   C   C  S  C   D    S   C   S   S   C   C   D   C   D 
+m1_176 #csid 11 4 0 5
+m1_181 ref  sil  y  ah  ng  ch   ih   l    d  r  ah  n   sh  uh  d  ah  v  oy  d  ih  k  s   p   ow  zh  er  t  uw  k   ah  n  t  ey  jh  ah  s   d   ih  z  iy  z  ah  z  sil
+m1_181 hyp  sil  y  ow  ng  ch  ***  ***  ow  v  er  n  ***  ch  d  ah  v  oy  d  ih  k  s  ***  ow  sh  er  t  uw  k  ***  n  t  ey  jh  ih  s  ***  ih  z  iy  z  uw  z  ***
+m1_181 op    C   C   S   C   C   D    D    S  S   S  C   D    S  C   C  C   C  C   C  C  C   D    C   S   C  C   C  C   D   C  C   C   C   S  C   D    C  C   C  C   S  C   D 
+m1_181 #csid 28 8 0 7
+m1_186 ref  sil  iy  v   ih   n  ay   ah  k  ey   zh  ah  n  l  iy  g   eh   t  dh  iy  m  ah  n  d  iy  b   l   uw  z  sil
+m1_186 hyp  sil  iy  v  ***  uw  ay  ***  k  ey  ***  sh  n  l  ih  g  ***  ih   p  ah  m  ah  n  d  ey  b  ***  uw  z  sil
+m1_186 op    C    C  C   D    S   C   D   C   C   D    S  C  C   S  C   D    S   S   S  C   C  C  C   S  C   D    C  C   C 
+m1_186 #csid 17 7 0 5
+m1_191 ref  sil  m  ay  k   ah  l  k   ah  l   er   d  dh   iy  b  eh  d  r   uw   m  w   ao  l   w    ih  th  k  r  ey  aa  n  z  sil
+m1_191 hyp  sil  m  ay  k  ***  l  k  ***  l  ***  ah  dh  ***  b  eh  d  r  ***  ng  w  ***  l  ***  ***   f  k  r  ey  aw  d  z  ***
+m1_191 op    C   C   C  C   D   C  C   D   C   D    S   C   D   C   C  C  C   D    S  C   D   C   D    D    S  C  C   C   S  S  C   D 
+m1_191 #csid 18 5 0 9
+m1_196 ref  sil  dh   iy  s  er   m   ah   n    eh  m   f  ah  s  ay   z    d   dh  iy  n  iy   d    f   r  er   ah  f  er  m  ah   t   ih   v  ae   k   sh  ah   n   sil
+m1_196 hyp  sil  dh  ***  s  er  ***  ah  ***  ***  m  iy   v  s  ay  ***  ***  th  ih  n  iy  ***  ***  k  er  ***  f   r  m  ah  ***   d  ah  ae  ***  ch  ah  ***   d 
+m1_196 op    C    C   D   C   C   D    C   D    D   C   S   S  C   C   D    D    S   S  C   C   D    D   S   C   D   C   S  C   C   D    S   S   C   D    S   C   D    S 
+m1_196 #csid 16 10 0 12
+m1_201 ref  sil  k  ao  r  iy  ah  t  ae  k   t    dh  iy  p  r  aa  jh  eh  k   t   w   ih   th   eh   k   s   t   r  ah  d   ih  t  er  m   ah  n  ey  sh   ah  n  sil
+m1_201 hyp  sil  k  ao  r  iy  eh  t  ae  k  ***  ***  ah  p  r  ah  jh  eh  k  ***  w  ***  ***  ***  ***  v  ae  ch  er  d  ***  t  er  m  ***  n  ey  sh  ***  n  ***
+m1_201 op    C   C   C  C   C   S  C   C  C   D    D    S  C  C   S   C   C  C   D   C   D    D    D    D   S   S   S   S  C   D   C   C  C   D   C   C   C   D   C   D 
+m1_201 #csid 22 7 0 11
+m1_206 ref  sil   s  t  eh  f  k   uh   d  b   eh  r  l  iy  hh  ae  n   d    ah  l   dh   iy  s  ay  k   ah  l  aa   jh   ih   k  ah  l  t   r   ao  m   ah  sil
+m1_206 hyp  ***  sh  t  eh  f  k  ***  ah  b  ***  r  l  iy  hh  ae  n  ***  ***  l  ***  ***  s  ay  k  ***  l  aa  ***  ***  ch   g  l  t  ***  aa  m  ***   l 
+m1_206 op    D    S  C   C  C  C   D    S  C   D   C  C   C   C   C  C   D    D   C   D    D   C   C  C   D   C   C   D    D    S   S  C  C   D    S  C   D    S 
+m1_206 #csid 20 6 0 12
+m1_211 ref  sil  hh  ay  w  ey   ah  n   d   f  r  iy  w  ey  m  iy   n   dh   iy  s  ey   m  th  ih  ng  sil
+m1_211 hyp  ***   p  ay  w  ey  ***  n  ***  f  r  iy  w  ey  n  iy  ***  dh  ***  s  ih  ng   f  ih  ng  ***
+m1_211 op    D    S   C  C   C   D   C   D   C  C   C  C   C  S   C   D    C   D   C   S   S   S   C   C   D 
+m1_211 #csid 14 5 0 6
+m1_216 ref  sil  ah  d  aa   k   t  er  w   ao  z  ih  n   dh  iy  ae   m   b  y   ah   l   ah  n  s   w    ih  th  dh  iy  p  ey  sh   ah  n   t   sil
+m1_216 hyp  sil  dh  z  aa  ***  t  er  w  ***  z  ih  n  ***  iy  ae  ***  n  y  ***  ***  uw  n  s  ***  ***  ah   f  ih  p  ey  sh  ***  n  ***   z 
+m1_216 op    C    S  S   C   D   C   C  C   D   C   C  C   D    C   C   D   S  C   D    D    S  C  C   D    D    S   S   S  C   C   C   D   C   D    S 
+m1_216 #csid 17 8 0 10
+m1_221 ref  sil  hh  aw   ey  n  ch  ah  n   t    ih  z   dh  ih   s  s  ah  b  w  ey  eh  s  k   ah  l  ey  t  er  sil
+m1_221 hyp  sil  hh  aw  ***  l  iy  jh  n  ***  ***  z  ***   z  ah  s  ah  b  w  oy  ah  s  k  ***  l  ay  d  er  sil
+m1_221 op    C    C   C   D   S   S   S  C   D    D   C   D    S   S  C   C  C  C   S   S  C  C   D   C   S  S   C   C 
+m1_221 #csid 14 9 0 5
+m1_226 ref  sil  dh   iy  g  ao  r  jh  ah   s    b   ah   t  er  f   l   ay  ey   t    ah   l   aa  t  ah  v  n   eh   k  t  er  sil
+m1_226 hyp  sil  dh  ***  g  ao  r  jh  ah  ***  ***   z  ow  er  f  ***  oy  ey  ***  ***  ***   d  w  ao  v  n  ***  ih  t  er  ***
+m1_226 op    C    C   D   C   C  C   C   C   D    D    S   S   C  C   D    S   C   D    D    D    S  S   S  C  C   D    S  C   C   D 
+m1_226 #csid 14 7 0 9
+m1_236 ref  sil  hh  aw  oy  l  iy  d   uw   y   uw  l  ay  k   y    ao   r  s  ae  l   ah   d   d   r   eh  s  ih  ng  sil
+m1_236 hyp  ***  hh  aw  oy  l  iy  d  ***  ***  iy  l  ih  k  ***  ***  ih  s  eh  l  ***  ***  d  ***  er  s  ih  ng  ***
+m1_236 op    D    C   C   C  C   C  C   D    D    S  C   S  C   D    D    S  C   S  C   D    D   C   D    S  C   C   C   D 
+m1_236 #csid 14 5 0 9
+m1_241 ref  sil  dh   iy  jh  ao  aa  p  er  ey  t  s  b  ay   y  uw  z  ih  ng  ae  n  t  ae  g  ah  n  ih  s   t   ih   k   m  ah  s   ah  l  z  sil
+m1_241 hyp  sil  dh  ***  jh  ao   l  p  er  ey  t  s  b  ay  iy  uw  z  ih  ng  ae  n  t  ay  g  ih  n  ih  s  ***  ih  ***  m  ao  s  ***  l  z  ***
+m1_241 op    C    C   D    C   C   S  C   C   C  C  C  C   C   S   C  C   C   C   C  C  C   S  C   S  C   C  C   D    C   D   C   S  C   D   C  C   D 
+m1_241 #csid 27 5 0 5
+m1_246 ref  sil  dh  iy   ae  ng  g  r   iy  b  oy  ae   n   s  er   d   b  ah  t   d   ih   n    t    l   uh  k  ah   p  sil
+m1_246 hyp  ***  dh  iy  ***  ih  n  r  ***  b  oy  iy  ae  ch  er  ***  p  ah  t  ***  ih  ***  ***  ***   w  k   k  aw  sil
+m1_246 op    D    C   C   D    S  S  C   D   C   C   S   S   S   C   D   S   C  C   D    C   D    D    D    S  C   S   S   C 
+m1_246 #csid 11 9 0 8
+m1_251 ref  sil   t  uw  f  er   dh  er  hh  ih  z  p  r   eh  s   t   iy   zh   hh  iy  ah  k  ey   zh  ah  n  l  iy  ***  r  iy   d    z   dh  iy  w   ao  l   s   t  r  iy   t   jh  er   n    ah  l  sil
+m1_251 hyp  ***  jh   r  f  er  ***  ah   r  ah  z  p  r  ***  s  ***  iy  ***  ***  sh  ih  k  ey  ***  sh  n  l  iy   uw  r  iy  ***  ***   s  ow  w  ***  l  ***  t  r  iy  ***  jh  er  ***  ***  l  ***
+m1_251 op    D    S   S  C   C   D    S   S   S  C  C  C   D   C   D    C   D    D    S   S  C   C   D    S  C  C   C   I   C   C   D    D    S   S  C   D   C   D   C  C   C   D    C   C   D    D   C   D 
+m1_251 #csid 22 10 1 15
+m1_256 ref  sil  p   l   ae   n   d  p   eh  r   ah   n    t   hh   uh   d  ao  r   g    ah  n   ah  z  ey  sh   ah  n  z  p   r   ah  m  ow  t  b  er   th  k  ah  n  t  r   ow  l  sil
+m1_256 hyp  sil  p  ***  ay  ah  jh  p  ***  r  ***  ***  ***  hh  ***  er  ao  r  ***  ***  n  ***  z  ey  sh  ***  n  z  p  ***  ah  m  ow  t  b  er  ***  f  ih  n  t  r  ***  l   z 
+m1_256 op    C   C   D    S   S   S  C   D   C   D    D    D    C   D    S   C  C   D    D   C   D   C   C   C   D   C  C  C   D    C  C   C  C  C   C   D   S   S  C  C  C   D   C   S 
+m1_256 #csid 24 7 0 13
+m1_261 ref  sil  w   eh  dh  er  p  r   uw  f  g  ah  l  aa  sh  ah  z   aa   r  v   eh   r  iy   y    uw  s  f   ah  l   ih  n  s  iy   ae   t  ah  l  sil
+m1_261 hyp  sil  w  ***  dh  ah  p  r  ***  v  k  ah  l  aa  sh  uw  z  ***  er  v  ***  er  iy  ***  ***  z  f  ***  l  ***  n  s  iy  ***  aw   v  l  sil
+m1_261 op    C   C   D    C   S  C  C   D   S  S   C  C   C   C   S  C   D    S  C   D    S   C   D    D   S  C   D   C   D   C  C   C   D    S   S  C   C 
+m1_261 #csid 19 9 0 9
+m1_266 ref  sil  sh   uh   d  jh  er  ae  f  s  b  iy  k  eh  p   t    ih  n  s  m   ao  l  z  uw  z  sil
+m1_266 hyp  sil  sh  ***  ah  jh  er  ae  f  s  b  iy  k  eh  p  ***  ***  m  s  m  ***  l  z  uw  z  ***
+m1_266 op    C    C   D    S   C   C   C  C  C  C   C  C   C  C   D    D   S  C  C   D   C  C   C  C   D 
+m1_266 #csid 18 2 0 5
+m1_271 ref  sil  ah  m  iy  b  ah  z  ch  ey  n   jh  sh  ey  p   k   aa   n   s   t   ah   n   t  l  iy  sil
+m1_271 hyp  ***  dh  m  iy  g  ah  s  ch  ey  n  ***  sh  ey  p  ***  aa  ***  s  ***  ah  ***  b  l  iy  sil
+m1_271 op    D    S  C   C  S   C  S   C   C  C   D    C   C  C   D    C   D   C   D    C   D   S  C   C   C 
+m1_271 #csid 15 4 0 6
+m1_276 ref  sil  ah  ch  ow  z   ah  n  f  y   uw   w    ih  l  b  ih  k  ah  m  jh  eh  n  er   ah  l  z  sil
+m1_276 hyp  ***  ih  ch  ow  z  ***  n  f  y  ***  ***  ***  l  b  ih  t  ah  m  jh  ih  n  er  ***  l  z  ***
+m1_276 op    D    S   C   C  C   D   C  C  C   D    D    D   C  C   C  S   C  C   C   S  C   C   D   C  C   D 
+m1_276 #csid 16 3 0 7
+m1_281 ref  sil  m  ay  d  ih  z  ay  er   z   aa   r  s  ih  m  p   ah  l  g  ih   v   m  iy  w   ah  n   ih  n  f  ao   r   m  ah   t    ih   v   p   ae  r   ah   g   r   ae  f   aa   n    dh  iy  s  ah  b  jh   eh   k    t  sil
+m1_281 hyp  sil  w  ay  t  ih  z  ay  er  ***   v  er  s  ah  m  p  ***  l  k  ih  ***  n  iy  w  ***  n  ***  n  f  ao  ***  m  ah  ***  ***  ***  p  ***  r  ***  ***  r  ***  f  ***  ***  ***   l  s  ah  b  jh  ***  ***  ih  sil
+m1_281 op    C   S   C  S   C  C   C   C   D    S   S  C   S  C  C   D   C  S   C   D   S   C  C   D   C   D   C  C   C   D   C   C   D    D    D   C   D   C   D    D   C   D   C   D    D    D    S  C   C  C   C   D    D    S   C 
+m1_281 #csid 28 9 0 18
+m1_286 ref  sil  dh  ae  t   d   ao   g  ch  ey  s  ah  z  k  ae  t   s   m  er  s   ah  l   ah  s  l  iy  sil
+m1_286 hyp  ***   b  ae  t  ***   t  aa  ch  ey  s  ah  s  k  ae  t  ***  m  er  s  ***  l  ***  s  l  iy  sil
+m1_286 op    D    S   C  C   D    S   S   C   C  C   C  S  C   C  C   D   C   C  C   D   C   D   C  C   C   C 
+m1_286 #csid 17 4 0 5
+m1_291 ref  sil   ah  l  eh  dh  er  hh  ae  n   d   b  ae   g  w  uh   d  b  iy  ah  s  uw   t    ah  b   ah  l  g  ih  f   t   sil
+m1_291 hyp  ***  ***  l  ah   v  er  hh  ae  n  ***  b  ae  ih  d   w  ah  b  iy  ih  s  uw  ***  ***  b  ***  l  k  ih  f  ***  sil
+m1_291 op    D    D   C   S   S   C   C   C  C   D   C   C   S  S   S   S  C   C   S  C   C   D    D   C   D   C  S   C  C   D    C 
+m1_291 #csid 16 8 0 7
+m1_296 ref  sil  ae  l  r   iy  s  iy   v   d  ah  jh  oy   n    t   ah  p  oy   n    t   m  ah  n   t    ih  n   dh  iy  b  ay   aa  l   ah  jh  iy  ah  n   d    dh   iy   eh   n  jh   ah  n  ih  r   ih  ng  d   ih  p  aa   r    t   m  ah  n   t   s  sil
+m1_296 hyp   k   ae  l  r  ***  s  iy  ***  z  ih  jh  oy  ***  ***   d  p  oy  ***  ***  m  ah  n  ***  ***  n  ***  ah  b  ay  ***  l  ***  jh  iy  ih  n  ***  ***  ***  ***  ih  jh  ***  n   y  r  ***  iy  d  ***  p  aa  ***  ***  p  dh  n  ***  z  sil
+m1_296 op    S    C  C  C   D   C   C   D   S   S   C   C   D    D    S  C   C   D    D   C   C  C   D    D   C   D    S  C   C   D   C   D    C   C   S  C   D    D    D    D    S   C   D   C   S  C   D    S  C   D   C   C   D    D   S   S  C   D   S   C 
+m1_296 #csid 27 12 0 21
+m1_301 ref  sil  t  aa   d   p  l  ey  s   t   t  aa   p   p   r   ay  ao  r   ah  t  iy  aa  n   g    eh  t  ih  ng  hh  ih  z  b  ay  k  f  ih  k  s   t   sil
+m1_301 hyp  sil  t  aa  ***  p  l  ey  s  ***  t  aa  ***  p  ***  er  ao  r  ***  d  iy  ah  n  ***  ***  t  ih   d  ih   d  z  b  ay  k  f  ih  k  s  ***  ***
+m1_301 op    C   C   C   D   C  C   C  C   D   C   C   D   C   D    S   C  C   D   S   C   S  C   D    D   C   C   S   S   S  C  C   C  C  C   C  C  C   D    D 
+m1_301 #csid 24 6 0 9
+m1_306 ref  sil  dh  iy   d  aa  r  k  m  er  k  iy  l   ah  g  uw  n  w  aw   n    d   er  aw   n    d   f  r   er  m  ay  l  z  sil
+m1_306 hyp  ***  dh   d  jh  aa  r  t  m   r  s   y  l  ***  g  uw  b  w  aw  ***  ***   r  aw  ***  ***  f  r  ***  m  ay  l  z  ***
+m1_306 op    D    C   S   S   C  C  S  C   S  S   S  C   D   C   C  S  C   C   D    D    S   C   D    D   C  C   D   C   C  C  C   D 
+m1_306 #csid 16 8 0 8
+m1_311 ref  sil  dh   iy  f  r   ay   t    ah  n  d  ch  ay  l  d  w   ao  z  jh  eh  n   t    l    iy  s  ah   b    d  uw   d   b  ay   hh   ih   z   b  ih   g   b  r  ah  dh  er  sil
+m1_311 hyp  ***  dh  ***  f  r  ***  ***  ***  d  m  ch  aa  l  p  w  ***  z  jh  ih  n  ***  ***  ***  s  ah  ***  jh  uw  ***  b  ay  ***  ***  ***  d  ih  ***  b  r  ow  dh  er  ***
+m1_311 op    D    C   D   C  C   D    D    D   S  S   C   S  C  S  C   D   C   C   S  C   D    D    D   C   C   D    S   C   D   C   C   D    D    D   S   C   D   C  C   S   C   C   D 
+m1_311 #csid 19 8 0 16
+m1_316 ref  sil  dh   iy  p   r   iy  s   k    uw  l  er  k  uh  d   ah  n   t   v  er  b   ah  l  ay   z   hh  er  f  iy  l   ih  ng  z  ah  b  aw  t   dh  iy   ih  m  er  jh   ah  n  s  iy  k  ah  n  d  ih  sh   ah  n  z  sil
+m1_316 hyp  sil  dh  ***  p  ***  ih  s  ***  ***  l  uh  k  uh  d  ***  n  ***  p  er  b  ***  l  ay  ***   f  er  f   y  l  ***   n  z  ah  b  aa  t  ***  iy  ***  m   r  jh  ***  n  t  iy  f  ih  n  d  ih  sh  ***  n  z  ***
+m1_316 op    C    C   D   C   D    S  C   D    D   C   S  C   C  C   D   C   D   S   C  C   D   C   C   D    S   C  C   S  C   D    S  C   C  C   S  C   D    C   D   C   S   C   D   C  S   C  S   S  C  C   C   C   D   C  C   D 
+m1_316 #csid 31 11 0 14
+m1_321 ref  sil   ah  l   ao   y  er  w   ao  z   ah  p  oy   n   t  ah   d   t   uw  eh  k  s  ah  k   y   uw   t   hh  er  w  ih  l  sil
+m1_321 hyp  sil  ***  l  ***  oy  er  w  ***  z  ***  p  oy  ***  t  ah  ***  t  ***  eh  k  s  ah  k  ***  uw  ***  hh  er  w  ih  l  sil
+m1_321 op    C    D   C   D    S   C  C   D   C   D   C   C   D   C   C   D   C   D    C  C  C   C  C   D    C   D    C   C  C   C  C   C 
+m1_321 #csid 22 1 0 9
+m1_326 ref  sil  dh   iy  s  ih  s   t   ah   m   m  ey  b  r   ey   k  d  aw  n  s  uw  n  s  ow  s  ey  v   y    ao   r  f  ay  l   z    f   r  iy  k   w   ah   n   t  l  iy  sil
+m1_326 hyp  sil  dh  ***  s  ih  s  ***  ah  ***  m  ey  g  r  ***  ih  t  aw  m  s  uw  n  s  ow  s  ey  v  ***  ***  er  f  ay  l  ***  ***  s  ih  k  ***  ah  ***  b  l  iy  ***
+m1_326 op    C    C   D   C   C  C   D    C   D   C   C  S  C   D    S  S   C  S  C   C  C  C   C  C   C  C   D    D    S  C   C  C   D    D   S   S  C   D    C   D   S  C   C   D 
+m1_326 #csid 25 8 0 11
+m1_331 ref  sil  dh  iy  g   ah   n  m  ah   n  k  eh  p   t    hh  ih  z   v   ih   k   t   ah   m  k  ao   r   n  er  d   ae   t  g  ah  n  p  oy  n   t   f   r   er  th  r  iy  aw  ***  er  z  sil
+m1_331 hyp  sil  dh  ih  g  ***  eh  m  ih  ng  k  ae  p  ***  ***  ih  z  ***  ih  ***  t  ***  ng  k  ao  ***  m  er  d  ***  ay  p  ah  m  p  oy  n  ***  f  ***  er   f  r  iy  aw   ao  er  z  ***
+m1_331 op    C    C   S  C   D    S  C   S   S  C   S  C   D    D    C  C   D    C   D   C   D    S  C   C   D   S   C  C   D    S  S   C  S  C   C  C   D   C   D    C   S  C   C   C   I    C  C   D 
+m1_331 #csid 25 11 1 11
+m1_336 ref  sil  dh   ae   t  n  oy  z  p  r   aa   b  l   ah  m  g  ***  ***  r  ow  z  m  ao  r   ah  n  oy   ih  ng  iy  ch  d  ey  ***  sil
+m1_336 hyp  sil  dh  ***  ay  n  oy  s  p  r  ***  ao  l  ***  m  g   ow   z   r  ow  z  m  ao  r  ***  n  oy  ***  ng  iy  jh  s  ey   iy  sil
+m1_336 op    C    C   D    S  C   C  S  C  C   D    S  C   D   C  C   I    I   C   C  C  C   C  C   D   C   C   D    C   C   S  S   C   I    C 
+m1_336 #csid 21 5 3 5
+m1_341 ref  sil  w   ih  m  ah   n   m  ey  n  eh  v  er  b  ih  k  ah  m   k   ah  m  p   l   iy   t    l   iy  iy  k   w    ah  l  t  uw  m  eh  n  sil
+m1_341 hyp  sil  w  ***  m  ah  ***  m  ey  n  eh  v  er  b  iy  k  aw  m  ***   p  m  p  ***  iy  ***  ***   v  iy  k  ***  ***  l  t  ah  m  ah  n  sil
+m1_341 op    C   C   D   C   C   D   C   C  C   C  C   C  C   S  C   S  C   D    S  C  C   D    C   D    D    S   C  C   D    D   C  C   S  C   S  C   C 
+m1_341 #csid 23 6 0 8
+m1_346 ref  sil   w    iy  w  eh   l  k   ah   m   m  eh  n  iy  n   uw  s  t  uw   d   ah  n   t   s  iy  ch  y   ih   r  sil
+m1_346 hyp  ***  ***  ***  w  uw  uh  k  ***  ***  m  eh  n  iy  n  ***  s  t  uw  ***   z  n  ***  s  iy  ch  y  ***  er  sil
+m1_346 op    D    D    D   C   S   S  C   D    D   C   C  C   C  C   D   C  C   C   D    S  C   D   C   C   C  C   D    S   C 
+m1_346 #csid 16 4 0 9
+m1_351 ref  sil  w  ih  ch  ch  er  ch  d  uw   dh   iy  s  m  ih   th  s  w   er  sh  ah  p  ih   n  sil
+m1_351 hyp  sil  w  uh  jh  ch  er  ch  t  uw  ***  ***  s  m  ih  ***  s  w  ***  sh  ih  p  ih  ng  sil
+m1_351 op    C   C   S   S   C   C   C  S   C   D    D   C  C   C   D   C  C   D    C   S  C   C   S   C 
+m1_351 #csid 15 5 0 4
+m1_356 ref  sil  dh  ey  ao   l   l  ay  k  l   ao  ng  hh  aa   t  sh  aw  er  z  sil
+m1_356 hyp  ***  dh  ey  ao  ***  l  ay  k  l  ***  ng  hh  aa  ch  aw  ao  er  z  ***
+m1_356 op    D    C   C   C   D   C   C  C  C   D    C   C   C   S   S   S   C  C   D 
+m1_356 #csid 12 3 0 4
+m1_361 ref  sil  t  ih  m  t  ey   k    s   sh  iy  l  ah  t  uw  s  iy  m  uw   v   iy  z  t   w   ay  s   ah  w  iy   k   sil
+m1_361 hyp  ***  t  ih  n  t  ey  ***  ***  sh   y  l  ah  t  ih  s  iy  n  uw  ***  iy  s  t  ***  oy  s  ***  w  iy  ***  sil
+m1_361 op    D   C   C  S  C   C   D    D    C   S  C   C  C   S  C   C  S   C   D    C  S  C   D    S  C   D   C   C   D    C 
+m1_361 #csid 17 6 0 7
+m1_366 ref  sil  hh  er  w   ao  r  d  r  ow  b  k   ah  n   s    ih  s   t  s  ah   v    ow  n  l  iy  s  k  er  t   s   ah   n    d   b   l   aw  s  ah  z  sil
+m1_366 hyp  ***  hh   r  w  ***  r  t  r  ah  b  k  ***  n  ***  ***  s  ah  s  ah  ***  ***  k  l  iy  s  k  er  t  ***  ah  ***  ***  b  ***  aa  s  ah  z  sil
+m1_366 op    D    C   S  C   D   C  S  C   S  C  C   D   C   D    D   C   S  C   C   D    D   S  C   C  C  C   C  C   D    C   D    D   C   D    S  C   C  C   C 
+m1_366 #csid 22 6 0 11
+m1_371 ref  sil  ay  d  r   ay   d   dh   iy  s  ah  b  w  ey  b  ah   t   ay  hh  ae  v  ah  n  t   ih  n  ah  f  ch  ey   n  jh  sil
+m1_371 hyp  ***  ay  v  r  ***  ***  dh  ***  s  ah  b  w  ih  b  ah  ***  ay  hh  ae  f  ah  n  t  ***  n  ah  f  ch  er  iy   n   sh
+m1_371 op    D    C  S  C   D    D    C   D   C   C  C  C   S  C   C   D    C   C   C  S   C  C  C   D   C   C  C   C   S   S   S   S 
+m1_371 #csid 19 7 0 6
+m1_376 ref  sil  m  uw   v   dh  iy  g  aa  r  b  ih  jh  ***  n  ih  r   er   t    uw  dh  iy  l  aa  r  jh  w   ih  n   d  ow  ***  sil
+m1_376 hyp  sil  m  uw  ***   g  ih  g  aa  r  b  ih  jh   s   n   y  r  ***  ***  ***   d  ah  l  ao  r  jh  w  ***  n  dh  ow   l   sil
+m1_376 op    C   C   C   D    S   S  C   C  C  C   C   C   I   C   S  C   D    D    D    S   S  C   S  C   C  C   D   C   S   C   I    C 
+m1_376 #csid 18 7 2 5
+m1_381 ref  sil  w  ah   n    s    y  uw  f  ih  n   ih  sh  g  r  iy  s  ih  ng   y    ao   r  ch  ey  n  b  iy  sh   uh   r  t   uw  w  aa  sh  th  er   ow  l  iy  sil
+m1_381 hyp  sil  w  ah  ***  ***  ch  uw  f  ah  n  ***  sh  k  r  iy  z  ih  ng  ***  ***  er  ch  ey  n  b  iy  sh  ***  er  t  ***  w  ao  sh   s  er  ***  l  iy  sil
+m1_381 op    C   C   C   D    D    S   C  C   S  C   D    C  S  C   C  S   C   C   D    D    S   C   C  C  C   C   C   D    S  C   D   C   S   C   S   C   D   C   C   C 
+m1_381 #csid 24 8 0 8
+m1_386 ref  sil  ah  k  r  ae  b  ch   ae   l  ah  jh   d   m  iy  b   ah   t   ah  k   w   ih  k  s   t  ae  b  v  ae  ng  k   w   ih  sh  t   hh  ih  m  sil
+m1_386 hyp  ***   r  k  r  ae  b  ch  ***  aw   n  jh  ***  m  iy  b  ***  ***  ah  k  ***  ih  k  s  dh  ae  b  f  eh  ng  k  ***  ih  sh  t  ***  ih  m  ***
+m1_386 op    D    S  C  C   C  C   C   D    S   S   C   D   C   C  C   D    D    C  C   D    C  C  C   S   C  C  S   S   C  C   D    C   C  C   D    C  C   D 
+m1_386 #csid 23 6 0 9
+m1_391 ref  sil  ***  iy  ch  s   t   ae   g  sh   uh   r  l  iy  f  ay  n   d   z  ah  b  ih  g  f   ao   n  sil
+m1_391 hyp  sil   p   iy  ch  s  ***  ae  ih  sh  ***  er  l  ey  f  ay  n  ***  z  ih  b  iy  g  f  ***  aa   m 
+m1_391 op    C    I    C   C  C   D    C   S   C   D    S  C   S  C   C  C   D   C   S  C   S  C  C   D    S   S 
+m1_391 #csid 14 7 1 4
+m1_396 ref  sil  dh  iy  ae   d   v  er  t  ay  z  ih  ng  v  er  s  ah  v  p   l   ih  m  ah   th  v  er  ay   ah  t  iy  s   t   ao  r  n  eh  v  er  ch  ey   n  jh  ah  z  sil
+m1_396 hyp  ***   g  iy  ae  ***  v   r  t  ay  z  ih  ng  b  er  s  ah  f  p  ***  ah  m  ah  ***  f  er  ay  ***  d  iy  s  ***  ao  r  n  ah  f  er  ch  ih  ng  jh  uw  z  sil
+m1_396 op    D    S   C   C   D   C   S  C   C  C   C   C  S   C  C   C  S  C   D    S  C   C   D   S   C   C   D   S   C  C   D    C  C  C   S  S   C   C   S   S   C   S  C   C 
+m1_396 #csid 26 12 0 6
+m1_401 ref  sil  t  aa  m   ah   s  th  ih  ng   k   s   ah  l  aa  r  jh  er  k  l  ae   m   p  s   aa  l   v    z   dh  iy  p   r   aa  b  l   ah   m   sil
+m1_401 hyp  sil  t  aa  m  ***  eh  th  ey  ng  ***  s  ***  l  aa  r   t  er  k  l  ae  ***  p  s  ***  l  ***  ***  ch  ah  p  ***  aa  p  l  ***  ***  sil
+m1_401 op    C   C   C  C   D    S   C   S   C   D   C   D   C   C  C   S   C  C  C   C   D   C  C   D   C   D    D    S   S  C   D    C  S  C   D    D    C 
+m1_401 #csid 21 6 0 10
+m1_406 ref  sil   dh  iy  th  ih  k  eh  l  m  f  ao  r   ah  s  t  w   ao  z  n  ih  r  l  iy  ow  v  er  w   eh  l  m   d   b  ay  d  ah  ch  eh  l   m    d   ih  z  iy  z  sil
+m1_406 hyp  sil  sil  dh   f  ih  k  dh  l  m  f  ao  r  ***  z  t  w  ***  z  n   y  r  l  iy  ow  v  er  w  ***  l  m  ***  b  ay  b  aa  ch  ih  l  ***  ***   n  z  iy  z  sil
+m1_406 op    C    S    S   S   C  C   S  C  C  C   C  C   D   S  C  C   D   C  C   S  C  C   C   C  C   C  C   D   C  C   D   C   C  S   S   C   S  C   D    D    S  C   C  C   C 
+m1_406 #csid 29 10 0 6
+m1_411 ref  sil  dh  ow  z  m  y   uw  z  ih  sh   ah  n  z  hh  aa   r   m   ah  n  ay  z  m  aa   r   v   ah  l   ah  s  l  iy  sil
+m1_411 hyp  sil  dh  ow  z  n  y  ***  z  ih  sh  ***  n  z  hh  aa  ***  m  ***  l  ay  s  m  aa  ***  v  ***  l  ***  s  l  iy  ***
+m1_411 op    C    C   C  C  S  C   D   C   C   C   D   C  C   C   C   D   C   D   S   C  S  C   C   D   C   D   C   D   C  C   C   D 
+m1_411 #csid 21 3 0 8
+m1_416 ref  sil   dh   ae   t  p  ih   k   p  aa  k   ah   t    w  ao  z  k  aa  t  r   eh  d  hh   ae  n  d  ih  d  sil
+m1_416 hyp  sil  ***  ***  eh  p  ih  ***  p  aa  k  ***  ***  ih   p  s  k  aa  p  r  ***  d  hh  ***  n  d  ih  d  sil
+m1_416 op    C    D    D    S  C   C   D   C   C  C   D    D    S   S  S  C   C  S  C   D   C   C   D   C  C   C  C   C 
+m1_416 #csid 16 5 0 7
+m1_421 ref  sil   hh  ih  s  p  ae  n  ih   k   k  aa   s    t    uw   m  z  aa   r  k   w    ay   t  k   ah   l   er  f   ah  l  sil
+m1_421 hyp  sil  ***  dh  s  b  ae  l  ih  ***  k  aa  ***  ***  ***  ch  n   t  er  k  ***  ***  oy  k  ***  ***  ow  f  ***  l  sil
+m1_421 op    C    D    S  C  S   C  S   C   D   C   C   D    D    D    S  S   S   S  C   D    D    S  C   D    D    S  C   D   C   C 
+m1_421 #csid 11 9 0 10
+m1_426 ref  sil   dh   iy  iy  z  iy  g   ow  ih  ng  z   ow  aa  l   ah  jh  ah  s  t  r   ih  l  ae  k  s  t   th   r    uw  aw   t  dh  iy  v  oy  ah  jh  sil
+m1_426 hyp  ***  ***  ***  iy  z  iy  g  ***  oy  ng  z  ***   w  l  ***  jh  ih  s  k  r  ***  l  ae  k  s  t  ***  ***  ***  er  ow   p  ah  b  oy  iy  jh  sil
+m1_426 op    D    D    D    C  C   C  C   D    S   C  C   D    S  C   D    C   S  C  S  C   D   C   C  C  C  C   D    D    D    S   S   S   S  S   C   S   C   C 
+m1_426 #csid 18 10 0 10
+m1_431 ref  sil   n   aa  n  p   r   aa  f  ah  t  ao   r    g   ah  n  ah  z  ey  sh   ah  n  z  hh   ae   v  f  r  iy   k   w  ah  n   t   f  ah   n   d  r  ey  z  er  z  sil
+m1_431 hyp  sil  ***   m  l  p  ***  ao  f  ah  p  ao  ***  ***  ih  n  ah  z  ey  sh  ***  n  z  hh  ***  ah  f  r  iy  ***  p   r  n  ***  b  ah  ***  b  r  ey  z   m  z  sil
+m1_431 op    C    D    S  S  C   D    S  C   C  S   C   D    D    S  C   C  C   C   C   D   C  C   C   D    S  C  C   C   D   S   S  C   D   S   C   D   S  C   C  C   S  C   C 
+m1_431 #csid 23 11 0 9
+m1_436 ref  sil  er   b    z  b  er  th   d  ey  ***  f  r  iy  k   w   ah   n   t  l  iy   ah  k  er  z  aa  n   th   ae  ng   k  s   g   ih   v   ih  ng  sil
+m1_436 hyp  ***  er  ***  jh  b  er   t  dh  ey   iy  f  r  iy  k  ***  ah  ***  m  l  iy  ***  k  er  z  ao  n  ***  ***   f  ay  s  ***  ih  ***  ih  ng  ***
+m1_436 op    D    C   D    S  C   C   S   S   C   I   C  C   C  C   D    C   D   S  C   C   D   C   C  C   S  C   D    D    S   S  C   D    C   D    C   C   D 
+m1_436 #csid 19 7 1 10
+m1_441 ref  sil  r  aa  k  ah   n   d  r   ow  l  m   y   uw  z  ih  k   hh  ae  z   ah  g  r   ey   t  r   ih  dh   ah   m  sil
+m1_441 hyp  ***  r  aa  f  ah  ***  m  r  ***  l  m  ***  iy  z  ih  k  ***  ae  z  ***  g  r  ***  iy  r  ***  dh  ***  uw  sil
+m1_441 op    D   C   C  S   C   D   S  C   D   C  C   D    S  C   C  C   D    C  C   D   C  C   D    S  C   D    C   D    S   C 
+m1_441 #csid 16 5 0 9
+m1_446 ref  sil  dh   iy  s  p  iy  ch   s    ih   m  p  ow  z   iy   ah  m  m  ay   t   b  ih  g  ih  n   aa   n  m  ah  n   d   iy  sil
+m1_446 hyp  ***  dh  ***  s  b  iy  ch  ***  ***  ah  p  ow  z  ***  ***  y  m  ay  ***  b  iy  g  iy  n  ***  ow  m  ah  n  ***  ey  sil
+m1_446 op    D    C   D   C  S   C   C   D    D    S  C   C  C   D    D   S  C   C   D   C   S  C   S  C   D    S  C   C  C   D    S   C 
+m1_446 #csid 16 7 0 9
+m1_451 ref  sil   ch   ih   l   d  r  ah  n  k  ae  n  k   ah  n  s   uw   m   m  eh  n  iy  f   r    uw  t  r   ow  l   ah  p  s   ih   n    w  ah  n  s  ih  t  ih  ng  sil
+m1_451 hyp  sil  ***  ***  sh  ow  v  er  n  k  ih  n  k  ***  n  s  ***  ***  m  ah  n  iy  f  ***  ***  m  r  ***  l  ***  p  s  ***  ***  ah   b  l  s  ih  d  ih  ng  sil
+m1_451 op    C    D    D    S   S  S   S  C  C   S  C  C   D   C  C   D    D   C   S  C   C  C   D    D   S  C   D   C   D   C  C   D    D    S   S  S  C   C  S   C   C   C 
+m1_451 #csid 20 11 0 11
+m1_456 ref  sil  ah  m  ao  ***  th  z  ih  g   z  ae   g    d   ah  l   ao   ng  dh  iy  p  ae   th  th  r   uw  aa   t  ow  z  g  aa  r   d   ah  n  sil
+m1_456 hyp  sil  ah  m  ao   f   uw  z  ih  g  jh  ae  ***  ***   b  l  ***  ***   m  ah  p  ae  ***   f  r  ***  ao  hh  ow  s  k  aa  r  ***   p  n  sil
+m1_456 op    C    C  C   C   I    S  C   C  C   S   C   D    D    S  C   D    D    S   S  C   C   D    S  C   D    S   S   C  S  S   C  C   D    S  C   C 
+m1_456 #csid 17 11 1 7
+m3_001 ref  ***  sil  dh  ih  s   w   ao  z  iy  z  iy  f   r    er  ah  s  sil
+m3_001 hyp   s   sil  dh  ih  s  ***  ah  z  iy  t  iy  f  ***  ***  ao  r   z 
+m3_001 op    I    C    C   C  C   D    S  C   C  S   C  C   D    D    S  S   S 
+m3_001 #csid 8 5 1 3
+m3_006 ref  sil  w  ay  y  eh   l  ao  r   w    er  iy   ow  v  er  s   ih  l  iy  ay  t  ah  m  z  sil
+m3_006 hyp  ***  w  ay  y   l  ah  ao  r  ***  ***  iy  ***  v   r  s  ***  l  iy  eh  d  ah  m  z  ***
+m3_006 op    D   C   C  C   S   S   C  C   D    D    C   D   C   S  C   D   C   C   S  S   C  C  C   D 
+m3_006 #csid 13 5 0 6
+m3_011 ref  sil   s    w  ih  ng  y   ao  r  aa   r   m   ae   z  hh  ay   ae  z   y   uw  k  ae  n  sil
+m3_011 hyp  ***  ***  sh  ih   n  y  ***  r  aa  ***  m  ***  ih   s  ay  ***  z  ***  iy  k  ae  n  ***
+m3_011 op    D    D    S   C   S  C   D   C   C   D   C   D    S   S   C   D   C   D    S  C   C  C   D 
+m3_011 #csid 10 5 0 8
+m3_016 ref  sil  ae  l  ah  m  ow   n   iy   hh  aa   r  m  z  ah   d    ih   v   ao  r   s   t  m  ae  n  z  w   eh  l   th  sil
+m3_016 hyp  ***  ae  l  ah  m  ow  ***  iy  ***  aa  er  n  t  ah  ***  ***  ***   w  r  ***  p  n  ae  n  t  w  ***  l  ***  sil
+m3_016 op    D    C  C   C  C   C   D    C   D    C   S  S  S   C   D    D    D    S  C   D   S  S   C  C  S  C   D   C   D    C 
+m3_016 #csid 14 7 0 9
+m3_021 ref  sil   ow   n   l  iy  l   ao   y  er  z  l  ah   v    m   ih  l   y   ah  n  eh   r   z  sil
+m3_021 hyp  ***  ***  ***  l  ah  l  ***  ey  er  z  l  ah  ***  ***   g  l  ***  iy  n  eh  ***  z  ***
+m3_021 op    D    D    D   C   S  C   D    S   C  C  C   C   D    D    S  C   D    S  C   C   D   C   D 
+m3_021 #csid 10 4 0 9
+m3_026 ref  sil   d  ow   n    t   d  uw  ch   aa  r   l  iy  z  d  er   t    iy  d  ih  sh  ah  z  sil
+m3_026 hyp  ***  dh  ow  ***  ***  d  ah  ch  ***  r  ow  ih  z  d  er  ***  ***  g  ih  sh  uw  z  ***
+m3_026 op    D    S   C   D    D   C   S   C   D   C   S   S  C  C   C   D    D   S   C   C   S  C   D 
+m3_026 #csid 10 6 0 7
+m3_031 ref  sil  b  aa   r    b  z  g   ow  l   d   b  r  ey  s  l   ah   t  w   ao  z   ah  g   r   ae  jh  uw  ey  sh  ah   n   p  r   eh   z   ah   n    t  sil
+m3_031 hyp  ***  s  aa  ***  er  t  g  ***  l  ***  b  r  ih  s  l  ***  ih  w  ***  z  ***  g  ***  ay   d   w  ey  sh  ah  ***  b  r  ***  ***  ah  ***  ah  sil
+m3_031 op    D   S   C   D    S  S  C   D   C   D   C  C   S  C  C   D    S  C   D   C   D   C   D    S   S   S   C   C   C   D   S  C   D    D    C   D    S   C 
+m3_031 #csid 16 10 0 12
+m3_036 ref  sil   b   ae  s  k   ah   t   b   ao   l  k  ae  n   b   iy   ae   n    eh   n    t   er  t   ey   n   ih  ng  s  p  ao  r  t  ***  sil
+m3_036 hyp  ***  ***  ae  s  k  ***  ***  b  ***  aa  k  ih  n  ***  iy  ***  ***  ***  ***  ***  ah  t  ***  ***  ih  ng  s  p  ao  r  t   d   sil
+m3_036 op    D    D    C  C  C   D    D   C   D    S  C   S  C   D    C   D    D    D    D    D    S  C   D    D    C   C  C  C   C  C  C   I    C 
+m3_036 #csid 16 3 1 13
+m3_041 ref  sil  ae  m   b   ah  d  eh  k   s    t    r  ah  s  p  ih   k   p  aa  k  ah  t   s    ah  k  aa   m   p   l   ih  sh  m   ao  r  sil
+m3_041 hyp  ***  eh  m  ***   r  d  ae  k  ***  ***  ch  ah  s  p  ih  ***  p  aa  k  ih  t  ***  ***  k  aa  ***  p  ***  ow   s  m  ***  w   er
+m3_041 op    D    S  C   D    S  C   S  C   D    D    S   C  C  C   C   D   C   C  C   S  C   D    D   C   C   D   C   D    S   S  C   D   S   S 
+m3_041 #csid 15 9 0 10
+m3_046 ref  sil  dh   iy  p  r   aw  l   er   w  ao  r  ah  s   k   iy  m  ae  s   k    f   r   er  d   ih  s  g  ay  z  sil
+m3_046 hyp  ***  dh  ***  p  r  ***  l  ***  ow  ao  r  ah  s  ***  iy  m  ae  s  ***  ***  r  ***  d  ***  s  k  ay  z  ***
+m3_046 op    D    C   D   C  C   D   C   D    S   C  C   C  C   D    C  C   C  C   D    D   C   D   C   D   C  S   C  C   D 
+m3_046 #csid 17 2 0 10
+m3_051 ref  sil  eh  n  iy  k   aa   n  t   r   ah   b   y  uw  sh  ah   n    z    w    ih   l   b  iy  g  r  ey  t   l   iy   ah  p  r   iy  sh   iy   ey   t   ih  d  sil
+m3_051 hyp  ***  ae  n  iy  k  ***  ah  t  ***  ah  ***  n  ih  sh  ah  ***  ***  ***  ***  ***  b  ih  g  r  ih  t  ***  iy  ***  p  r  ***  sh  ***  ***  ***  ih  d  ***
+m3_051 op    D    S  C   C  C   D    S  C   D    C   D   S   S   C   C   D    D    D    D    D   C   S  C  C   S  C   D    C   D   C  C   D    C   D    D    D    C  C   D 
+m3_051 #csid 17 6 0 16
+m3_056 ref  sil  l  ae  s  t   y    ih   r  z  g  ae   s   sh  ao  r   t   ah  jh  k   aa   z    d  s   t   iy   p   p   r   ay  s  ih   n    k   r  iy  s  ah  z  sil
+m3_056 hyp   t   l  ae  s  t  ***  ***  uw  z  g  ae  ***  sh  ao  r  ***  ih  jh  k  ***  ***  ah  s  ***  iy  ***  p  ***  ay  s  ih  ***  ***  g  iy  z  ah  z  ***
+m3_056 op    S   C   C  C  C   D    D    S  C  C   C   D    C   C  C   D    S   C  C   D    D    S  C   D    C   D   C   D    C  C   C   D    D   S   C  S   C  C   D 
+m3_056 #csid 21 6 0 12
+m3_061 ref  sil  k   l  ih   f   s   d   ih  s   p   l  ey   w   ao  z   m   ih  s  p  l  ey  s  t   aa   n  dh  iy  s   k   r  iy  n  sil
+m3_061 hyp  ***  k  dh  ih  ***  s  ***   t  s  ***  l  ey  ***  uw  z  ***  ah  s  p  l  ey  s  t  ***  ah   m  ah  s  ***  r  iy  n  ***
+m3_061 op    D   C   S   C   D   C   D    S  C   D   C   C   D    S  C   D    S  C  C  C   C  C  C   D    S   S   S  C   D   C   C  C   D 
+m3_061 #csid 17 7 0 9
+m3_066 ref  sil   d    aa   k   t   er   z    p  r  ah  s   k   r  ay   b  d  r   ah  g  z  t  uw  f  r  iy  l  iy  sil
+m3_066 hyp  ***  ***  ***  ***  t  ***  ***  ae  t  ih  s  ***  r   s  eh  d  r  ***  m  s  t  uw  f  r  iy  l  iy  ***
+m3_066 op    D    D    D    D   C   D    D    S  S   S  C   D   C   S   S  C  C   D   S  S  C   C  C  C   C  C   C   D 
+m3_066 #csid 12 7 0 9
+m3_071 ref  sil  k  w  ao  p   er  ey  sh   ah   n   ah  l  ao   ng   w    ih   th  ah  n   d   er  s  t  ae  n   d    ih   ng  ah  l  iy   v   iy  ey  t   d    ih  s   p    y   uw   t  sil
+m3_071 hyp  ***  k  w  aa  p  ***   r  sh  ***  ***  ah  m  ao  ***  ***  ***  ***  ah  n  ***  ih  s  t  ae  n  ***  ***  ***  iy  l  iy  ***   g  ey  t  ***  ***  s  ***  ***  dh  iy  sil
+m3_071 op    D   C  C   S  C   D    S   C   D    D    C  S   C   D    D    D    D    C  C   D    S  C  C   C  C   D    D    D    S  C   C   D    S   C  C   D    D   C   D    D    S   S   C 
+m3_071 #csid 18 8 0 17
+m3_076 ref  sil  dh   iy  th  ih   ng  k  er   ih  z  ah  f  ey  m  ah   s   s   k   ah   l    p   ch  er  sil
+m3_076 hyp  ***  dh  ***   f  ih  ***  g  er  ***  z  ah  f  ey  n  ah  ***  s  ***  ah  ***  ***   t  er  sil
+m3_076 op    D    C   D    S   C   D   S   C   D   C   C  C   C  S   C   D   C   D    C   D    D    S   C   C 
+m3_076 #csid 12 4 0 8
+m3_081 ref  sil  m  ae  s   k   er  ey   d    p   aa  r   t   iy  z  t  ae   k    s    w   ah   n  z   ih  m  ae   jh   ah  n  ey  sh  ah   n   sil
+m3_081 hyp  ***  m  ae  s  ***   r  ey  ***  ***   t  r  ***  iy  z  t  ae  ***  ***  ***  ch  aa  z  ***  n  ae  ***  ***  n  ey  sh  ah  ***  sil
+m3_081 op    D   C   C  C   D    S   C   D    D    S  C   D    C  C  C   C   D    D    D    S   S  C   D   S   C   D    D   C   C   C   C   D    C 
+m3_081 #csid 16 5 0 12
+m3_086 ref  sil  k  ih  n   d    er   g    aa   r  t  ah  n  ch   ih   l  d  r   ah  n   d   eh  k  er  ey  t   dh   eh   r  k   l    ae   s   r  uw  m   z    f  r   er  ao   l   hh   aa  l   ah   d   ey  z  sil
+m3_086 hyp  ***  k  ih  n  ***  ***  ***  ***  ih  d  ae  n  ch  ***  ow  v  r  ***  n  ***  ae  k   r  ih  t  ***  ***  ih  k  ***  ***  aa  sh  ah  m  ***  sh  r  ***  ao  ***  hh  ***  l  ***  ***  ih  z  ***
+m3_086 op    D   C   C  C   D    D    D    D    S  S   S  C   C   D    S  S  C   D   C   D    S  C   S   S  C   D    D    S  C   D    D    S   S   S  C   D    S  C   D    C   D    C   D   C   D    D    S  C   D 
+m3_086 #csid 16 14 0 19
+m3_091 ref  sil  ah  hh   y   uw   jh  t  ae  p  ah  s   t   r  iy  hh  ah   ng   ih  n   hh  er  hh  ao  l   w    ey  sil
+m3_091 hyp  ***  ah  hh  ***  uw  ***  t  ae  k  ih  s  ***  r  iy  hh  ah  ***  ***  n  ***  ah   n   r  l  ***  ***   ay
+m3_091 op    D    C   C   D    C   D   C   C  S   S  C   D   C   C   C   C   D    D   C   D    S   S   S  C   D    D    S 
+m3_091 #csid 12 6 0 9
+m3_096 ref  sil   hh  ih   z   s   ah   d   ah  n   d   ih  p   aa  r  ch  er  sh  aa   k    t   dh  iy  k  ae  s   t   sil
+m3_096 hyp  ***  ***  ih  ***  s  ***  ***  ow  n  ***  ih  p  ***  r  jh  er  sh  aa  ***  ***  dh  ih  k  ae  s  ***   z 
+m3_096 op    D    D    C   D   C   D    D    S  C   D    C  C   D   C   S   C   C   C   D    D    C   S  C   C  C   D    S 
+m3_096 #csid 13 4 0 10
+m3_101 ref  sil  k   l   ae   s   p  dh   iy  s   k    r  uw  ih  n   y   ao   r    l    eh  f  t   hh  ae  n   d   sil
+m3_101 hyp  ***  k  ***  ae  ***  f  dh  ***  s  ***  er   w  ih  n  ***  ao  ***  ***  ***  f  t  ***  ae  n  ***   t 
+m3_101 op    D   C   D    C   D   S   C   D   C   D    S   S   C  C   D    C   D    D    D   C  C   D    C  C   D    S 
+m3_101 #csid 11 4 0 11
+m3_106 ref  sil  t  r   eh  s   p   ae  s  ih  ng  ih   z    f   ao   r  b  ih  d  ah  n  ah  n   d   s  ah  b   jh  eh   k    t   t   uw  p   eh   n   ah  l  t  iy  sil
+m3_106 hyp  ***  t  r  ***  s  ***  ae  s  ih   n  ih  ***  ***   s  er  b  ih  d  ah  n  ah  n  ***  s  ah  b  ***  eh  ***  ***  t  ***  p  ***  ***  aa  l  p  iy  ***
+m3_106 op    D   C  C   D   C   D    C  C   C   S   C   D    D    S   S  C   C  C   C  C   C  C   D   C   C  C   D    C   D    D   C   D   C   D    D    S  C  S   C   D 
+m3_106 #csid 22 5 0 13
+m3_111 ref  sil   aa  r   t   ah   f  ih  sh   ah  l   ih  n  t   eh   l   ah  jh  ah  n  s  ih  z   f    r    er  r  iy  l  sil
+m3_111 hyp  sil  ***  r  ***  ih  th  ih  sh  ***  l  ***  n  t  ***  ***  ow  jh  ih  n  s  ah  z  ***  ***  ***  r  iy  l  sil
+m3_111 op    C    D   C   D    S   S   C   C   D   C   D   C  C   D    D    S   C   S  C  C   S  C   D    D    D   C   C  C   C 
+m3_111 #csid 15 5 0 9
+m3_116 ref  sil   w  iy  p   l   ae  n   t   uw  b  ih  l   d    ah  n  uw  b  eh  v   er  ih  jh  p  l   ae   n  t  sil
+m3_116 hyp  ***  dh  iy  p  ***  ae  n  ***  ih  b  eh  l  ***  ***  n  uw  b  eh  v  ***   r   t  p  l  ***  ah  t  sil
+m3_116 op    D    S   C  C   D    C  C   D    S  C   S  C   D    D   C   C  C   C  C   D    S   S  C  C   D    S  C   C 
+m3_116 #csid 15 6 0 7
+m3_121 ref  sil  s  ay   ah   n   t  ih  f  ih   k   p   r    ow   g  r  eh  s  k  ah  m   z   f  r  ah   m    dh   iy   d    ih   v    eh   l   ah   p  m  ah  n   t    ah  v  n  uw  t  eh  k  n  iy  k  s  sil
+m3_121 hyp  ***  s  ay  ***  ***  t  ih  v  ih  ***  p  ***  ***  aa  r  ah  s  k  ah  m  ***  f  n  ah  ***  ***  ***  ***  ***  ***  ***  ***   b  ow  m  ah  n  ***  ***  d  n  ih  t  ih  k  m  iy  k  z  sil
+m3_121 op    D   C   C   D    D   C   C  S   C   D   C   D    D    S  C   S  C  C   C  C   D   C  S   C   D    D    D    D    D    D    D    D    S   S  C   C  C   D    D   S  C   S  C   S  C  S   C  C  S   C 
+m3_121 #csid 22 11 0 17
+m3_126 ref  sil  w  ih  ch  l   ao   ng  aa   r   t  ah  k   ah  l   w    ao  z  ow  p  ey   k    ah  n   d  n   iy   d    ah   d  k  l   eh   r   ah  f  ah  k  ey  sh  ah   n   sil
+m3_126 hyp  ***  w  ih   t  l  ***  ***  aa  ***  d  ih  k  ***  l  ***  ***  z  ah  p  ey  ***  ***  g  ih  n  ***  ***  ***  ih  k  l  ***  ***  er  f  ih  k  ey  sh  ah  ***   d 
+m3_126 op    D   C   C   S  C   D    D    C   D   S   S  C   D   C   D    D   C   S  C   C   D    D   S   S  C   D    D    D    S  C  C   D    D    S  C   S  C   C   C   C   D    S 
+m3_126 #csid 17 10 0 15
+m3_131 ref  sil  k   er   eh  k  t   eh   k  s   ah   k  y  uw  sh   ah  n  ah   v   m  ay   ih  n  s  t   r   ah  k  sh  ah   n   z  ih  z  k  r   uw  sh  ah  l  sil
+m3_131 hyp  sil  k  ***  ***  r  t  ***  ih  s  ***  ch  y  ih  sh  ***  n  ah  ***  m  ay  ***  n  z  t  ***  eh  k  sh  ah  ***  z  ih  s  t  r  ***  sh  ao  l  ***
+m3_131 op    C   C   D    D   S  C   D    S  C   D    S  C   S   C   D   C   C   D   C   C   D   C  S  C   D    S  C   C   C   D   C   C  S  S  C   D    C   S  C   D 
+m3_131 #csid 20 9 0 11
+m3_136 ref  sil  m  ah  s   k   iy  t  ow  z  ih   g   z  ih  s  t  ih   n   w  ao   r    m   y   uw  m  ih   d   k   l   ay  m  ah   t    s   sil
+m3_136 hyp  ***  m  ih  s  ***  iy  g  ah  z  ih  ***  d  ah  s  t  ih  ***  w  ao  ***  ***  y  ***  m  ih  ***  k  ***  ay  n  ah  ***  ***   z 
+m3_136 op    D   C   S  C   D    C  S   S  C   C   D   S   S  C  C   C   D   C   C   D    D   C   D   C   C   D   C   D    C  S   C   D    D    S 
+m3_136 #csid 16 7 0 11
+m3_141 ref  sil  r   iy  m  uw   v   dh  iy  s   p    l  ih  n   t  er  w  ih  th   ah   p    eh   r  ah  v   t  w  iy  z  er  z  sil
+m3_141 hyp  ***  r  ***  m  uw  ***  dh  ih  s  ***  dh  ah  n  jh  er  w  ih  th  ***  ***  ***  iy   t  n  er  k  ey  z  ah  z  ***
+m3_141 op    D   C   D   C   C   D    C   S  C   D    S   S  C   S   C  C   C   C   D    D    D    S   S  S   S  S   S  C   S  C   D 
+m3_141 #csid 12 11 0 8
+m3_146 ref  sil  hh  er  aa   b    er   n    hh  eh  r   r  iy  m  ay   n    d    ah  d   hh  ih  m  ah  v  ao   t    ah  m  l  iy   v   z  sil
+m3_146 hyp  sil   k   r  aa  ***  ***  ***  ***   v  r  hh  er  m  ay  ***  ***  ***  d  ***  ih  m  ah  b  ao  ***  ***  m  l  iy  ***  z  ***
+m3_146 op    C    S   S   C   D    D    D    D    S  C   S   S  C   C   D    D    D   C   D    C  C   C  S   C   D    D   C  C   C   D   C   D 
+m3_146 #csid 14 6 0 12
+m3_151 ref  sil   hh   uw  t  uh   k  dh  iy  k   ay  ae  k   d   aw   n  dh  iy  b  ay  uw  sil
+m3_151 hyp  sil  ***  ***  w  ch  ih  th  eh  k  ***  ae  k  ***   b  ae   m  ah  b  ay  uw  sil
+m3_151 op    C    D    D   S   S   S   S   S  C   D    C  C   D    S   S   S   S  C   C   C   C 
+m3_151 #csid 8 9 0 4
+m3_156 ref  sil   hh  uw  eh  v  er  k  ow  aa  p  er  ey  t   s    ih  n  f  ay  n   d   ih   ng  n  ae  n  z  k  ae  m   iy   ow   w    ih  l  b  iy   r  iy   w  ao  r  d  ih  d  sil
+m3_156 hyp  ***  ***   w  ah  v  er  k   w  aa  p   r  ey  t  ***  ***  n  p  ay  n  ***  ih  ***  n  ae  n  s  k  ae  m  ***  ***  ***  ***  l  b  iy  ow   w  ah   w  r  d  ah  d  sil
+m3_156 op    D    D    S   S  C   C  C   S   C  C   S   C  C   D    D   C  S   C  C   D    C   D   C   C  C  S  C   C  C   D    D    D    D   C  C   C   S   S   S   S  C  C   S  C   C 
+m3_156 #csid 24 11 0 10
+m3_161 ref  sil   w   iy  k   uh   d  b   eh   r  l  iy  s  iy   dh  iy  f  y   ao   r    d    z    th   r   uw  dh  iy   s  n  ow  f  l  er   iy  z  sil
+m3_161 hyp  ***  ***  ih  k  ***  uw  b  ***  er  t  iy  s  iy  ***  ih  f  y  ***  ***  ***  ***  ***  ***  uw  er   t  ih  s  ow  f  w  er  ***  z  ***
+m3_161 op    D    D    S  C   D    S  C   D    S  S   C  C   C   D    S  C  C   D    D    D    D    D    D    C   S   S   S  S   C  C  S   C   D   C   D 
+m3_161 #csid 12 10 0 13
+m3_166 ref  sil  dh  iy  k  ae   t   s  m  iy  aw   ao   l    w    ey   z  hh  er  t   s   m   ay  ih  r  z  sil
+m3_166 hyp  sil  dh  ih  k  ae  ***  k  m  iy  aw  ***  ***  ***  ***  oy   t   r  t  ***  m  ***  iy  r  z  ***
+m3_166 op    C    C   S  C   C   D   S  C   C   C   D    D    D    D    S   S   S  C   D   C   D    S  C  C   D 
+m3_166 #csid 11 6 0 8
+m3_171 ref  sil  d  ih  s  t  r   oy  eh   v  er  iy  f  ay   l  r   iy  l   ey  t   ih   d  t   uw  m  ay  aa   d   ah  t   s   sil
+m3_171 hyp  ***  d  ih  s  t  r  ***  ey  er   r  ih  f  ay  ow  r  ***  l  ***  t  ***  ah  t  ***  m  ay  aa  ***  ah  t  ***   z 
+m3_171 op    D   C   C  C  C  C   D    S   S   S   S  C   C   S  C   D   C   D   C   D    S  C   D   C   C   C   D    C  C   D    S 
+m3_171 #csid 16 7 0 8
+m3_176 ref  sil  dh  ey   eh  n  jh   oy   ih   t    w  ih   n  ay  aa  d  ih  sh  ah  n  sil
+m3_176 hyp  ***  dh  ey  ***  n  jh  ***  ***  ***  aa  ey  ah  ay  aa  b  ih  sh  ah  n  sil
+m3_176 op    D    C   C   D   C   C   D    D    D    S   S   S   C   C  S   C   C   C  C   C 
+m3_176 #csid 11 4 0 5
+m3_181 ref  sil  y  ah  ng  ch  ih  l   d    r   ah  n   sh   uh   d  ah   v   oy  d  ih  k  s  p  ow  zh  er  t   uw   k   ah  n  t  ey  jh  ah  s   d    ih  z  iy  z  ah  z  sil
+m3_181 hyp  ***  y  ah   n  ch  eh  l  ***  ***  er  n  ***  ***  ch  ah  ***   w  d  ih  k  s  b  ow  zh  er  t  ***  ***   g  n  t  ey   g  ih  s  ***  ***  s  uw  z  uw  z  ***
+m3_181 op    D   C   C   S   C   S  C   D    D    S  C   D    D    S   C   D    S  C   C  C  C  S   C   C   C  C   D    D    S  C  C   C   S   S  C   D    D   S   S  C   S  C   D 
+m3_181 #csid 20 12 0 11
+m3_186 ref  sil  iy   v    ih  n  ay   ah  k  ey   zh   ah  n   l  iy  g  eh  t  dh   iy  m  ah  n   d   iy  b  l  uw  z  sil
+m3_186 hyp  ***  iy  ***  ***  n  ay  ***  k  ey  ***  ***  t  uw  ih  g  ih  t  dh  ***  m  ah  n  ***  ih  b  l  uw  z  ***
+m3_186 op    D    C   D    D   C   C   D   C   C   D    D   S   S   S  C   S  C   C   D   C   C  C   D    S  C  C   C  C   D 
+m3_186 #csid 15 5 0 9
+m3_191 ref  sil  m  ay  k  ah   l   k   ah  l   er   d  dh  iy  b  eh  d   r   uw  m   w   ao  l   w    ih  th  k  r  ey  aa  n   z   sil
+m3_191 hyp  ***  m  ay  k  ah  ***  k  ***  l  ***  ih   b  ih  b  eh  d  ***  er  m  ***  ao  l  ***  ***  ah  k  r  ay  ah  n  ***   s 
+m3_191 op    D   C   C  C   C   D   C   D   C   D    S   S   S  C   C  C   D    S  C   D    C  C   D    D    S  C  C   S   S  C   D    S 
+m3_191 #csid 15 8 0 9
+m3_196 ref  sil  dh   iy  s  er  m   ah  n  eh  m  f  ah  s  ay  z   d    dh  iy  n  iy   d   f  r   er   ah  f   er  m  ah   t    ih   v   ae   k  sh  ah   n   sil
+m3_196 hyp  ***  dh  ***  s  er  m  ***  t  ae  m  f  ah  s  ay  z  ***  ***  ih  n  iy  ***  f  r  ***  ***  f  ***  r  ah  ***  ***  ***   b  aa  ch  ah  ***   d 
+m3_196 op    D    C   D   C   C  C   D   S   S  C  C   C  C   C  C   D    D    S  C   C   D   C  C   D    D   C   D   S   C   D    D    D    S   S   S   C   D    S 
+m3_196 #csid 17 8 0 13
+m3_201 ref  sil  k  ao  r   iy  ah  t  ae   k    t   dh   iy  p   r   aa  jh  eh  k   t    w   ih  th  eh  k  s   t    r   ah   d    ih  t  er  m   ah  n  ey  sh   ah  n  sil
+m3_201 hyp  ***  k  ao  r  ***  ah  t  ae  ***  ***  dh  ***  p  ***  aa   t  eh  k  ***  ***  ih  dh  ae  k  s  ***  ***  ah  ***  ***  t   r  m  ***  d  ey  sh  ***  d  sil
+m3_201 op    D   C   C  C   D    C  C   C   D    D    C   D   C   D    C   S   C  C   D    D    C   S   S  C  C   D    D    C   D    D   C   S  C   D   S   C   C   D   S   C 
+m3_201 #csid 20 6 0 14
+m3_206 ref  sil  s  t  eh  f   k   uh   d  b  eh   r   l  iy  hh  ae  n   d  ah   l    dh   iy  s  ay  k  ah  l  aa   jh   ih   k  ah   l   t   r   ao  m  ah  sil
+m3_206 hyp   s   s  t  ae  f  ***   g  ih  b  eh  ***  t  ih  hh  ae  n  ow  ah  ***  ***  ***  s  ih  k  ah  w  aa  ***  ***  ch  ah  ***  t  ***  aa  b  ah  ***
+m3_206 op    S   C  C   S  C   D    S   S  C   C   D   S   S   C   C  C   S   C   D    D    D   C   S  C   C  S   C   D    D    S   C   D   C   D    S  S   C   D 
+m3_206 #csid 16 12 0 10
+m3_211 ref  sil  hh  ay  w  ey  ah   n    d   f  r   iy  w  ey  m  iy  n   dh   iy  s  ey  m  th  ih  ng  sil
+m3_211 hyp  ***  hh  ae  w  ey  ah  ***  ***  f  r  ***  w  ey  m  ih  n  ***  ***  s  ih  n   v  ih  ng  sil
+m3_211 op    D    C   S  C   C   C   D    D   C  C   D   C   C  C   S  C   D    D   C   S  S   S   C   C   C 
+m3_211 #csid 14 5 0 6
+m3_216 ref  sil  ah  d  aa   k    t  er  w   ao  z   ih  n   dh  iy  ae   m    b    y    ah  l  ah   n   s   w    ih  th  dh   iy  p  ey  sh  ah   n    t   sil
+m3_216 hyp   t   ay  d  aa  ***  jh  er  w  ***  z  ***  n  ***  iy  ae  ***  ***  ***  ***  g  ah  ***  s  ***  ***  ah  dh  ***  p  ey  sh  ah  ***  ***  sil
+m3_216 op    S    S  C   C   D    S   C  C   D   C   D   C   D    C   C   D    D    D    D   S   C   D   C   D    D    S   C   D   C   C   C   C   D    D    C 
+m3_216 #csid 16 5 0 14
+m3_221 ref  sil  hh  aw  ey   n   ch  ah  n   t   ih   z   dh  ih   s   s  ah   b   w   ey  eh  s   k   ah   l   ey  t  er  sil
+m3_221 hyp  ***  hh   l  ey  ***  ch  ih  n  ***  ih  ***  dh  ih  ***  s  ah  ***  w  ***  ay  s  ***  ah  ***  oy  t  er  ***
+m3_221 op    D    C   S   C   D    C   S  C   D    C   D    C   C   D   C   C   D   C   D    S  C   D    C   D    S  C   C   D 
+m3_221 #csid 14 4 0 10
+m3_226 ref  sil  dh  iy  g   ao   r   jh  ah  s  b  ah   t   er  f  l  ay  ey   t   ah  l   aa   t    ah   v  n   eh   k  t  er  sil
+m3_226 hyp  ***  dh  ih  g  ***  ***  ow   d  z  b  ah  ***  er  f  l  ay  ey  ***   d  l  ***  ***  ***  aw  n  ***  ae  t  er  ***
+m3_226 op    D    C   S  C   D    D    S   S  S  C   C   D    C  C  C   C   C   D    S  C   D    D    D    S  C   D    S  C   C   D 
+m3_226 #csid 13 7 0 10
+m3_231 ref  sil  w   iy   aa   r  ow  p  ah  n  eh  v   er  iy  m  ah  n   d    iy  iy  v   n  ih  ng  sil
+m3_231 hyp  ***  w  ***  ***  er  ow  p  ah  n  eh  v  ***   r  m  ah  n  ***  ***  ih  m  ao  ih  ng  ***
+m3_231 op    D   C   D    D    S   C  C   C  C   C  C   D    S  C   C  C   D    D    S  S   S   C   C   D 
+m3_231 #csid 12 5 0 7
+m3_236 ref  sil  hh   aw   oy   l  iy   d  uw   y  uw  l  ay  k   y    ao   r  s   ae   l    ah   d  d   r   eh  s   ih  ng  sil
+m3_236 hyp  ***  hh  ***  ***  aa   w  oy   t  ey  iy  l  ih  k  ***  ***  er  s  ***  ***  ***  ow  d  ***  ah  s  ***  ah   d 
+m3_236 op    D    C   D    D    S   S   S   S   S   S  C   S  C   D    D    S  C   D    D    D    S  C   D    S  C   D    S   S 
+m3_236 #csid 6 12 0 10
+m3_241 ref  sil   dh  iy  jh   ao  aa   p   er  ey  t   s    b   ay  y  uw  z  ih  ng  ae  n  t  ae  g   ah  n  ih  s   t   ih  k   m   ah  s   ah  l  z  sil
+m3_241 hyp  ***  ***  ih  jh  ***  aa  ***   r  ey  t  ***  ***   p  r  iy  z  ih  ng  ae  n  t  ey  g  ***  n  ih  s  ***  ih  k  ***   l  s  ***  l  z  ***
+m3_241 op    D    D    S   C   D    C   D    S   C  C   D    D    S  S   S  C   C   C   C  C  C   S  C   D   C   C  C   D    C  C   D    S  C   D   C  C   D 
+m3_241 #csid 19 7 0 11
+m3_246 ref  sil   dh  iy   ae   ng   g  r   iy  b  oy  ae   n   s  er   d   b   ah   t  d  ih   n    t   l  uh  k  ah  p  sil
+m3_246 hyp  ***  ***  iy  ***  ***  ih  r  ***  b  oy  ey  ah  ch  er  ***  b  ***  ih  d  ih  ***  ***  m  ah  p  eh  p  sil
+m3_246 op    D    D    C   D    D    S  C   D   C   C   S   S   S   C   D   C   D    S  C   C   D    D   S   S  S   S  C   C 
+m3_246 #csid 10 9 0 9
+m3_251 ref  sil  t  uw  f  er  dh  er   hh   ih   z    p   r  eh  s  t  iy   zh  hh  iy   ah  k  ey   zh  ah   n   l  iy  r  iy   d   z  dh   iy  w  ao   l   s   t    r    iy   t  jh  er  n   ah  l  sil
+m3_251 hyp  ***  t  ih  f   r   d  er  ***  ***  ***  ***  s  er  s  t  iy  ***  sh  iy  ***  k  ey  ***  ah  ***  l  iy  r  iy  ***  z  dh  ***  w  ao  ***  s  ***  ***  ***  ih  jh  er  n  ***  l  ***
+m3_251 op    D   C   S  C   S   S   C   D    D    D    D   S   S  C  C   C   D    S   C   D   C   C   D    C   D   C   C  C   C   D   C   C   D   C   C   D   C   D    D    D    S   C   C  C   D   C   D 
+m3_251 #csid 23 7 0 17
+m3_256 ref  sil  p   l   ae  n   d    p    eh  r  ah  n   t   hh  uh  d   ao   r    g   ah  n   ah  z  ey  sh  ah  n  z  p   r    ah  m  ow   t   b  er  th   k    ah  n  t  r   ow  l  sil
+m3_256 hyp  ***  p  ***  ae  n  ***  ***  ***  t  ae  n  ***  hh  ah  d  ***  ***  ***  er  n  ***  z  ey  sh  ah  n  s  p  ***  ***  l  ow  ***  b  er  th  ***  ***  n  k  r  ***  l  ***
+m3_256 op    D   C   D    C  C   D    D    D   S   S  C   D    C   S  C   D    D    D    S  C   D   C   C   C   C  C  S  C   D    D   S   C   D   C   C   C   D    D   C  S  C   D   C   D 
+m3_256 #csid 20 7 0 17
+m3_261 ref  sil  w  eh  dh  er  p   r   uw  f  g   ah  l  aa  sh  ah  z   aa   r    v   eh  r   iy  y   uw   s    f   ah  l   ih  n  s   iy  ae   t    ah  l  sil
+m3_261 hyp   s   w  ah   v  ah  p  ***  er  s  g  ***  l  aa   f  ah  z  ***  ***  ***  er  r  ***  y  ***  ***  ***   z  l  ***  n  s  ***  ae  ***  ***  l  sil
+m3_261 op    S   C   S   S   S  C   D    S  S  C   D   C   C   S   C  C   D    D    D    S  C   D   C   D    D    D    S  C   D   C  C   D    C   D    D   C   C 
+m3_261 #csid 15 9 0 13
+m3_266 ref  sil  sh   uh   d  jh  er  ae   f   s   b  iy  k   eh   p  t   ih  n  s   m   ao   l   z  uw  z  sil
+m3_266 hyp  ***  sh  ***  ah  jh  er  ae  ***  s  dh  ih  k  ***  ae  t  ***  n  s  ***  ao  ***  z  uw  z  ***
+m3_266 op    D    C   D    S   C   C   C   D   C   S   S  C   D    S  C   D   C  C   D    C   D   C   C  C   D 
+m3_266 #csid 13 4 0 8
+m3_271 ref  sil  ah  m  iy  b  ah  z  ch  ey   n   jh  sh  ey   p   k  aa   n  s   t    ah   n    t   l  iy  sil
+m3_271 hyp  ***  ah  m  iy  g  ah  z  ch  ey  ***  ng  sh  ey  ***  k  aa  jh  s  ***  ***  ***  ***  l  iy  sil
+m3_271 op    D    C  C   C  S   C  C   C   C   D    S   C   C   D   C   C   S  C   D    D    D    D   C   C   C 
+m3_271 #csid 15 3 0 7
+m3_276 ref  ***  ***  ***  sil  ah  ch  ow  z  ah  n   f   y  uw   w    ih  l   b   ih  k  ah  m  jh  eh   n    er  ah  l  z  sil
+m3_276 hyp   ah   f    iy   uw   t  ch  ow  z  ah  n  th  iy  uw  ***  ***  l  ***  ih  k  aa  n  jh  eh  ***  ***   r  l  z  sil
+m3_276 op    I    I    I    S    S   C   C  C   C  C   S   S   C   D    D   C   D    C  C   S  S   C   C   D    D    S  C  C   C 
+m3_276 #csid 14 7 3 5
+m3_281 ref  sil  m  ay  d  ih  z  ay  er   z    aa   r  s   ih   m  p  ah  l  g  ih   v   m  iy  w  ah   n    ih  n  f  ao   r   m   ah   t   ih   v   p   ae   r    ah   g  r  ae   f    aa   n   dh  iy  s  ah   b    jh   eh  k   t  sil
+m3_281 hyp   t   m  ay  n  ih  z  ay  er  ***  ***  ah  s  ***  ah  p   l  z  g  ih  ***  g  iy  w  ah  ***  ***  n  f  ao  ***  m  ***  ***  ih  ***  p  ***  ***  ***  er  r  ae  ***  ***  ***   k  ow  s  ah  ***  ***  ***  g  ah  sil
+m3_281 op    S   C   C  S   C  C   C   C   D    D    S  C   D    S  C   S  S  C   C   D   S   C  C   C   D    D   C  C   C   D   C   D    D    C   D   C   D    D    D    S  C   C   D    D    D    S   S  C   C   D    D    D   S   S   C 
+m3_281 #csid 24 12 0 19
+m3_286 ref  sil   dh   ae   t  d   ao   g  ch   ey   s  ah  z  k  ae  t   s   m  er  s   ah  l   ah  s  l   iy  sil
+m3_286 hyp  ***  ***  ***  eh  d  ***  ow  ch  ***  ih   z  s  k  ae  t  ***  m  er  s  ***  l  ***  s  l  ***   d 
+m3_286 op    D    D    D    S  C   D    S   C   D    S   S  S  C   C  C   D   C   C  C   D   C   D   C  C   D    S 
+m3_286 #csid 11 6 0 9
+m3_291 ref  sil  ah   l   eh  dh  er  hh  ae  n   d    b    ae   g  w   uh   d  b  iy   ah  s  uw   t    ah  b   ah   l  g  ih  f  t  sil
+m3_291 hyp  ***  ah  ***  aa  dh  er  hh  ae  n  ***  ***  ***  ay  w  ***  ih  b  iy  ***  s  uw  ***  ***  b  ***  ow  g  ih  f  t  sil
+m3_291 op    D    C   D    S   C   C   C   C  C   D    D    D    S  C   D    S  C   C   D   C   C   D    D   C   D    S  C   C  C  C   C 
+m3_291 #csid 17 4 0 10
+m3_296 ref  sil   ae   l  r   iy  s   iy   v    d  ah  jh   oy   n    t  ah  p  oy  n   t    m  ah  n   t   ih   n    dh   iy  b  ay  aa  l   ah  jh  iy  ah   n    d    dh   iy   eh  n   jh  ah  n   ih  r  ih  ng  d  ih  p   aa   r    t    m  ah   n    t   s  sil
+m3_296 hyp  ***  ***  aw  r  ***  s  ***  ***  uw  ah  jh  ***  ***  ay  ah  p  ay  n  ***  eh   d  n  ***  ih  ***  ***  ***  b   y  aa  l  ***   t  iy  ah  ***  ***  ***  ***  ***  n  ***  ah  n  ***  t  iy   r  g  ah  p  ***  ***  ***  er  ah  ***  ***  z  sil
+m3_296 op    D    D    S  C   D   C   D    D    S   C   C   D    D    S   C  C   S  C   D    S   S  C   D    C   D    D    D   C   S   C  C   D    S   C   C   D    D    D    D    D   C   D    C  C   D   S   S   S  S   S  C   D    D    D    S   C   D    D   S   C 
+m3_296 #csid 20 15 0 25
+m3_301 ref  sil  t  aa   d    p   l  ey  s   t   t  aa   p    p    r    ay  ao  r  ah  t  iy   aa   n  g   eh   t   ih   ng  hh  ih   z   b  ay   k   f  ih  k  s  t  sil
+m3_301 hyp  ***  t  aa  ***  ***  b  oy  s  ***  t  aa  ***  ***  ***  ***   f  r  er  d  iy  ***  ae  g  ***  ***  ih  ***   d  ih  ***  b  ay  ***  t  ah  k  s  t  sil
+m3_301 op    D   C   C   D    D   S   S  C   D   C   C   D    D    D    D    S  C   S  S   C   D    S  C   D    D    C   D    S   C   D   C   C   D   S   S  C  C  C   C 
+m3_301 #csid 16 9 0 14
+m3_306 ref  sil  dh   iy  d  aa   r   k  m  er   k   iy  l   ah  g  uw  n  w   aw   n    d  er  aw   n  d  f  r   er  m  ay  l  z  sil
+m3_306 hyp  ***  dh  ***  d  aa  ***  k  m  er  ***  iy  l  ***  g  uw  n  w  ***  ***  aa   t   r  aa  m  f  r  ***  m  ao  l  z  ***
+m3_306 op    D    C   D   C   C   D   C  C   C   D    C  C   D   C   C  C  C   D    D    S   S   S   S  S  C  C   D   C   S  C  C   D 
+m3_306 #csid 17 6 0 9
+m3_311 ref  sil   dh  iy  f  r  ay   t    ah  n   d   ch  ay  l   d    w    ao   z   jh  eh   n   t  l  iy  s  ah   b    d  uw   d   b  ay   hh   ih  z   b  ih  g  b  r  ah  dh  er  sil
+m3_311 hyp  ***  ***   k  f  r  ay  ***  ***  n  ***  ch  ae  l  ***  ***  ***  ***  jh  eh  ***  d  l  ih  s  ah  ***  jh  uw  ***  b  ay  ***  ***  z  dh  ih  n  b  r  ah   n  er  sil
+m3_311 op    D    D    S  C  C   C   D    D   C   D    C   S  C   D    D    D    D    C   C   D   S  C   S  C   C   D    S   C   D   C   C   D    D   C   S   C  S  C  C   C   S   C   C 
+m3_311 #csid 21 8 0 14
+m3_316 ref  sil  dh  iy  p  r  iy  s   k    uw   l  er  k   uh   d   ah  n   t    v    er  b  ah  l  ay   z   hh  er  f  iy  l  ih  ng  z   ah  b   aw   t  dh  iy   ih  m  er  jh  ah   n   s  iy  k   ah  n  d  ih  sh   ah  n  z  sil
+m3_316 hyp  ***  dh  ih  p  r  iy  s  ***  ***  ow  er  k  ***  ***  eh  n  ***  ***  ***  b  er  w  ay  ***   s  eh  f   y  l  ih   n  z  ***  b  ***  aa   p  iy  ***  m   r  jh  ah  ***  s  ih  k  ***  n  d  ih  sh  ***  n  z  sil
+m3_316 op    D    C   S  C  C   C  C   D    D    S   C  C   D    D    S  C   D    D    D   C   S  S   C   D    S   S  C   S  C   C   S  C   D   C   D    S   S   C   D   C   S   C   C   D   C   S  C   D   C  C   C   C   D   C  C   C 
+m3_316 #csid 28 13 0 15
+m3_321 ref  sil  ah  l   ao   y  er  w   ao  z  ah  p  oy   n    t    ah   d  t   uw  eh  k  s  ah  k  y   uw   t   hh  er  w  ih  l  sil
+m3_321 hyp  ***  ah  l  ***  oy   r  w  ***  s  ah  p  oy  ***  ***  ***  ih  t  ***  eh  k  s  ih  k  y  ***  ***   d  er  w  eh  l  sil
+m3_321 op    D    C  C   D    S   S  C   D   S   C  C   C   D    D    D    S  C   D    C  C  C   S  C  C   D    D    S   C  C   S  C   C 
+m3_321 #csid 16 7 0 9
+m3_326 ref  sil   dh  iy  s  ih  s   t    ah   m  m  ey   b   r   ey   k  d  aw  n  s  uw  n  s  ow  s  ey   v    y    ao  r  f   ay   l    z  f  r   iy  k   w   ah   n    t   l  iy  sil
+m3_326 hyp  ***  ***  ih  s  ih  s  ***  ***  ih  n  ey  ***  r  ***  ih  t  aa  n  s  ah  n  z  ah  s  ey  ***  ***  ***  r  f  ***  ***  aa  s  r  ***  k  ***  ah  ***  ***  l  iy  ***
+m3_326 op    D    D    S  C   C  C   D    D    S  S   C   D   C   D    S  S   S  C  C   S  C  S   S  C   C   D    D    D   C  C   D    D    S  S  C   D   C   D    C   D    D   C   C   D 
+m3_326 #csid 17 11 0 16
+m3_331 ref  sil  dh  iy  g   ah   n  m   ah   n  k  eh  p   t    hh  ih  z   v   ih   k   t  ah   m  k  ao   r    n   er  d   ae   t  g  ah  n  p   oy   n  t   f    r   er  th  r  iy  aw  er  z  sil
+m3_331 hyp  ***  dh  ih  g  ***  aa  m  ***  ey  k  ih  p  ***  ***  ih  z  ***  ih  ***  t  ih  ng  k  ao  ***  ***  er  d  ***  ih  g  ah  n  p  ***  ay  t  ***  ***  ah  th  r  iy  aw  er  z  ***
+m3_331 op    D    C   S  C   D    S  C   D    S  C   S  C   D    D    C  C   D    C   D   C   S   S  C   C   D    D    C  C   D    S  C   C  C  C   D    S  C   D    D    S   C  C   C   C   C  C   D 
+m3_331 #csid 24 9 0 14
+m3_336 ref  sil   dh   ae   t  n  oy  z  p   r   aa  b   l   ah   m   g  r  ow  z  m  ao  r   ah  n  oy  ih  ng  iy  ch  ***   d  ey  sil
+m3_336 hyp  ***  ***  ***  eh  n  oy  z  p  ***  aa  b  ***  ah  ***  n  r  ow  z  m  ao  r  ***  n  ow  ay   n  iy  ch   dh  ih   d  sil
+m3_336 op    D    D    D    S  C   C  C  C   D    C  C   D    C   D   S  C   C  C  C   C  C   D   C   S   S   S   C   C   I    S   S   C 
+m3_336 #csid 17 7 1 7
+m3_341 ref  sil   w    ih   m   ah  n  m  ey  n  eh  v  er  b  ih  k   ah  m  k   ah   m    p    l    iy   t   l  iy  iy  k   w    ah  l  t   uw  m  eh  n  sil
+m3_341 hyp  sil  ***  ***  ***  ah  n  m  ih  n  eh  v  er  b  iy  k  ***  m  k  ***  ***  ***  ***  ***  ***  b  ey  iy  k  ***  ***  l  t  ***  n  eh  n  ***
+m3_341 op    C    D    D    D    C  C  C   S  C   C  C   C  C   S  C   D   C  C   D    D    D    D    D    D   S   S   C  C   D    D   C  C   D   S   C  C   D 
+m3_341 #csid 18 5 0 14
+m3_346 ref  sil  w   iy  w   eh   l    k  ah   m   m  eh   n   iy  n  uw  s  t   uw   d   ah  n   t   s  iy  ch  y   ih   r   sil
+m3_346 hyp  ***  w  ***  w  ***  ***  aa  ah  ***  m  eh  ***  ng  n  ah  s  t  ***  ***  ey  n  ***  s  iy  ch  y  ***  ***   er
+m3_346 op    D   C   D   C   D    D    S   C   D   C   C   D    S  C   S  C  C   D    D    S  C   D   C   C   C  C   D    D    S 
+m3_346 #csid 13 5 0 11
+m3_351 ref  sil  w  ih   ch  ch  er  ch  d  uw  dh  iy  s  m   ih  th  s   w   er  sh  ah  p  ih  n  sil
+m3_351 hyp  ***  w  ih  ***   t   s  ch  r  sh   t  ih  s  m  ***  ah  s  ***   r  sh  er  b  ah  n  sil
+m3_351 op    D   C   C   D    S   S   C  S   S   S   S  C  C   D    S  C   D    S   C   S  S   S  C   C 
+m3_351 #csid 9 11 0 4
+m3_356 ref  sil  dh   ey   ao   l  l  ay  k   l   ao  ng  hh  aa   t   sh  aw  er  z  sil
+m3_356 hyp  sil  dh  ***  ***  ae  l  ay  k  ***  ao   n  hh  aa  ***  ch  aw  er  z  sil
+m3_356 op    C    C   D    D    S  C   C  C   D    C   S   C   C   D    S   C   C  C   C 
+m3_356 #csid 12 3 0 4
+m3_361 ref  sil  t  ih  m  t  ey  k   s   sh  iy  l   ah  t  uw  s  iy  m  uw   v   iy  z  t   w   ay  s   ah   w  iy   k   sil
+m3_361 hyp  ***  t  ae  n  t  ey  k  ***  sh  iy  l  ***  d  ih  s  iy  n  uw  ***  iy  s  t  ***  ay  s  ***  uw  iy  ***  sil
+m3_361 op    D   C   S  S  C   C  C   D    C   C  C   D   S   S  C   C  S   C   D    C  S  C   D    C  C   D    S   C   D    C 
+m3_361 #csid 16 7 0 7
+m3_366 ref  sil  hh  er   w   ao   r    d   r   ow   b    k  ah   n  s  ih  s   t   s  ah   v    ow   n   l  iy  s   k   er  t   s   ah   n    d   b   l   aw  s  ah  z  sil
+m3_366 hyp  ***  hh  er  ***  ao  ***  ***  r  ***  ***  ah   p  ih  s  ih  s  ***  s  ah  ***  ***  ***  l  ih  s  ***  er  t  ***  ah  ***  ***  b  ***  ow  s  ah  z  ***
+m3_366 op    D    C   C   D    C   D    D   C   D    D    S   S   S  C   C  C   D   C   C   D    D    D   C   S  C   D    C  C   D    C   D    D   C   D    S  C   C  C   D 
+m3_366 #csid 18 5 0 16
+m3_371 ref  sil  ay  d  r  ay  d   dh   iy  s  ah   b   w  ey  b  ah   t   ay  hh  ae  v   ah   n    t   ih  n  ah  f  ch  ey   n   jh  sil
+m3_371 hyp  ***  ay  d  r  eh  d  ***  ***  s  ah  ***  w  ey  b  ah  ***  ay  hh  ae  v  ***  ***  ***  eh  n  ah  f  ch  ey  ***  jh  sil
+m3_371 op    D    C  C  C   S  C   D    D   C   C   D   C   C  C   C   D    C   C   C  C   D    D    D    S  C   C  C   C   C   D    C   C 
+m3_371 #csid 21 2 0 9
+m3_376 ref  sil   m   uw  v   dh  iy  g  aa   r    b  ih  jh  n   ih   r  er  t   uw   dh  iy  l   aa   r  jh  w  ih  n   d   ow  sil
+m3_376 hyp  ***  ***  uw  v  ***  ih  g  aa  ***  er   r  jh  n  ***  ey  er  t  ***  ***  ow  l  ***  er  jh  w  ih  n  ***  ah   t 
+m3_376 op    D    D    C  C   D    S  C   C   D    S   S   C  C   D    S   C  C   D    D    S  C   D    S   C  C   C  C   D    S   S 
+m3_376 #csid 13 8 0 9
+m3_381 ref  sil  w  ah   n    s   y  uw   f  ih  n  ih   sh  g  r  iy  s  ih   ng  y   ao  r  ch  ey  n   b   iy  sh   uh  r  t  uw  w  aa   sh  th  er  ow  l  iy  sil
+m3_381 hyp  ***  w  ah  ***  ***  t  iy  th  ey  d  ih  ***  s  r  iy  s  ih  ***  y  ***  r  ch  ey  n  ***  iy  sh  ***  r  d  ah  w  aa  ***   s  dh   r  l  iy  ***
+m3_381 op    D   C   C   D    D   S   S   S   S  S   C   D   S  C   C  C   C   D   C   D   C   C   C  C   D    C   C   D   C  S   S  C   C   D    S   S   S  C   C   D 
+m3_381 #csid 19 11 0 10
+m3_386 ref  sil  ah  k  r  ae  b  ch  ae   l   ah  jh  d  m  iy  b   ah   t   ah  k   w   ih  k  s   t   ae   b   v   ae   ng   k  w  ih  sh  t   hh   ih   m  sil
+m3_386 hyp  ***  ah  k  r  ae  b  ch  ae  ***  aa   n  z  n  iy  b  ***  ***  ih  k  ***  ih  k  s  ***  ae  ***  v  ***  ***  ay  w  ih  sh  t  ***  ***  uw  sil
+m3_386 op    D    C  C  C   C  C   C   C   D    S   S  S  S   C  C   D    D    S  C   D    C  C  C   D    C   D   C   D    D    S  C   C   C  C   D    D    S   C 
+m3_386 #csid 20 7 0 11
+m3_391 ref  sil  iy  ch   s   t  ae   g  sh   uh   r    l  iy  f  ay  n  d   z    ah  b  ih  g  f  ao  n  sil
+m3_391 hyp  ***  iy  ch  ***  t  ae  ay  sh  ***  ***  ow  iy  f  ay  n  d  ***  ***  b  ih  g  f  ao  m  sil
+m3_391 op    D    C   C   D   C   C   S   C   D    D    S   C  C   C  C  C   D    D   C   C  C  C   C  S   C 
+m3_391 #csid 16 3 0 6
+m3_396 ref  sil   dh  iy  ae   d    v   er  t  ay  z  ih  ng  v  er  s  ah   v   p   l   ih  m  ah   th   v    er   ay  ah  t  iy  s   t    ao   r  n  eh  v  er  ch  ey   n   jh  ah  z  sil
+m3_396 hyp  ***  ***  iy  ae  ***  ***   r  t  eh  z  ih  ng  b  er  s  ah  ***  p  ***  ah  m  ah  ***  ***  ***  ***   f  r  iy  s  ***  ***  er  n  eh  v   r  ch  ey  ***   g  ih  z  sil
+m3_396 op    D    D    C   C   D    D    S  C   S  C   C   C  S   C  C   C   D   C   D    S  C   C   D    D    D    D    S  S   C  C   D    D    S  C   C  C   S   C   C   D    S   S  C   C 
+m3_396 #csid 21 10 0 13
+m3_401 ref  sil  t  aa  m  ah  s   th  ih   ng  k  s  ah  l  aa  r  jh  er  k   l   ae  m   p    s  aa  l   v   z   dh   iy  p  r  aa   b   l   ah   m   sil
+m3_401 hyp  ***  t  aw  n  ah  s  ***  ih  ***  n  s  ah  l  aa  r  jh  er  k  ***  ay  m  ***  ch  ah  l  ***  z  ***  ***  p  r  aa  ***  l  ***  ***  sil
+m3_401 op    D   C   S  S   C  C   D    C   D   S  C   C  C   C  C   C   C  C   D    S  C   D    S   S  C   D   C   D    D   C  C   C   D   C   D    D    C 
+m3_401 #csid 20 6 0 11
+m3_406 ref  sil  dh   iy  th  ih  k  eh  l  m  f  ao   r    ah   s    t  w  ao  z   n   ih  r   l   iy  ow  v  er  w   eh  l   m    d   b   ay   d   ah  ch  eh  l   m  d  ih  z  iy  z  sil
+m3_406 hyp  ***  dh  ***  th  ih  k  ae  l  m  f  ao  ***  ***  ***  er  z  ah  z  ***   y  r  ***  iy  ow  v  er  w  ***  l  ***  ***  b  ***  ***  ih   b  eh  t  aa  m  dh  z  iy  z  ***
+m3_406 op    D    C   D    C   C  C   S  C  C  C   C   D    D    D    S  S   S  C   D    S  C   D    C   C  C   C  C   D   C   D    D   C   D    D    S   S   C  S   S  S   S  C   C  C   D 
+m3_406 #csid 21 11 0 13
+m3_411 ref  sil  dh  ow  z   m    y   uw  z  ih  sh  ah   n    z   hh  aa   r   m   ah  n  ay  z  m  aa   r    v   ah  l   ah  s  l  iy  sil
+m3_411 hyp  ***  dh  ah  z  ***  ***  iy  z  ih  sh  ah  ***  ***   s  aa  ***  m  ***  n  ay  z  m  aa  ***  ***   b  l  ***  s  l   d  sil
+m3_411 op    D    C   S  C   D    D    S  C   C   C   C   D    D    S   C   D   C   D   C   C  C  C   C   D    D    S  C   D   C  C   S   C 
+m3_411 #csid 17 5 0 10
+m3_416 ref  sil   dh  ae  t   p   ih   k   p  aa  k   ah   t  w   ao  z  k  aa   t   r  eh   d   hh  ae  n   d   ih  d  sil
+m3_416 hyp  ***  ***  eh  t  ***  ih  ***  t  aa  k  ***  ow  w  ***  s  k  aa  ***  r  eh  ***   n  ae  n  ***  ih  d  sil
+m3_416 op    D    D    S  C   D    C   D   S   C  C   D    S  C   D   S  C   C   D   C   C   D    S   C  C   D    C  C   C 
+m3_416 #csid 14 5 0 9
+m3_421 ref  sil   hh  ih  s  p  ae   n   ih   k  k  aa  s  t  uw  m  z   aa   r  k   w   ay   t   k   ah  l  er  f   ah  l  sil
+m3_421 hyp  ***  ***   k  s  p  ae  ***   t  ay  k  aa  s  t  ih  n  z  ***  eh  k  ***  ay  ***  k  ***  l  er  f  ***  l  ***
+m3_421 op    D    D    S  C  C   C   D    S   S  C   C  C  C   S  S  C   D    S  C   D    C   D   C   D   C   C  C   D   C   D 
+m3_421 #csid 15 6 0 9
+m3_426 ref  sil   dh   iy  iy  z  iy  g  ow   ih  ng  z   ow   aa   l   ah  jh  ah  s   t   r   ih  l  ae  k  s   t    th  r   uw   aw   t   dh  iy   v  oy   ah  jh  sil
+m3_426 hyp  ***  ***  ***  iy  z  ih  g  ow  ***  ay  z  ***  ***  ***  ao   b  ih  s  ***  r  ***  l  ay  k  s  ***  ***  r  ***  ***  ***  ah   b  ow  oy  ***  jh  ***
+m3_426 op    D    D    D    C  C   S  C   C   D    S  C   D    D    D    S   S   S  C   D   C   D   C   S  C  C   D    D   C   D    D    D    S   S   S   C   D    C   D 
+m3_426 #csid 13 9 0 16
+m3_431 ref  sil  n   aa   n  p   r   aa   f    ah   t    ao   r   g  ah  n   ah  z  ey  sh  ah  n  z   hh   ae   v  f  r   iy   k    w    ah  n   t  f  ah  n   d   r   ey  z  er  z  sil
+m3_431 hyp  ***  n  ***  aw  p  ***  aa  ***  ***  ***  ***  ***  d  er  n  ***  z  ey  sh  ah  n  z  ***  ***  eh  f  r  ***  ***  ***  ***  g  ih  f  ah  n  ***  r  ***  z  ah  z  sil
+m3_431 op    D   C   D    S  C   D    C   D    D    D    D    D   S   S  C   D   C   C   C   C  C  C   D    D    S  C  C   D    D    D    D   S   S  C   C  C   D   C   D   C   S  C   C 
+m3_431 #csid 19 7 0 17
+m3_436 ref  sil  er   b    z  b  er  th   d   ey  f  r  iy  k   w   ah   n    t    l   iy  ah  k  er  z  aa  n  th  ae  ng   k   s  g  ih  v  ih  ng  sil
+m3_436 hyp   hh  er  ***  ih  p  er  th  ***  ey  f  r  ih  k  ***  ah  ***  ***  ***   m  ey  k   r  z  ah  n   b  ih  ng  ***  s  g  ih  n  ah  ng  sil
+m3_436 op    S    C   D    S  S   C   C   D    C  C  C   S  C   D    C   D    D    D    S   S  C   S  C   S  C   S   S   C   D   C  C   C  S   S   C   C 
+m3_436 #csid 17 12 0 7
+m3_441 ref  sil  r  aa  k   ah   n    d  r  ow   l    m   y  uw  z  ih  k   hh  ae  z  ah  g  r  ey  t  r  ih  dh  ah  m  sil
+m3_441 hyp  ***  r  ae  k  ***  ***  eh  m  ow  ***  ***  n  iy  z  ih  k  ***  ah  z  ih  g  r  ih  p  r  ih   v  ah  m  sil
+m3_441 op    D   C   S  C   D    D    S  S   C   D    D   S   S  C   C  C   D    S  C   S  C  C   S  S  C   C   S   C  C   C 
+m3_441 #csid 14 10 0 6
+m3_446 ref  sil  dh   iy  s   p   iy   ch  s   ih   m  p  ow  z  iy   ah   m   m  ay   t    b    ih  g  ih  n  aa   n  m  ah  n   d   iy  sil
+m3_446 hyp  sil  dh  ***  s  ***  iy  ***  s  ***  ah  b  ow  z  iy  ***  ***  m  ay  ***  ***  ***  g  iy  g  iy  ah  m  ah  n  ***  ih  sil
+m3_446 op    C    C   D   C   D    C   D   C   D    S  S   C  C   C   D    D   C   C   D    D    D   C   S  S   S   S  C   C  C   D    S   C 
+m3_446 #csid 15 7 0 10
+m3_451 ref  sil   ch   ih  l   d  r   ah  n  k   ae   n   k  ah  n  s  uw   m   m   eh   n  iy  f  r   uw   t   r   ow  l   ah   p  s   ih   n  w  ah  n  s  ih  t  ih  ng  sil
+m3_451 hyp  ***  ***  ***  t  ow  r  ***  n  k  ***  ih  ng  ih  n  s  uw  ***  m  ***  ah  iy  f  r  ***  ***  r  ***  l  ***  aa  s  ***  ah  w  ah  n  z  ah  t  ih  ng  ***
+m3_451 op    D    D    D   S   S  C   D   C  C   D    S   S   S  C  C   C   D   C   D    S   C  C  C   D    D   C   D   C   D    S  C   D    S  C   C  C  S   S  C   C   C   D 
+m3_451 #csid 19 10 0 13
+m3_456 ref  sil  ah  m   ao  th   z  ih  g  z  ae  g   d   ah  l  ao   ng  dh  iy  p  ae   th  th  r   uw   aa   t   ow  z  g  aa  r  d   ah   n   sil
+m3_456 hyp  ***  ah  m  ***  aa  dh  ih  n  d  ay  g  ***  ah  w  ao  ***   n  ih  p  ae  ***   f  r  ***  ***  ***  ow  s  g  aa  r  d  ***  ***  sil
+m3_456 op    D    C  C   D    S   S   C  S  S   S  C   D    C  S   C   D    S   S  C   C   D    S  C   D    D    D    C  S  C   C  C  C   D    D    C 
+m3_456 #csid 15 10 0 10

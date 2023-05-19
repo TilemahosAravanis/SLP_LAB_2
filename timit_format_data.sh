@@ -33,7 +33,7 @@ done
 
 echo Preparing language models for test
 
-for lm_suffix in bg; do
+for lm_suffix in ug bg; do
   test=data/lang_test_${lm_suffix}
   mkdir -p $test
   cp -r data/lang/* $test
@@ -64,7 +64,8 @@ for lm_suffix in bg; do
 done
 
 utils/validate_lang.pl data/lang_test_bg || exit 1
+utils/validate_lang.pl data/lang_test_ug || exit 1
 
 echo "Succeeded in formatting data."
-rm -r $tmpdir
+# rm -r $tmpdir
 

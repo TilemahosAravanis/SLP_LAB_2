@@ -1,0 +1,7 @@
+# convert-ali ./exp/mono_ug_ali/final.mdl ./exp/tri1_ug/1.mdl ./exp/tri1_ug/tree "ark:gunzip -c ./exp/mono_ug_ali/ali.1.gz|" "ark:|gzip -c >./exp/tri1_ug/ali.1.gz" 
+# Started at Fri May 19 15:33:54 EEST 2023
+#
+convert-ali ./exp/mono_ug_ali/final.mdl ./exp/tri1_ug/1.mdl ./exp/tri1_ug/tree 'ark:gunzip -c ./exp/mono_ug_ali/ali.1.gz|' 'ark:|gzip -c >./exp/tri1_ug/ali.1.gz' 
+LOG (convert-ali[5.5.1071~1-19185]:main():convert-ali.cc:120) Succeeded converting alignments for 331 files, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Fri May 19 15:33:54 EEST 2023, elapsed time 0 seconds

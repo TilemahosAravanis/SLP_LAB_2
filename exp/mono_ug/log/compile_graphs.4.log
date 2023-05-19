@@ -1,0 +1,7 @@
+# compile-train-graphs --read-disambig-syms=./data/lang_test_ug/phones/disambig.int ./exp/mono_ug/tree ./exp/mono_ug/0.mdl ./data/lang_test_ug/L.fst "ark:sym2int.pl --map-oov 1 -f 2- ./data/lang_test_ug/words.txt < ./data/train/split4/4/text|" "ark:|gzip -c >./exp/mono_ug/fsts.4.gz" 
+# Started at Fri May 19 14:12:21 EEST 2023
+#
+compile-train-graphs --read-disambig-syms=./data/lang_test_ug/phones/disambig.int ./exp/mono_ug/tree ./exp/mono_ug/0.mdl ./data/lang_test_ug/L.fst 'ark:sym2int.pl --map-oov 1 -f 2- ./data/lang_test_ug/words.txt < ./data/train/split4/4/text|' 'ark:|gzip -c >./exp/mono_ug/fsts.4.gz' 
+LOG (compile-train-graphs[5.5.1071~1-19185]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 331 graphs, failed for 0
+# Accounting: time=1 threads=1
+# Ended (code 0) at Fri May 19 14:12:22 EEST 2023, elapsed time 1 seconds
